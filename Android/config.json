@@ -1,5 +1,0 @@
-{
-  "ANDROID_JAR_DIR": "/home/android.jar",
-  "APP_PATH": ["/app/diagnostic/com.iViNi.DrMercedesLite.apk"],
-  "API": {"<android.bluetooth.BluetoothGattCharacteristic: boolean setValue(byte[])>": 0}
-}

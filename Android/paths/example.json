@@ -1,2 +1,0 @@
-
-{"0":[{"Path":[["$r3 = newarray (byte)[6]","$r3[0] = 65","$r3[1] = 84","$r3[2] = 82","$r3[3] = 86","$r3[4] = 13","$r3[5] = 10","virtualinvoke $r2.<android.bluetooth.BluetoothGattCharacteristic: boolean setValue(byte[])>($r3)"]],"UI":[null],"Arguments":[[]],"Model":[null]}]}
