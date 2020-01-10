@@ -1,0 +1,132 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Sharan",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Sharan",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Sharan",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Sharan",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Sharan",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Sharan",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Sharan",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Sharan",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Sharan",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Sharan",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70C",
+        "Model": "Sharan",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Sharan",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Sharan",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Sharan",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "76A",
+        "Model": "Sharan",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "7D4",
+        "Model": "Sharan",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "710",
+        "Model": "Sharan",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Sharan",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "71D",
+        "Model": "Sharan",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "Sharan",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "711",
+        "Model": "Sharan",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Sharan",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "74C",
+        "Model": "Sharan",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Sharan",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "754",
+        "Model": "Sharan",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Sharan",
+        "Semantics": "Xenon Range"
+    }
+]

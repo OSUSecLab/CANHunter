@@ -1,0 +1,362 @@
+[
+    {
+        "Command": "248",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "648",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "243",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "643",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E0",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E8",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "249",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "649",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "250",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "650",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E2",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EA",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "24C",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "64C",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "25E",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "65E",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "24D",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "64D",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "253",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "653",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E6",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EE",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E5",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7ED",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "241",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "641",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "24F",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "64F",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "25F",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "65F",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "25D",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "65D",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "247",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "647",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "254",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "654",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "257",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "657",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "258",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "658",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E7",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EF",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "245",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "645",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "25B",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "65B",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "24E",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "64E",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "25C",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "65C",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "24A",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "64A",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E4",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EC",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "246",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "646",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E1",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E9",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "251",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "651",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E3",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EB",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "24B",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "64B",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "244",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "644",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "242",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "642",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "252",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "652",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "259",
+        "Model": "Opel",
+        "Semantics": ""
+    },
+    {
+        "Command": "659",
+        "Model": "Opel",
+        "Semantics": ""
+    }
+]

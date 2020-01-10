@@ -1,0 +1,1607 @@
+[
+    {
+        "Command": "121A805A80000008512047001200205A5A20110727080802304350390303010000000000047367943020406430303839544A3030303839544A304143503946",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "121A9B5A9B12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230007F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230107F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230207F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230307F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232007F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232107F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232407F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232607F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "181A805A8000000759197120050204534D2011031708001D45D7400102030A000000000007568222224915383034373953413030343739534130543634315A",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "181A9B5A9B05",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "191A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "171A805A8000000727604606131010564420050804070013030600030402030000010000072680281900234130303731515630303037315156304630333041",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "171A9B5A9B13",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "172230006230000107D04107D04B08B4640AEC960F5EC813CFFE189C014D414DFE9D018C418CFE8C4B0708730E74",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223001623001325100080014640A690A0000000000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223002623002A030B41801FFFFFFFFFFFF0000B43C0382961700FF5A3CDC060000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "781A805A80000009250391040205D8584820110801560017670608010402020000000000092217341137199030353632413632303536324136314631303041",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "781A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230006230009DC884079701010101010F19191E024A28010000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "791A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "291A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "011A805A8000000924829803260CA14E4B2011062908001F4622320003280A000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "011A9B5A9B26",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223000623000FF500004C3F5F9E40800",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300162300114080F3425FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300262300218050811061000000000453648602000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300362300300FE",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230106230100104",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230117F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230113D3DF0F0060B060B06060B0B06060B0B06060B0B06060B0B06060B0B06060B0B06060B0B190000000000000000000000000000000000000000000000D1C9D5AA",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230207F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302001C600220022402140210020002000800080FFFFFFFF05B50400000000000000B051EF34",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230217F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230210505030032281414916C71D883519C000014FF9BFF1E182800815E7D5EFFFFBC593802BC25964B5732F0646BA8FF3E7D2E532E6257A8FF3E91385A456271002F",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230227F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302296006E01000096FFFF00FFFF0000010304BC4C00456A587D645E582343356A6E7D46A56E7D4A4236356C262D2F2CE12632593F5762722D626EFF6A4B2A38FFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230237F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623023392F9C3E2B31524B312F3924647D585858172C6E7D6983383E38512F3E538A7D93685E7106357CFF00FFFF8D7D6D426D2A7F262D2D26C81E326D3CFFFFFF4562",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230247F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302480FF70512964FFFF40339C442B31524B524B5224647D67FF8A271C6E7D2383383E38512F3E016D45A570A7A570A7FFE0706D8DFFFF9A71483254339C3E484A70",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230257F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230254B58356D20647D700F0219504B191E7812325E35000001040404040119193212082408193200A001969C4E9C001D4DBC001C156D0015F4FF6480420008182005",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230267F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230261818082018200005AFAF9CAF9C0064640000000000000000000000000000000000000000000000000000000000000000000000000000000000000000AF4C8861",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230277F2278",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623027020A02020A070102140A010D01A501509C8C2D64327B6B961B4802210A49836C05037796C82A260271080032191964000000000000000000B879EDA3",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "0E1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "091A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CENTER_SAFETY"
+    },
+    {
+        "Command": "0A1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "B_PILLAR_LEFT_SAFETY_2"
+    },
+    {
+        "Command": "601A805A80000009242395270808D05250201107256300176BB34181030300000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "601A9B5A9B08",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223000623000DBEE0A041E3200320A1E0A1EEB2A0014FF0F",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300162300160FFFFFFFFFFFFFFF7FFFFFFFFFFFFFFFFFFBFFFFFFFFFBFFFFFFFFFEFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFBFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFF7F0300",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300262300200B25E4DA1AA5F55A0",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230036230034C4C",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223004623004924BE5F3EB00210500000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223005623005871A400A0582030377002C3A40460018293137",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230066230061EFFFFFFFF7D0A32025F00BA0172020403D4033C001301F901E102D403FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223007623007F60303FFFFF6",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223008623008272840DC052C013C00100E5046FFFFE01E103657",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300962300927500A4132913091188218920192303C83829291818191839332FFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300A7F2210",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223050623050F6F23F0A0A78F37B0D00C6",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223106623106DCFE0000000000130F00000000000000000000F00000000000406000000000000000000000011078C8B0FFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223B02623B027061110001110021B100611100611100",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C03623C033C05081120",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C04623C0484018D00",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C0F623C0F18081000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "1C1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "301A805A800000067988920103094052442011072751001D7C060500040004000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DYNAMIC_MANAGEMENT"
+    },
+    {
+        "Command": "301A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DYNAMIC_MANAGEMENT"
+    },
+    {
+        "Command": "201A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "211A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TPMS"
+    },
+    {
+        "Command": "161A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "021A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "231A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "391A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ACTIVE_ROLL_STABILIZATION"
+    },
+    {
+        "Command": "381A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "EDC_REAR_RIGHT"
+    },
+    {
+        "Command": "2A1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "AIR_SUSPENSION"
+    },
+    {
+        "Command": "711A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "401A805A80000009287535C40906A05341201107260400000002080003030000000000000694380530313930303034324A4D42303034324A4D424632323853",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "401A9B5A9B09",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210106210105742414459333230583045363438363032",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210116210112664040F1404E208085064",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221012621012303437354C434358",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022101362101330303030300C0A0B",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221014621014000806FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221A907F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230006230000F3F06513C1E1E320F0E081E8B00BB00000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230016230016AE9A20602001002180140BF000000000000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230026230022600F8FFBF000523052333190F051E14000A000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300362300340051408083C280009010000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223004623004800505140209AA280B3203002100",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223005623005570A05270000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300662300600000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F00623F00024134519594FF9394D24145D5B238F8",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F01623F0141041041041041041041041041041042",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F02623F02118E14638918E4490552456493412896",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F03623F034B08534124D24134D75124D449851345",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F04623F0445115156545D0518454654522E554125",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F05623F05505D54915524954D4554415593561AD6",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F06623F065145964D66545996169AC5D05174555D",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F07623F076417E216114985506154D85D7618418C",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F08623F08D26334D8CED634B18D2E121419425B6F",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F09623F0984CAF2864BEBBF3000FFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0A623F0AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0B623F0BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0C623F0CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0D623F0DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0E623F0EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0F623F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "411A805A8000000914799708070750484A2011070846001057060200030300000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "411A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "501A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ALARM"
+    },
+    {
+        "Command": "641A805A80000009252639040509E0475220090720080015B8040D02030300000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "641A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "671A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "651A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ERGO_COMMANDER"
+    },
+    {
+        "Command": "701A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CENTER_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "221A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "LIGHT_SWITCH"
+    },
+    {
+        "Command": "5F1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ADAPTIVE_LIGHT"
+    },
+    {
+        "Command": "721A805A8000000924908108320E60564520110719090013090E1E000414000000000000092062420001881430303932454730303039324547304632333041",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "721A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722210106210105742414459333230583045363438363032",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72221A907F2212",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300062300080063000FFD805AAFF00000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223001623001508A3E4046961C2316640A07070D0A0D",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230026230021E32080A32191E104030143D19150000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230036230033701060C64AF961E400F0A320A50781A",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223004623004641432641E0AFE0A0628023C96060A20",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230056230053701060C64AF961E400F0A320A50781B",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223006623006641432641E0AFF0A0628023C96060A20",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223007623007080510080803731660823C4E01052328",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300862300804EA2E08000041463364D42A00000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223009623009C7EC6400C7005A00C7005A00E8152800",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223010623010C7002800282D506E8C1E4664060F0C05",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222301162301164383032280550303664642D4182AA43",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230126230123012FD12FE120EFD0EFE0E7E9D663598",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223013623013B88B1864640813817232619012F80032",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223400623400C000F0000000CC0FF30C000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223401623401AD11758723D439072A887A5647303899",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223402623402F10711EE014001C00E0E000000006832",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340362340351209E03060219190000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340462340410001000100010001FFF1FFF1FFF1FFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234056234050B8D100010001FFF10000C2D1FFF1FFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340662340610001FFF1FFF1FFF1FFF1FFF1FFF0B8E",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234076234071000082D0C2D1FFF10000B8D0B051FFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223408623408E0810000AD25FC6408FFBF0028320240",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340962340900000000000000000000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340A62340AFB277FD77AA90A0A5614043780888888",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340B62340B88715E51473F362F2F2F2F2F2F2F1B4F",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340C62340C00009D302448391A1A3C0A9E00000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340D62340D000FB2063C1E1405C8220A97402B2814",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340E62340E2012073800C80C051455000500000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340F62340F078A0132461921010A1B0FFF0F000714",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341062341014530120A00200000030000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234116234113E2D01010501003A0000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223412623412C000800005040ABB07C13F1A35910555",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341362341310F31000000000000A10401401200000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341462341400320F5F00C9000000000000FFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341562341528242824282C28242824282400000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341662341600020002000200020002000200000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341762341700000000000000000000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341862341800000000000000000000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350062350045003130313130395A5D01050065A800",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235016235017CB0207DA1596B7CB0207DA1596BB08C",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350262350200000000000000000000000000000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235036235031E070832E6D296050C0F2300D503A120",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350462350406070B1182C2000006070B000000B4BA",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235056235051250500A0D002D0626DD000000A5A54B",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223506623506432A1111393C3C1B1812060610FFA48E",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350762350782822F2D2D1106C6C6FF285AA0144431",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350862350835160000000000000B00000000008187",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350962350901039B7603E6E132840000000000B10D",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350A62350A000C1919040800000001AA163C3C22E4",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350B62350BD93E2103968CFF019200006B142C48A1",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350C62350C00A02C0012AF000016281818120059A6",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350D62350D1E2420C83C500600030000033C50DB44",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350E62350E24FFFFFFFFFFFFFFFFFFFFFFFFFFB5B6",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350F62350F3C2A0A0A952DFFFFFFFFFFFFFFFF8113",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F00623F00024134519594FF9394D24145D5B238F8",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F01623F0141041041041041041041041041041042",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F02623F02118E14638918E4490552456493412896",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F03623F034B08534124D24134D75124D449851345",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F04623F0445115156545D0518454654522E554125",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F05623F05505D54915524954D4554415593561AD6",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F06623F065145964D66545996169AC5D05174555D",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F07623F076417E216114985506154D85D7618418C",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F08623F08D26334D8CED634B18D2E121419425B6F",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F09623F0984CAF2864BEBBF3000FFFFFFFFFFFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "271A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "431A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "PASSIVE_GO_SYSTEM"
+    },
+    {
+        "Command": "241A805A80000009240077C6040CD4504620110720070013F406000003033C000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "241A9B5A9B04",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "561A805A80000009210353070605A048432008111302000C03050206030300000008",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "561A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562230007F2E78",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300094BF100101013F420007",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230017F2E78",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623001A6140528000000002B1ADFF300073E7E5F64CCC60000000007",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230027F2E78",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623002024E05BE00C80222030C03840200000007",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230037F2E78",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300307141E1C140DFF0203030211146405050F0F030D0A194605007D3E060032AA000011110706050303030303282814140C0D0A0A0A2307",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230047F2E78",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623004070F64211014F00203030214146405051914071E10101005007D3E0307F0A0070582820808080807090B070B08080808080808080808087D7D0F10100E1015151515120F0F0F0F0F0F0F0F0F0F07",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230057F2E78",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300500BE00CC00E7011D0152018801BE01F4027B0301040F0710062907800D0D0D3607",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230067F2E78",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300600FA00F00FC85402080639993C1E4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "441A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CENTER_ROOF"
+    },
+    {
+        "Command": "6B1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "451A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "6D1A805A8000000922186103200C50534E2011073124000A140804000303030000000000092134340006050730393631353030303936313530304630343041",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D1A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300062300000020101",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223001623001FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223002623002FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223003623003FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223004623004FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223005623005FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223007623007FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223008623008FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223009623009AA",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300A62300AFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300B62300BFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300D62300DFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300F62300FFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223010623010341A014F06",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230116230115322061A3240FFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301262301253FFFFFFFFFF1EFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223013623013532906164B7A",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301462301453320619345B",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301562301553320722346D",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230166230165719040E1224",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223017623017531004091217",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230186230185029080C1F48",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223019623019501C060C1C3B",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302062302001",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223021623021E0311E",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223022623022060111110100",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230246230246E01",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302562302500008303E80AF00BB80320000E",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303062303055060A",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303162303124272C20C864083C1924272C18C864083C1964640101240B0F1E324006",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303462303482",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303562303500",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223036623036000BB8214A02860021003300000187000001C2006401FE00C80239012C02AB01EF39",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6E1A805A8000000922186103200C50534E2011073124000A120804000303030000000000092134340006050830393631353030303936313530304630343041",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E1A9B7F1A12",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300062300000020101",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223001623001FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223002623002FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223003623003FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223004623004FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223005623005FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223007623007FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223008623008FF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223009623009AA",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300A62300AFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300B62300BFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300D62300DFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300F62300FFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223010623010341A015F06",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230116230115322061A3240FFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301262301253FFFFFFFFFF1EFFFF",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223013623013532906164B7A",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301462301451320619345B",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301562301551320722346D",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230166230165319040E1224",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223017623017511004091217",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230186230185029080C1F48",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223019623019501C060C1C3B",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302062302001",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223021623021E0311E",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223022623022060111110100",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223024623024DA00",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302562302500008303E80AF00BB80320000E",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303062303055060A",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303162303124272C20C864083C1924272C18C864083C1964640101240B0F1E324006",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303462303482",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303562303500",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223036623036000BB8214A02860021003300000187000001C2006401FE00C80239012C02AB01EF39",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "591A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "5A1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "ACTIVE_BACKREST_PASSENGER"
+    },
+    {
+        "Command": "371A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3F1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3C1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "631A805A8000000926346300340FA859462011072156001404B35250040004000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "631A9B5A9B34",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "261A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "731A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "741A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CENTRAL_INFO_DISPLAY"
+    },
+    {
+        "Command": "3B1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "CENTRAL_INFO_DISPLAY_REAR"
+    },
+    {
+        "Command": "531A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "5B1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "RADIO"
+    },
+    {
+        "Command": "361A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "471A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "541A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "4B1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "311A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "VIDEO"
+    },
+    {
+        "Command": "3A1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "MULTIMEDIA_CHANGER"
+    },
+    {
+        "Command": "3D1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "HEADPHONE_INTERFACE"
+    },
+    {
+        "Command": "611A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "HEAD_UP_DISPLAY"
+    },
+    {
+        "Command": "621A805A8000000926348100000F9054492011040156001404B35250040004000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "621A9B5A9B00",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "7A1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A11A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A21A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A71A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A81A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A51A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A61A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A805A8000000926721002400DD057452010080509002630024003030A00000000",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A9B5A9B40",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AD1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AE1A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A01A805",
+        "Model": "bmw 320d conv 2012 uk",
+        "Semantics": "UNKNOWN"
+    }
+]

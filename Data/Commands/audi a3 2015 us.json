@@ -1,0 +1,2922 @@
+[
+    {
+        "Command": "1F1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71031B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18762F1873551303930373533305120",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18962F18932313633",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18C62F18C3130303431343130383030363130",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19162F1913551303930373533304D20",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19762F1974757204D514220486967682020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19E62F19E45565F4761746577436F6E746900",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A262F1A2303130303135",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A362F1A3323132",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1AA62F1AA4A35333320",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206006206000101000820085A005B00020C180B00000001000000000000000000000000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102204A17F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E62F17E2D2D4831332D2D2D",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18762F1873547303930363235394120",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18930303033",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F19130364B3930373432354220",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197322E306C205234205446534920",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D32305446533032303547303930363235394100",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303031303035",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483133",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323300",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206006206000A1D00124426000F2000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E131B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F17E62F17E3033323532323034",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18762F1873044393330303031315320",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18962F18934333132",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18C62F18C54464B303134303333303034343900",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19162F1913032453932373737304151",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19762F19744513235302D3641204D514220",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19E62F19E45565F54434D445132353030323100",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A262F1A2303031303031",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A362F1A3483532",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A562F1A5000646181286",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1AA62F1AA4A37343320",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206006206000014",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122060162060102",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F17E3030303030303030",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1877F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1873551303930373337394141",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F18962F18930343537",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F18C3630393734303030303031413939",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1917F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1913551303930373337394720",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1977F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19745534320202020202020202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19E45565F4272616B6531554453436F6E74694D4B31303049504200",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1A27F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1A2303333303031",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1A362F1A3483331",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A57F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1AA7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1AA4A31303420",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322060062060013FF6A9234210A740177030481C629C8562C5080C08194B4024100588608",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206016206011E",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71231B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18762F1873551303930393134345020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18962F18931303433",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18C7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19162F1913551303930393134345020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19762F1974550535F4D51425F5A464C5320",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19862F198000000000000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19962F199000000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19E62F19E45565F537465657241737369734D514200",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A262F1A2303130303331",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A362F1A3313233",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1AA62F1AA4A35303020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206006206000102",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E62F17E3230303236303030",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F1873856303832303034334420",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930303532",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C62F18C3030303030303030333030393938",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F1913856303832303034334420",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F1974143204175746F6D6174202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F416972436F6E646946726F6E745661415533375800",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2303038303230",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483133",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4538372020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622060062060003000014010000000000000000001400",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873551303935393635354A20",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930383235",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334743523030414D5A24",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913551303935393635354A20",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616756573230202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626156573230534D45565733375800",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303032313338",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3303039",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206006206009DCCFCC0000000005000001AC24800000065",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873856303932303937304120",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18932323230",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913856303932303937304120",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F44617368426F6172645644444D5142414200",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2303038303331",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483033",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206006206000BF418092B80D7050200E800180000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75431B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18762F1873551303930373335372020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18962F18930303830",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19162F1913652303930373335374120",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19762F1974C57522D454355202020202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19E62F19E45565F486561646C526567756C56574C57524D514200",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A262F1A2303031313130",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A362F1A3303035",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1AA62F1AA4A34333120",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "754220600620600012A000101000000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422060162060108",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1873856303935333532314342",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F18C3135303431343038343931303035",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1913551303935333534394320",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1974C656E6B732E204D6F64756C20",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F19E45565F534D4C534B4C4F4D514200",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1A2303137303031",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1A3303032",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1AA4A35323720",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "74A1A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A31B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18762F1873551303935393339334220",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18962F18930303235",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18C62F18C3231303431343032303930313338",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19162F1913551303935393339334220",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19762F19754534720465320202020202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19E62F19E45565F44435544726976655369646545574D494E4B4C4F00",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A262F1A2303036303033",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A362F1A3303230",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1AA62F1AA4A33383620",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22060062060000100F204000048000000002",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B31B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18762F1873551303935393339324220",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18962F18930303235",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18C62F18C3133303431343031313031393532",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19162F1913551303935393339324220",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19762F19754534720424653202020202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19E62F19E45565F44435550617373655369646545574D494E4B4C4F00",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A262F1A2303036303033",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A362F1A3303230",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1AA62F1AA4A33383720",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B220600620600001007204000048000000002",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77331B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1877F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1873856303033353034372020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1897F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F18930323839",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F18C7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F18C4130353244304537353036363633",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1917F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1913856303033353034372020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1977F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1974D552D482D4E532D5553202020",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19E7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F19E45565F4D554869673643334842415300",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1A27F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1A2303031303430",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1A37F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1A3483432",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1A57F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1AA7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1AA4A37393420",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1DF7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7732206007F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62060001730102FF0A000021220001041A00002F000105010001047E",
+        "Model": "audi a3 2015 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7732206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206067F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732207307F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E31B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18762F1873551303933373038355320",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18962F18930313234",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18C62F18C3030303131343039383030313730",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19162F1913551303933373038355320",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19762F19742434D204D51424142204D4E41",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19E62F19E45565F42434D434F4E544900",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A262F1A2303132303031",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A362F1A3483136",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1AA62F1AA4A35313920",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22060062060004141A46C04122F541C04004511007000000000000000000000000000000",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3112",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1877F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930313130",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1917F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1977F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A27F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A37F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A57F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA7F2278",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C220600620600A018",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A917F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9A7F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A867F1A11",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F31B800007F3131",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F17E7F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F18762F1873043513930373535344420",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F18962F18937303736",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F18C62F18C4841312D30303031312E30332E31343030303130363535",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F19162F1913043513930373535344420",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F19762F19748616C646578344D6F74696F6E",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F1987F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F1997F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F19E62F19E45565F416C6C576865656C436F6E7472484131565733375800",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F1A262F1A2303032303031",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F1A362F1A3483532",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F1A562F1A50000862C18F1",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F1AA62F1AA4A34393220",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F22F1DF62F1DF40",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206006206000001",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206017F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206067F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206077F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206107F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206707F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206A07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206D07F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2206407F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F2207307F2231",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "audi a3 2015 us",
+        "Semantics": "UNKNOWN"
+    }
+]

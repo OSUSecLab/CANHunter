@@ -1,0 +1,82 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "TT",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "TT",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "TT",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "TT",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "TT",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "TT",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "TT",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "TT",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "714",
+        "Model": "TT",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "TT",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "71D",
+        "Model": "TT",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "TT",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "754",
+        "Model": "TT",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "TT",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76B",
+        "Model": "TT",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "TT",
+        "Semantics": "Telephone"
+    }
+]

@@ -1,0 +1,3202 @@
+[
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B8010601070108010A010C0114",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E4542383030303533",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F1873854303930373436385420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18930313035",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C62F18C3533303045303941313538304245",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F1913854303930373436384B20",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F19747572D42454D203443414E2D4D",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19862F1980000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483039",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060062060000CF07",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060162060103",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220607620607000000000800040000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A1191F010D053101010920010146210101422201015223010162240101722501013626000106350001694300013D3A0001082C0101162A01016C4900016D340001263000016529000117070103182F00035319010303030103041301031B1E0003101D0103220A00031505010001010100111500000202000055060000140C0000130B00055C1A00053C1C0005073F0004273E00040E5800041E5000042E5400043E62000456520104575700040F4F0004375B0004775A0004675C0004475300045F4D05047F4E000420160005303B000140800005518100008C82000044830003",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B80101010201030106010701080114",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18762F187384B30393037333739414B",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18962F18930303730",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19162F191384B30393037333739414B",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19762F197455350382066726F6E74202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A362F1A3483034",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA62F1AA4A31303420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "03220600620600160504",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322060162060103",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1931B8000071B80101010201030106010701140108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F17E62F17E3030303030303033",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F18762F187384B303930373830314820",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F18962F18930313030",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F18C62F18C3030303030303030343930303635",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F19162F191384B303930373830314820",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F19762F19745504220417564692042382020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A362F1A3483039",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A562F1A5000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1AA62F1AA4A35343020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206007F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206017F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B801020103010601070108010C0114",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E4142303031303037",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F1873446303033353035334220",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930303230",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C3334314B25303937363730393238",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F1913446303033353035332020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F2055204261736963",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19862F198000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3483435",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA5220202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF00",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "52220600620600010003020000000001",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060109",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D1A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D1A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D1A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D31B8000071B8010201030106010701140108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F17E62F17E3131303031303031",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F18762F187384B303931393437354820",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F18962F18930303530",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F18C62F18C3339393430393331343031353631",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F19162F191384B303931393437352020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F19762F1975041524B48494C464520344B20",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F1A362F1A3483036",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F1AA62F1AA4A34343620",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D220600620600000203",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D22060162060103",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D220606620606000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D2206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D2206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D2206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D2206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D2206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D2206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D2207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B801020103010601070108010C01140116",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E3038303238303031",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F187384B303930373036334D20",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930333830",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C62F18C3030303030303030333738383234",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F191384B303930373036334D20",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D3120312E302020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19862F198000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3483238",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220600620600690040B1023436000001000300005F5F401C060804000001000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011B",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606A00000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022061062061000FD11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022067062067030303730",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A06206A03854313935353131392020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D06206D0483036",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220640620640384B313935353131394120",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022073062073057575320333031303039202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2131B8000071B801010102010301060107011401080116",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F17E62F17E3030303032303031",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18762F187384B303930373036344450",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18962F18930333236",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18C62F18C3031323336343435393120202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19162F191384B303930373036344450",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19762F19742434D3220312E312020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A362F1A3483032",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1AA62F1AA4A33393320",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122060062060001000620203904400120023680000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122060162060110",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "21220606620606000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "21220607620607000000000000000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B801020114010601070108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E62F17E2020202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18762F187384B303935393739334A20",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18962F18930333036",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C62F18C3030303031303232323536303020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19162F191384B303935393739334520",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19762F19754534720464120202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A362F1A3483131",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA62F1AA4A33383620",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "22220600620600011002204100410001",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222060162060109",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B801020114010601070108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E62F17E2020202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18762F187384B303935393739324A20",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18962F18930333036",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C62F18C3030303031303232303639363120",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19162F191384B303935393739324520",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19762F19754534720424620202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A362F1A3483131",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA62F1AA4A33383720",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "23220600620600011002204D00410001",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322060162060109",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2531B8000071B801020114010601070108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E62F17E2020202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18762F187384B303935393739354320",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18962F18930333036",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C62F18C3030303031303232343138363020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19162F191384B303935393739354320",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19762F19754534720485220202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A362F1A3483130",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA62F1AA4A33383920",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "25220600620600010002204000210001",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522060162060109",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E32354832312D2D2D",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F18730334C393036303139414C",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18939303937",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F19130334C393036303139414C",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197523420322C304C204544432020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D323054444930334C393036303139414C00",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2413032303038",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A50AD979106343",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A20363233",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060012194012232403080000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F187384B303935393635354720",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930353630",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334546443037334357442020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F191384B303935393635354720",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616756572D41553130",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626145435556574155444930313000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303033303130",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483339",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060030343435363030303030554A304C384B3053",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060662060600000304050607080000000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B8010201070114010601010108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18762F187384B303935333536384620",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18962F18930303134",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C62F18C3930333034494B36303030524120",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19162F191384B303935333536384620",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19762F1974C656E6B732E4D6F64756C2020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A362F1A3483136",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA62F1AA4A35323720",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A220600620600000017",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22060162060103",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A220606620606000000020000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B801020103010601070108010C0114",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F17E62F17E3030303030303030",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18762F187384B303932303933304420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18962F18930323535",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18C62F18C4349593537433143392020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19162F191384B303932303933304420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19762F1974B4F4D4249494E5354522E2020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19862F198000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A362F1A3483230",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1AA62F1AA4A32383520",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206006206000305100002000008000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206016206010B",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "07220606620606000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D31B8000071B801020103010601070108010C0114",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18762F1873854313033353635324420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18962F18930303438",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18C62F18C3332334B59303937353336323434",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19162F1913854313033353635324420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19762F197422D424E2D4555202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19862F198000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A362F1A3483532",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1AA62F1AA4A37393420",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1DF62F1DF00",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D220600620600010100010206FFFF31000F0E000000030001",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22060162060112",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D220607620607000000000006000000000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B80101010601030114010C010201070108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E62F17E4131303030303030",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18762F1873854313832303034334148",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18962F18930313731",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C62F18C3031303531313230303930363338",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19162F1913854313832303034334148",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19762F1974B4C494D412031205A4F4E4520",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A362F1A3483038",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA62F1AA4A32353520",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22060062060034300000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22060162060104",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B801020114010601070108",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E62F17E2020202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18762F187384B303935393739354320",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18962F18930333036",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C62F18C3030303031303232343138353720",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19162F191384B303935393739354320",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19762F19754534720484C20202020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A362F1A3483130",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA62F1AA4A33383820",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF62F1DF40",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "24220600620600010002204000210001",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422060162060109",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A917F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9A7F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A867F1A11",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3131B8000071B80102010601070108010C011401160119011A",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F17E62F17E3030303032303031",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F18762F187384B303930373036344450",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F18962F18930333236",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F18C7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19162F191384B303930373036344450",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19762F19742434D3220312E312020202020",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19862F1982D2D2D2D2D2D",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1997F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19E7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A27F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A362F1A3483032",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A562F1A50000000018BF",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1AA62F1AA4A33393320",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1DF7F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "31220600620600032200",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122060162060103",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "31220606620606040008000000",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206077F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206107F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206707F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206A07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206D07F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206407F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312207307F2231",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "audi a4 2009 eu",
+        "Semantics": "UNKNOWN"
+    }
+]

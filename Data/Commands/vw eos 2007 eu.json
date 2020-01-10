@@ -1,0 +1,3142 @@
+[
+    {
+        "Command": "1F1A9B5A9B314B303930373533304B202030313730100000000000000000144A3533335F5F4761746577617920202048313220",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E314B3039303739353120202020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A5A9A0000000000143031373010093D3F274007005000FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A865A860F3333303031303639323038394231205446372D4D4E4C32302E30392E303620204831322020203130303138394231FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B8010601070108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F5A9FC101010001020200000303000104130001150500014409000155060000220A00000920020146210201422202015223020162240201722502013626020065290200162A0201082C0201762D02017D2E0200182F04002630020169430200063502003D3A02004753040075550400375B0400575704000F4F040056520405775A04001707060125140601191F14011C4004005D4B0400140C00004C08000011150000101D00006346020073470200531900006C4904004F281018594104003218000004005000FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A17F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5A9B30334339303630353645412039353939030000480000000000144D4544392E352E31302020202020202047303020",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A915A910E4861726477617265204E6F2020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A5A9A0000000000143935393903000048",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A865",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A78",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A78",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A78",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103010401060108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B314B313930393134344C202031383036000000000000000000144550535F5A464C53204B6C2E3036392048303720",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A867F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B801030105010801060101",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5A9B31513039353936353541202030313830030034340000000000143434204169726261672056573843202020202020",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A915A910E31513039353936353541202020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A865A860F30303342333030313343544A2020204250412D414E5731342E31302E303639323030393031383630333730363438FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "7F5A78",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "0531B8000071B801010102010301040106",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F17E7F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1877F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1897F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F18C7F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1917F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1977F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1987F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1997F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F19E7F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A27F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A37F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A57F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1AA7F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1DF7F2231",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206007F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206017F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206067F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206077F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206107F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206707F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206A07F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206D07F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206407F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052207307F2212",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5A9B314B30303335313836532020B030323303009DD0000000000014526164696F204752302020202020202030323020",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A865A860F56575A325A324631303130343439204752302D30303133302E31302E303630303032303036533030303330313737FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B80102010301040105010601070108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5A9B315130393230383733202020B136313000000000069E69B60098494D4D4F20202020202020202020202056444420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A915A910E31513039323038373320202020043030300530303030FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A865A860F565758375A304639334E51394248205644442D30323432362E31302E303656303030333030303737303232303737FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1431B8000071B8010301060108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5A9B334330393337303439512020B135303110000000000000000014426F72646E65747A2D5347202020202048343620",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A915A910E33433039333730343951202020043036330535392020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A5A9A000000000014313530311018A18C0F0740041500470A00000F00000000495D035C0000FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A865A860F3030303030303036323737383733205242382D36353830362E31302E303630304834363030303030303431303639FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601030104010201070108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5A9B314B303935393433334254203032303310000000069E69B600982020204B53472050513335204732202030323020",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A915A910E314B3039353934333342542020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A9A5A9A069E69B6009830323033101491908A000186487F2D048F0F6008CE22E0FC00FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A865A860F303030303030303030303030303020484C4F2D57343231312E31302E303630303032303030305030303331383933FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2131B8000071B80102010301040105010601070108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5A9B31513039353937303144202031323033030000B5000000000014547565722D534720202020202020202030303420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A915A910E31513039353937303144202020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B8010201040106",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5A9B31513039353937303244202031323033030000B4000000000014547565722D534720202020202020202030303420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A915A910E31513039353937303244202020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B8010201040106",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5A9B315130393539373034412020B1323032030000807B9A00000014547565722D534720202020202020202030303420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A915A910E31513039353937303441202020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2531B8000071B8010201040106",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5A9B315130393539323535422020B0363232030A00020000000000145665726465636B73746575657267657261657420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "301A915A910E31513039353932353542202020043030300530303030FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "301A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "301A865A860F3036323633303531302020202020204F41532D57503131362E31302E3036303033323030304B3131313130353130FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3031B8000071B8010101040106",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "3022F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "302207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9B314B303930373337394143203031303103004AE20000000000144553502046524F4E",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A54204D4B3630202020202020",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E314B3039303733373941432020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8601204354412D30303032362E31302E303630304831313030313031303130373231FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5A9B314B30393533353439415120B0303730030007E50000000000144A30353237202020202020202020202030333620",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B585858585858585858585820B0303130000000000000000000004530323231202020202020202020202030303220",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A915A910E314B3039353335343941512020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B801020104010601070108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633333253524234303432423836393124FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633343253524234303432423437384637FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633372020524234202020202020202038FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633382020524234202020202020202039FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5A9B315130393230383733202020313631300300526F056A01B601AC4B4F4D4249494E535452554D454E542056444420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A915A910E31513039323038373320202020043030300530303030FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A865A860F565758375A304639334E51394248205644442D30323432362E31302E303656303030333030303737303232303737FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B8010201030104010601070108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B3151303930373034342020203031303100000000000000000000436C696D6174726F6E6963505133352030393320",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A915A910E31513039303730343420202020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A865A860F3030303030303030303030303030204248422D30303132362E31302E303630303039333030323030303530303036FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B80101010201060108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5A9B315130393139323833202020303730320000000000000000000033302045696E7061726B68696C66652020202020",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A917F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A867F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D31B8000071B801020103010601070108",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B31393535313139452020B0353031210097950000000000145769736368657220323031303036203032302020",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A0202020000000000000000000002020536F756E646572206E2E6D6F756E74656420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A0202020000000000000000000002020202020204E4753206E2E6D6F756E74656420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A020202000000000000000000000202020202049525545206E2E6D6F756E74656420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5A9B315130393539373033412020B1323032030000807B9A00000014547565722D534720202020202020202030303420",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A915A910E31513039353937303341202020FF",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A12",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B8010201040106",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1877F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1897F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1917F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1977F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A37F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A57F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF7F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206007F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206017F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2211",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw eos 2007 eu",
+        "Semantics": "UNKNOWN"
+    }
+]

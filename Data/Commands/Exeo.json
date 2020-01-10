@@ -1,0 +1,122 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Exeo",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Exeo",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Exeo",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Exeo",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Exeo",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Exeo",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Exeo",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Exeo",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Exeo",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Exeo",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70A",
+        "Model": "Exeo",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "774",
+        "Model": "Exeo",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "70C",
+        "Model": "Exeo",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Exeo",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Exeo",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Exeo",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "Exeo",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Exeo",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "74C",
+        "Model": "Exeo",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Exeo",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "754",
+        "Model": "Exeo",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Exeo",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76B",
+        "Model": "Exeo",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Exeo",
+        "Semantics": "Telephone"
+    }
+]

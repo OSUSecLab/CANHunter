@@ -1,0 +1,42 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Passat B3",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Passat B3",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Passat B3",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Passat B3",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Passat B3",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Passat B3",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Passat B3",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Passat B3",
+        "Semantics": "Auto HVAC"
+    }
+]

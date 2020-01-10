@@ -1,0 +1,122 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Roomster",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Roomster",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Roomster",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Roomster",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Roomster",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Roomster",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Roomster",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Roomster",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Roomster",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Roomster",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70C",
+        "Model": "Roomster",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Roomster",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Roomster",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Roomster",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Roomster",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Roomster",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "711",
+        "Model": "Roomster",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Roomster",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "712",
+        "Model": "Roomster",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "77C",
+        "Model": "Roomster",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "754",
+        "Model": "Roomster",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Roomster",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76B",
+        "Model": "Roomster",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Roomster",
+        "Semantics": "Telephone"
+    }
+]

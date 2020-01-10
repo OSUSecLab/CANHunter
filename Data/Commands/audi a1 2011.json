@@ -1,0 +1,2352 @@
+[
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80101010601070108010A010C0114",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E3143303630303233",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F1873858303930373436384120",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18930303833",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C62F18C3233343143313132303730333843",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F1913858303930373436384120",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F197474154203443414E20314C204D",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19862F19800000000002E",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483034",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A500000000002E",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600FBCF005A000100010053",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206016206010A",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220607620607000000000800040000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A1191F010D0101010002020000440901005506000015050100101D0100041301000303010020160000220A0000140C0000170701032514010309200101162A0101082C050142220101522301016224000172250001694300013D3A000105F601012BF70101182F00016C4900015F4D01040E5800041E5000044753000457570004565200045319000046210101",
+        "Model": "audi a1 2011",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B8010201060107011401080FFF",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18762F1873858303935393739334420",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18962F18930343039",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19162F1913858303935393739334420",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19762F19754534720464120202020202020",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A362F1A3483039",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A562F1A500000000002E",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA62F1AA4A33383620",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "22220600620600011E12200000000100",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222060162060109",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B8010201060107011401080FFF",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18762F1873858303935393739324420",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18962F18930343039",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19162F1913858303935393739324420",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19762F19754534720424620202020202020",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A362F1A3483039",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A562F1A500000000002E",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA62F1AA4A33383720",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "23220600620600011E12200000000100",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322060162060109",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E62F17E2D2D4835332D2D2D",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18762F18730334C3930363032334B4D",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18938383539",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C62F18C2020202020202020202020202020",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F19130334C3930363032334B4D",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197312C366C205234204352207464",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D313654444930323130334C3930363032334B4D",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303033303039",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483533",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A50000062C002E",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323320",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060000114036030401080000",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F1873858303832303034334120",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930303530",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C62F18C3030303030303030303337383636",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F1913858303832303034334120",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F1974B6C696D612031205A6F6E6520",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19862F198000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19962F199110204",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F416972436F6E646946726F6E744155323130000000",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2303036303331",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483132",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A50000062C002E",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A32353520",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206006206003400080000",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206017F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873858303935393635354120",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930303038",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334A4A30303136475336",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913858303935393635354120",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616731302E34312020",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626131303431425041415532313000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303031303135",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483034",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A500000000002E",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060030314539303330303036554A304C38583053",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206066206060703040B",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873858303932303933304120",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930313234",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913858303932303933304120",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695F5544535F5644445F4155313000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034303836",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483037",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50000062C002E",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060062060011DE00",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F1873858303932303933304120",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930313234",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C2020202020202020202020202020",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F1913858303932303933304120",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5F5544535F5644445F4155313000",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413034303038",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483037",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A50000062C002E",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "711220600620600000007",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122060162060103",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73231B800007F3112",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F17E62F17E3030303835303030",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18762F187354B303935393433344120",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18962F18930373038",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18C62F18C30313430303139393233",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19162F191354B303935393433344120",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19762F19756574B45535359505133354750",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19862F198000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19962F199000000",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19E62F19E45565F4B455353595F50513335475000",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A262F1A2413031303130",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A362F1A3303835",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A562F1A5000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1AA62F1AA4A35313820",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "732220600620600010E0E",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222060162060103",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222060662060600",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D31B8000071B801020103010601070108010C011401160FFF",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F17E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18762F1873858303033353139334220",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18962F18930363437",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18C7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19162F1913858303033353139334220",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19762F197524D4320436E6374204E617620",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1987F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1997F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19E7F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A27F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A362F1A3483530",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A562F1A500000000002E",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1AA62F1AA4A37393420",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1DF62F1DF00",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22060062060001000000008153070023020103010000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22060162060113",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D220606620606002000000004",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3112",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E62F17E4646303130303136",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18762F1873858303935333530314620",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930313430",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C62F18C3230313130323032333031333231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19162F191354B303935333536394C20",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19762F1974C454E4B532E4D4F44554C2020",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19862F198000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19962F199000000",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E62F19E45565F56573336305374656572576865656C55445300",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A262F1A2413033303034",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A362F1A3303134",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A562F1A50000062C002E",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA62F1AA4A35323720",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206006206001104004000",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22060162060105",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206066206061F",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A917F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9A7F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A867F1A11",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A31B800007F3112",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F17E62F17E3131303031303031",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18762F1873858303931393437352020",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18962F18930303131",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18C62F18C3337303031313031393030363631",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19162F1913858303931393437352020",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19762F1975041524B48494C464520344B20",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19862F198000000000000",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19962F199000000",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19E62F19E45565F41553231305061726B4173736973344B00",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A262F1A2303032303036",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A362F1A3483033",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A562F1A50000062C002E",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1AA62F1AA4A34343620",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1DF62F1DF40",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A220600620600000001",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22060162060103",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206067F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206077F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206107F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206707F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206A07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206D07F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206407F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2207307F2231",
+        "Model": "audi a1 2011",
+        "Semantics": "UNKNOWN"
+    }
+]

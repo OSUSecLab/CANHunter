@@ -1,0 +1,1817 @@
+[
+    {
+        "Command": "121A805A800000085065700002001058592010020308080230414B3503030100000000000473127630008077303038395A4D30303038395A4D3041414B3542",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "121A9B5A9B02",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230007F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230107F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230207F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230307F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232007F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232107F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232407F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232607F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "181A805A8000000761280155081220514F20080501470022BDE930010401000102030000075948472130067430343739553130303437395531304B3438315A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "181A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "191A805A800000076018161000123058422009120860001E4203040004020100000000000759886393420297303630395A5A30303630395A5A30483334304D",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "191A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230007F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "171A805A8000000727604606131010564420050804070013030600030402030000010000072680281900234130303731515630303037315156304630333041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "171A9B5A9B13",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "172230006230000108343208344B09BC640B44960E55C81165FE14B4015B325BFE9D018C328CFE8C6C09C47F0EA6",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223001623001325100080014640A690A0000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223002623002A02EB41601FFFFFFFFFFFF0000B43C0382961700FF5A50DC060000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "781A805A8000000922792407080D304E48201003052100230D051BFF03033C0000000000092155122084758130323131414430303231314144304632373041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "781A9B5A9B08",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "7822300062300069A91763E880F196000000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "791A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "291A805A8000000679349209050BC5504420091019080023002C37010000003C29560000067704060336E0BA30303831385A3030303831385A304638333042",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "291A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230017F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "6230018024031041D205AA1EFF281EFF120A2600C805F050B405FF0A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "292230027F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "62300214060805960F0D040408193C00000000EA6000000000EA60FFFFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "292230037F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "623003BE9E0DEDC25728F63B72AE080EEC0EEC066C0672F86BCD31234B6401",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "292230047F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "6230040FF01771B40C0A0F0E1E0F0F0E0A0046",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "29223005623005E200FD",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "2922300662300691",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230076230071C2003E80500",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "2922300862300819B4FA1E160711F4EBE714320532BEFF15160700",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "011A805A8000000921481303240CA14E4B2010011308001F460E000503280A000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "011A9B5A9B24",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223000623000FF750000838482F501",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300162300114080F3425FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223002623002192801140099012345004C4C41295000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300362300300FE",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230106230100001",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230117F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623011CACACACA0606060606060606060606060606060606060606060606060606060606CA06061900F000312E31F0F00000000000000000000005020500008107698A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230207F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302001C400220022402140210020002000800080FFFFFFFF04320400000000000000AA86D6C4",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230217F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623021050503052D28141496713F8183589C000000008A80141817283F553F554450A9886EFFBC16964B64224E4B6438FFA7FF28FF605FCB4BFFA7FF22FF605FCB655E",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230227F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302214006E0100192DFFFF00FF6E96000103047E7A006473648A1E643C0B154C4D585151465851514F122D612C312D12EE482F64241496761B82977D4B58515A2B0E",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230237F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623023401F8342314A5A323B225B2A7D7D5A76764B2C74774B64FF926C752B5E786B786B1D663D0B15AC6051479D6051479D132F602C337D13FF23EF643E1B82971B82",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230247F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623024977D4B3F3F642C0E58298342314A537D425E5B5E7D7D50B0B0583874771B64FF926C75445E0164401B83C91B83C97D5C5B65872C0E6580533254298342474A5D",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230257F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230257D6A5E655E7D7D5DFFFFFFFFFFFF252B12325E35000001040404040132263280009600193200A001969C4E9C00464E7D00463F712F3BEAFF8980420008182005",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230267F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623026181808201820006464969C969CC864000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF875A57",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230277F2278",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623027020A02020A0701320A11014B02C800329C4B9622FFBF2532611902290F366A410B329C7D64FF0E0A02030032147F640000000000000000000B41DE43",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "0E1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "091A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CENTER_SAFETY"
+    },
+    {
+        "Command": "0A1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "B_PILLAR_LEFT_SAFETY_2"
+    },
+    {
+        "Command": "601A805A8000000921888508030CF04E5320100307100020D4A34043031001000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "601A9B5A9B03",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300062300001AD0A04840F00320A1E0A1E00000014000F",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230016230013FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7D4200",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300262300200865179AE995266AD",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223003623003F64ACA7600FFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223004623004975F0858051755850550000000010D00000300",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230056230050920500A05820808A45242200A00582E140800",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223006623006CA00000000780A32023700A000E001F802CF03370065016C023903CF0303",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230076230070C0303FFFF0C",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223008623008132840DC052C013C00100E5046FFFFE01E0A1857",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300962300902500A413C9118C20192303CC3D282C1C19191C393939332FFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300A7F2210",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230507F2210",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223106623106B5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF202847E6F0F7FB48546C757980DA200009161F000407090B0C0E10121415181A1B1D1F00FD",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223B02623B02FF0000010000010D40010000010000FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C03623C031023031020",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C04623C0477015E40",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C0F623C0F01030200",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "1C1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "301A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DYNAMIC_MANAGEMENT"
+    },
+    {
+        "Command": "201A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "211A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TPMS"
+    },
+    {
+        "Command": "161A805A8000000679520301050C604E4D20070626510022F90607060303140506320000067776440738039930353131385830303531313858304636323045",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "161A9B5A9B05",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "16223000623000003C0514122907D806106300FF00010000000000030000000202000000000000000000010000000001020101010000000002020200000000000000000040",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "162230017F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "021A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "231A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "391A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ACTIVE_ROLL_STABILIZATION"
+    },
+    {
+        "Command": "381A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "EDC_REAR_RIGHT"
+    },
+    {
+        "Command": "2A1A805A8000000679607205040D1050452010010856001796053200030A00FFFFFF0000067822050000014030353631364530303536313645304632383053",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AIR_SUSPENSION"
+    },
+    {
+        "Command": "2A1A9B5A9B04",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AIR_SUSPENSION"
+    },
+    {
+        "Command": "711A805A800000092211800210117056502010011407001FE20208050402010000000000091861740013027530303732434B3030303732434B304630383541",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "711A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "401A805A80000009227053C40906A0534120100210040000000205080303000000000000069438063031393030303432385444303034323854444632303653",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "401A9B5A9B09",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210106210105742415A5734313036304C4C3431323935",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221011621011168603101E03C208085064",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221012621012304135324C555357",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022101362101330303030300B050A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221014621014000806FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221A907F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230006230002D3F0A41383C1E320F0E082D8B00C300000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300162300168E9A0000200100218100406000000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230026230022C00107F0000053C053C33190F051E14000A000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300362300340051401013C280009020000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230046230049105051402092A28063203003400",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223005623005170A05270000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300662300600000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F00623F000241445095743FEB7511421552B35CF7",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F01623F0141041041041041041041041041041042",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F02623F02118E24915D24964934124D34ACB53456",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F03623F034D24934934D34136164E18D386851049",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F04623F0444535124D44985134144D15144545565",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F05623F0518614653519514864550495418552455",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F06623F064925525154D455359551455461559356",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F07623F0718D64195914164525915164555915964",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F08623F08905934D65D65996168615A18969AC5D1",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F09623F094175905D64575D55F2CD7CF061045851",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0A623F0A0615458593617658D286525596591214",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0B623F0B19425DF35000FFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0C623F0CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0D623F0DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0E623F0EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0F623F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "411A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "501A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ALARM"
+    },
+    {
+        "Command": "641A805A80000009224463000112705750201003101100200304040004020300000000000920568100693ADA30313132415830303131324158304630373041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "641A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "671A805A800000092051771605109055582007053061001D36042B080402010000000000091658660000000030363132374830303631323748304630363041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "671A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "651A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ERGO_COMMANDER"
+    },
+    {
+        "Command": "701A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CENTER_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "221A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "LIGHT_SWITCH"
+    },
+    {
+        "Command": "5F1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ADAPTIVE_LIGHT"
+    },
+    {
+        "Command": "721A805A8000000924907408320E60564520110504090013090E1E000414000000000000092062331123046C30303932454730303039324547304632333041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "721A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722210106210105742415A5736313035304C353637323838",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72221A907F2212",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300062300080073000002805AAFF00000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230016230015093544846961A0315640A07070D0A0D",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230026230021E32080A32191E104030143D19150000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230036230033201060C64AF961E400F0A320A50781A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223004623004641432641E0AFE0A1E37025A96060A20",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230056230053201060C64AF961E400F0A320A50781B",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223006623006641432641E0AFE0A063C023C96060A20",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223007623007080509080803001660823C4E01052328",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223008623008F0EA2E03000023283364D42A00000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223009623009C7EC6400C7005A00C7005A00E8152800",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223010623010C7002800282D506E8C1E4664010F0C05",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222301162301146383032280550303664642D4182AA43",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223012623012330DFD0DFE0D0EFD0EFE0E90A7A64BE2",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223013623013B48B18A0A00F1331721A618214F80032",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340062340003C0F00000000FCFF300000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223401623401AE0975A723D4F9042A887E5647303899",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223402623402C1071142014001C00E0E000000006D32",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340362340359519E3B06024A4A0000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234046234040BE80B8D10000B8F1FFF1FFF1FFF1FFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234056234050B8D100010000C2C100010000B490B49",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223406623406047C1FFF1FFF1FFF1FFF10001FFF0C2D",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340762340710000AD70C2D100010000B8D1FFF1FFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223408623408E0910000AD05C36400FF3F0028320000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340962340900000000000000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340A62340A2A277FD77AB70A0A5614043780888888",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340B62340B88715E51473F362F2F2F2F2F2F2F904F",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340C62340CCECE9D302448391A1A3C0A9E00000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340D62340D0000000000000000000000AF402B2814",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340E62340E2010073800C80C051455000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340F62340F07880032461921010A1B0FFF0F000714",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341062341014530120A00200000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234116234113E2901010501003A0000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223412623412C000800105040ABB071C3F1A35910555",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341362341310001000000000000A10401401200000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341462341400000000000000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341562341528242824282F1E0F2827282700000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341662341600070007000700050007000700000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341762341700000000000000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341862341800000000000000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223500623500451D3037313230394C460104328C4200",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235016235017C30203C80517B5C30203C80517B1F6F",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350262350200000000000000000000000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235036235030F0E1F32D2DCA00A0E1F37003B0424CE",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235046235040308173250BA0000000000000000B2A4",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235056235050C468C28120096124AF8000000FFFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235066235064A36363664B4B4B4140D0D0D13FF7B66",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223507623507EEE2E0EEE2E005C4C7F5281E50142471",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350862350835180000000000000B0000000000B003",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235096235090203917603DFD93284000000000088F3",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350A62350A03002528070800000501A811153D9D39",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350B62350BD93E21049083FF018600006B1433E59C",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350C62350C23A0400012AF0000162818181200A913",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350D62350D1E24203C3C3C64000200000A5050F9FD",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350E62350E23FFFFFFFFFFFFFFFFFFFFFFFFFFB3C6",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350F62350F000000009500FFFFFFFFFFFFFFFF3314",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F00623F000241445195743FEB75914145D5B35CF7",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F01623F0141041041041041041041041041041042",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F02623F02118E24915D24904925924D04934D2555",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F03623F034ACB134124D15934594D24134924D24D",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F04623F0434D04D85938634E1A144125114D44935",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F05623F05126144D05134545115155946185194D4",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F06623F0665451959486252E89541255061549155",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F07623F0724954945535955185564D55D55618D58",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F08623F0864564855926564AD6411590656450591",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F09623F094964545915564565924164D35975D665",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "271A805A80000009134707000402614B5A2010012204000C1E091000030300000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "271A9B5A9B04",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230006230002D00085F",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "2722300262300210E0085F",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230046230040F04FC",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "2722300562300520020D22020D0C030D23020D20020D7D0A017C0A014C03354D03352C0000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230066230061A040B1B050C4C040E7F040F7E0410000000000000077F4F",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223007623007030100",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223009623009030100",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "431A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "PASSIVE_GO_SYSTEM"
+    },
+    {
+        "Command": "241A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "561A805A8000000922586819060D704E512010031003001308050109040001000002",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "561A9B5A9B06",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223000623000DF07BFF000A30A14E600F401F401F401B609BC0C1801F4014301F4016E01F4019901F401C401F401DC053A0232079E022E0896099208300CDD084B0BD300720137070606191919193200020364500300320A64461400FF02010582B4",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223001623001503F7FFF8D6C660F08BF0A8214A0F0010064647880647880A42611074D0940",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "5622300211",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "5622300311",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223004623004080236073A079A079E07B90B00000000200320040000000000000000000000009401EE010000000000000000000000008080FFFF80800000FFFF000000000000FFFF000000000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562230056230051E1E11090B2E",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223006623006001134B0000909090A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "441A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CENTER_ROOF"
+    },
+    {
+        "Command": "6B1A805A8000000723066910030D70535120071129080014CD0500020402010000000000071931711900234130303832383230303038323832304630443042",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "6B1A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "451A805A80000009218702C0020E7054542010011403001680090C2A010900010900",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "451A9B5A9B02",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "45223000623000000581D2377B",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "452230016230011F09903590359035903590359035903590359035383890358D2EC72D012C9035",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "6D1A805A8000000922186301200C50534E2010031924000A140804000303030000000000092134360001066230393631353030303936313530304630343041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D1A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300062300000020103",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223001623001FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223002623002FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223003623003FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223004623004FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223005623005FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223007623007FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223008623008FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223009623009AA",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300A62300AFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300B62300BFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300D62300DFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300F62300FFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223010623010341A048E07",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230116230114329060C0048FFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301262301252FFFFFFFFFF1EFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223013623013932906081F5A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223014623014633006071845",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223015623015BB38070C003B",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223016623016431604050F22",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230176230174B1004091217",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223018623018E329080C1F48",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223019623019931C060C1C3B",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302062302005",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223021623021E0001E",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223022623022060114110100",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230246230246B01",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302562302500008303E80AF00BB80262000E",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303062303055060A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303162303125282D20C864083C1924272C18C864083C196464030124130F1E324006",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303462303408",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303562303504",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223036623036040BB8214A02860021003300000187000001C2006401FE00C80239012C02AB01EF00",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6E1A805A8000000922186301200C50534E2010031924000A120804000303030000000000092134360001066130393631353030303936313530304630343041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E1A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300062300000020103",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223001623001FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223002623002FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223003623003FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223004623004FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223005623005FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223007623007FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223008623008FF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223009623009AA",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300A62300AFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300B62300BFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300D62300DFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300F62300FFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223010623010341A049E07",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230116230114329060C0048FFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301262301252FFFFFFFFFF1EFFFF",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223013623013932906081F5A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223014623014633006071845",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223015623015BB38070C003B",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223016623016431604050F22",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230176230174B1004091217",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223018623018E329080C1F48",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223019623019931C060C1C3B",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302062302005",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223021623021E0001E",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223022623022060111110100",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223024623024EB00",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302562302500008303E80AF00BB80262000E",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303062303055060A",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303162303125282D20C864083C1924272C18C864083C196464030124130F1E324006",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303462303408",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303562303504",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223036623036040BB8214A02860021003300000187000001C2006401FE00C80239012C02AB01EF00",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "591A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "5A1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "ACTIVE_BACKREST_PASSENGER"
+    },
+    {
+        "Command": "371A805A80000009197002D4020E504E5020100226090012F909090103033C0000000000091975110013071030303931485030303039314850304630383041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "371A9B7F1A12",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3722300062300000000000000000000000000020820005",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3F1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3C1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "631A805A80000009223276001010F05555201003072000000004060B060007000000000009169165A202917830323032373030303230323730304634365241",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "631A9B5A9B10",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "261A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "731A805A80000009224961C40011B058412010031053001F47A345400402010000000000092089490254863030353332424130303533324241304630383041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "731A9B5A9B00",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "741A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CENTRAL_INFO_DISPLAY"
+    },
+    {
+        "Command": "3B1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "CENTRAL_INFO_DISPLAY_REAR"
+    },
+    {
+        "Command": "531A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "5B1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "RADIO"
+    },
+    {
+        "Command": "361A805A800000092310911916063255422009101584001F3D0D0103FFFFFF000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "361A9B5A9B16",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "471A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "541A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "4B1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "311A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "VIDEO"
+    },
+    {
+        "Command": "3A1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "MULTIMEDIA_CHANGER"
+    },
+    {
+        "Command": "3D1A805A8000000923001215040D50504720050204710020BEA349000103130000000000091686920151000630373131455930303731314559304631363041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "HEADPHONE_INTERFACE"
+    },
+    {
+        "Command": "3D1A9B5A9B04",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "HEADPHONE_INTERFACE"
+    },
+    {
+        "Command": "611A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "HEAD_UP_DISPLAY"
+    },
+    {
+        "Command": "621A805A80000009223287000010E05643201003072000000004060B060007000000000009169166A202917830323032383030303230323830304634363041",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "621A9B5A9B00",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "7A1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A11A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A21A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A71A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A81A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A51A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A61A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A805A8000000922983802400DD057452009110409001E29021900030A00000000",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A9B5A9B40",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AD1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AE1A805",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A01A805A80000009223291000011005651201003072000000004060B060007000000000009169167A202917830323032364330303230323643304634364141",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A01A9B5A9B00",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A022300011",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A022300111",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A022300211",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02230057F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02230067F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02230077F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02230087F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02230097F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02230107F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02230117F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02232007F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A02232017F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A0223EFF7F2231",
+        "Model": "bmw x5 2010 ru",
+        "Semantics": "UNKNOWN"
+    }
+]

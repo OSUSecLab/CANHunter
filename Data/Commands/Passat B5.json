@@ -1,0 +1,122 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Passat B5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Passat B5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Passat B5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Passat B5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Passat B5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Passat B5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Passat B5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Passat B5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70C",
+        "Model": "Passat B5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Passat B5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Passat B5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Passat B5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Passat B5",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Passat B5",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "74C",
+        "Model": "Passat B5",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Passat B5",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "76F",
+        "Model": "Passat B5",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7D9",
+        "Model": "Passat B5",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "754",
+        "Model": "Passat B5",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Passat B5",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76D",
+        "Model": "Passat B5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "Passat B5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "76B",
+        "Model": "Passat B5",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Passat B5",
+        "Semantics": "Telephone"
+    }
+]

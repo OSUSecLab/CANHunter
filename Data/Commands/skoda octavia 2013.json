@@ -1,0 +1,2467 @@
+[
+    {
+        "Command": "1F1A9F5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A15",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "7102204A17F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "1F1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71031B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18762F1873551303930373533304420",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18962F18931313039",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18C62F18C30303030343339383638",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19162F1913551303930373533304420",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19762F1974757204D5142204C6F77202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19E62F19E45565F47617465774C65617200",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A262F1A2303036303130",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A362F1A3313233",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A562F1A50003062D1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1AA62F1AA4A35333320",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "710220600620600030000042B086400EF000048080F00010001000000000000000000000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E57414830382D2D2D",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F1873034453930363031364820",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18935353430",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F1913034453930373330394120",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197312E326C205234205453492020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D31325446533031313034453930363031364800",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303031303036",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483038",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A50003003F1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323320",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060001190012230401080000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F17E3030303030303030",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1877F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1873551303930373337394120",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F18962F18930333333",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F18C2020202020202020202020202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1917F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1913551303930373337394120",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1977F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19745534320202020202020202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19E45565F4272616B6531554453436F6E74694D4B31303045535000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1A27F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1A2303038303230",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1A362F1A3483735",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A57F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1AA7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1AA4A31303420",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206006206001A076A9120222A6E0078060301C3245856045400608024F0002B000040",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206016206011D",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71231B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F17E7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18762F1873551303930393134344C20",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18962F18931303231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18C7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19162F1913551303930393134344C20",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19762F1974550535F4D51425F5A464C5320",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19862F198000000000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19962F199000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19E62F19E45565F537465657241737369734D514200000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A262F1A2303038303232",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A362F1A3313139",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A562F1A50003062D1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1AA62F1AA4A35303020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222060062060001",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E62F17E30303030314B3036",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F1873545303832303034374420",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930363034",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F1913545303832303034374420",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F1974143204D616E75656C6C202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F41434D616E7565424842565733375800000000000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2303032303137",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483032",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A50001F83F1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A33303120",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622060062060000010004000100001000000000400000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206066206060000001F1B",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873351303935393635354144",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930313838",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C303033503550354D4C475A53",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913351303935393635354144",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616720565732302020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1987F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F198000000000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71522F1997F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F199000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71522F19E7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19E45565F416972626156573230545336565734385800",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71522F1A262F1A2303031313136",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3303131",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50003062D1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060088CCC00000000000400000CC000800000065",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873545303932303835304120",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18931363637",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913545303932303835304120",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F44617368426F6172644A43494D5142414200",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2303038303038",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3313239",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50003003F1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600072402002000000801080800040000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F17E2D2D2D2D2D2D2D2D",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1873551303935333530374142",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F18C3038303331333034323230383430",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1913551303935333534392020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1974C656E6B732E204D6F64756C20",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F19E45565F534D4C534B4C4F4D514200",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1A2303039303031",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1A3303037",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1A50001F83F1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "62F1AA4A35323720",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "74A1A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A31B800007F3131",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F17E7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18762F1873551343935393339332020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18962F18930303036",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18C62F18C3030303030353631323135373020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19162F1913551343935393339332020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19762F19754534720465320202020202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19E62F19E45565F44435544726976655369646545574D4158434F4E540000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A262F1A2303036303031",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A362F1A3303037",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A562F1A50003062D1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1AA62F1AA4A33383620",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A220600620600001000208000020000001100",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B31B800007F3131",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F17E7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18762F1873551343935393339322020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18962F18930303036",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18C62F18C3030303030353631353334363020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19162F1913551343935393339322020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19762F19754534720424653202020202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19E62F19E45565F44435550617373655369646545574D4158434F4E540000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A262F1A2303036303031",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A362F1A3303037",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A562F1A50003062D1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1AA62F1AA4A33383720",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B220600620600001000208000020000001100",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77331B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F18762F1873545303033353838372020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F18962F18930313431",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F18C62F18C3030303033313039333931333030303034353238",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19162F1913545303033353838372020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19762F1974D552D452D2D45522020202020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19E62F19E45565F4D55456E743443434F4E5400",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1A262F1A2303034303532",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1A362F1A3313634",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1A562F1A50001FE2D1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1AA62F1AA4A37393420",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "773220600620600037301003C0000005011000100010000000000840000010000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E31B800007F3112",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F17E7F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18762F1873551303933373038344D20",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18962F18930313036",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18C62F18C3030303131333032343030303134",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19162F1913551303933373038344D20",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19762F19742434D204D5142414220422020",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19E62F19E45565F42434D434F4E544900",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A262F1A2303130303031",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A362F1A3483134",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A562F1A50003062D1ED6",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1AA62F1AA4A35313920",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206006206000C0008424247005307A04000000407080000000000000000000000000000",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3131",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1877F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930303730",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1917F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1977F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1987F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1997F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A27F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A37F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A57F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA7F2278",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206006206000600",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206017F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206067F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "skoda octavia 2013",
+        "Semantics": "UNKNOWN"
+    }
+]

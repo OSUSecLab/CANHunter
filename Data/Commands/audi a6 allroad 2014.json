@@ -1,0 +1,4557 @@
+[
+    {
+        "Command": "1F1A9F5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A15",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "7102204A17F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "1F1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "161A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "161A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "161A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1631B8000071B80101010301040106010701080114",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F17E62F17E4141303031303032",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F18762F1873854303835373531314144",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F18962F18930303132",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F18C7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F19162F1913854303835373531314144",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F19762F197464C4120202020202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F1A362F1A3483034",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F1AA62F1AA4A38343420",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "1622F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "16220600620600040182646E6E645A5A253D3E00",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206016206010D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "162207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B801020103010601070108010C0114",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E4142303031303037",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F1873447313033353035334A20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930313333",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C3232374237304537383738323936",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F1913447313033353035332020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F2055204261736963",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3483431",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA5220202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF00",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "52220600620600010003010000000001",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060109",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "531A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5331B8000071B801020103010601070108010C0114",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F17E62F17E434A303037303031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F18762F1873447303033353232334320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F18962F18930313630",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F18C62F18C3030303030303030303830343730",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F19162F1913447303033353232334120",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F19762F197424F53452D47332D4337202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A362F1A3483037",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1AA62F1AA4A35323520",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1DF7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "53220600620600030000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322060162060103",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010101020103010601070108010C01140116",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E3131303132303032",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F1873448303930373036334347",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930313330",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C62F18C3030303030303031383432323530",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F1913448303930373036332020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D3120322E302020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3483132",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206006206000907201009749FE2898100C320001800CF9C47082E080201000108546F01",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606E00600000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220607620607E00600000000400000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206106206100045F7",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022067062067030303830",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A06206A03447383935353131392020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D06206D0483337",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206406206403447313935353131392020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022073062073057575335375820313430323031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2131B8000071B801010102010301060107011401080116",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F17E62F17E3030303032303031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18762F187344830393037303634454E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18962F18930353231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18C62F18C3033323734373534383220202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19162F191344830393037303634454E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19762F19742434D3220322E302020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A362F1A3483336",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1AA62F1AA4A33393320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206006206000100062820B93080832009840C010F470000000000000000000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206016206011E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "21220606620606000000400000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "21220607620607000000400000000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B8010201060107011401080FFF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18762F1873447383935393739334820",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18962F18930353037",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19162F1913447383935393739334620",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19762F19754534720464120202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A362F1A3483034",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA62F1AA4A33383620",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "22220600620600011F16015C00628002080013",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206016206010C",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B8010201060107011401080FFF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18762F1873447383935393739324A20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18962F18930353037",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19162F1913447383935393739324720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19762F19754534720424620202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A362F1A3483033",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA62F1AA4A33383720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "23220600620600011F16015E00628002080002",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206016206010C",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2531B8000071B8010201060107011401080FFF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18762F1873447383935393739354A20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18962F18930353037",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19162F1913447383935393739354720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19762F19754534720485220202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A362F1A3483033",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA62F1AA4A33383920",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "25220600620600010F14014000628002080002",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206016206010C",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5A9B34473039303735363645202030303430030000680006462209574A3736392020535741204D617374657248303420",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C1A915A910E34473039303735363620202020FF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C1A9A7F1A12",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C1A865A860F36505A20303130203238372D303420484C482D34354633302E30312E31343030483034303030414D533135363033FF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C31B8000071B80101010201030104010601070108",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F17E7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1877F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1897F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F18C7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1917F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1977F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1987F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1997F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F19E7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1A27F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1A37F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1A57F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1AA7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C22F1DF7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206007F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206017F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206067F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206077F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206107F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206707F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206A07F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206D07F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2206407F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "1C2207307F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "7101A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71031B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18762F1873447303930373436384144",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18962F18930303530",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18C62F18C3030303030303031323639323436",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19162F1913447303930373436384143",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19762F1974A3533332D2D47617465776179",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19811",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19962F199070101",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19E62F19E45565F4761746577506B6F55445300",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A262F1A2303031303139",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A362F1A3483133",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1AA62F1AA4A35333320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022060062060000CD077D00",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022060162060105",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "710220606620606253600",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E35374832352D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F1873447303930373538394320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18930303032",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F1913447303930373538392020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197332E3042544420454443313720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D33304254443031313447303930373538394300",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303031303032",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483235",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E0220600620600322A403225660B020000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E131B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F17E62F17E2D2D4831362D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18762F1873447303932373135384C20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18962F18931303034",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18C7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19162F19130424B393237313536414D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19762F19730424B20333052544449526457",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19E62F19E45565F54434D414C35353132313100",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A262F1A2303032303232",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A362F1A3483136",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A562F1A5000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1AA62F1AA4A32313720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E1220600620600000001",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122060162060103",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18762F1873447303930373337394D20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18962F18930343530",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19162F1913447303930373337394D20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19762F197455350205052454D49554D2020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E62F19E45565F4553505072656D69415535375800",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A262F1A2303034303339",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A362F1A3483039",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1AA62F1AA4A31303420",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322060062060049A7DF0592E5FBA0CB00",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206017F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7521A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7521A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7521A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7521A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75231B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F18762F1873448303930373830314820",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F18962F18930303135",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F18C62F18C3030303030303030393539373632",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F19162F1913448303930373830314120",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F19762F1974550422D342020202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F19E62F19E45565F5061726B694272616B6500",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F1A262F1A2303031303238",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F1A362F1A3483033",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F1A57F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F1AA62F1AA2D2D2D2D20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75222F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206007F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206017F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7522207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71231B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F17E62F17E3030303031303030",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18762F1873447303930393134344C20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18962F18930303130",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18C62F18C30303035323833383331",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19162F1913447303930393134344720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19762F19752434550532020202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19E62F19E45565F52434550530000000000000000000000000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A262F1A2303039303038",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A362F1A3483430",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1AA62F1AA4A35303020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "712220600620600101001010000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206017F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F187344730383230303433414D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930303933",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C62F18C3134303231343030303430323136",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F191344730383230303433414D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F1974B4C494D412034205A4F4E454E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F416972436F6E6469436F6D666F55445300",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2303034303033",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483134",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A32353520",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "746220600620600360200B835",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206017F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A1A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A1A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A1A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A31B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F17E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F18762F1873447303931393135384E20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F18962F18930303933",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F18C62F18C3131303231343030303430313530",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F19162F1913447303931393135384E20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F19762F1974B4C494D4120464F4E44202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F19E62F19E45565F436C696D61436F6E7472556E69745265617255445300",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F1A262F1A2303034303032",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F1A362F1A3483038",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F1AA62F1AA4532363520",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A22060062060020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206017F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206066206060000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71A2207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873448303935393635354320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930303430",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334A4730304754543455",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913448303935393635354320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616731302E34332020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626141553130425041415536345800",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303031303134",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483433",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060030323436313330303339554A304C34473053",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060662060600000304050607080000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220610620610000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522067062067030303030",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A06206A03030303030303030303030",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D06206D0303030",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206406206403030303030303030303030",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522073062073042462D4765776963687473732E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F17E3239313331323335",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1877F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1873447393932303935304D20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1897F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F18930363231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F18C7F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F18C36353831343032313435393630303831",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1917F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1913447393932303935304D20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1977F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F197544469655264774163634E7620",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E7F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19E45565F524244344B00000000000000000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1A27F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1A2303034303438",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1A37F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1A3483538",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1A57F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF7F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7142206007F2278",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "620600138621081F550008000600",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7142206016206010B",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060662060600",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2222",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2222",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2222",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2222",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2222",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75431B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F17E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18762F1873448303930373335374220",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18962F18930303130",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18C62F18C3134303231322D303030322D313036390000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19162F1913448303930373335374220",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19762F1972E2E2E2E4C575231322E2E2E2E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19E62F19E45565F486561646C526567756C426173696300",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A262F1A2303035303031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A362F1A3483032",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1AA62F1AA4A34333120",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422060062060011226F601002A300",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206017F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7231A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7231A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7231A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7231A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72331B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F17E62F17E3134303033303031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F18762F1873447393935393130374220",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F18962F18930313433",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F18C62F18C303435343030303236",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19162F1913447393935393130374120",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19762F197484453472D4D6F64756C202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19E62F19E45565F484453474175353732000000000000000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1A262F1A2303031303232",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1A362F1A3483033",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1AA62F1AA2D2D2D2D20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "723220600620600097205C010",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322060162060105",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7551A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7551A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7551A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7551A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75531B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F17E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F18762F1873447303930373535334620",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F18962F18930373832",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F18C62F18C008990188159",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F19162F1913447303930373535334620",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F19762F1974C5546452D4441454D50464552",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F19E62F19E45565F416972537573706500",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F1A262F1A2303033303234",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F1A362F1A3483138",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F1AA62F1AA4A31393720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "755220600620600008002",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75522060162060103",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7552207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7571A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75731B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F17E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F18762F1873447303930373536314120",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F18962F18930343130",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F18C62F18C3030303030303030303030303030",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19162F1913447303930373536312020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19762F19741434333202020202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19E62F19E45565F41646170744372756973436F6E747241553537580000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1A262F1A2303032303130",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1A362F1A3483139",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1AA62F1AA4A34323820",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206006206007E04010202",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722060162060105",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B80102010701140106010101080103",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18762F1873448303935333536384720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18962F18930303035",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C62F18C39303337324E4237303030443620",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19162F1913448303935333536384720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19762F1974C656E6B732E4D6F64756C2020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A362F1A3483034",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA62F1AA4A35323720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206006206000000FD",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22060162060103",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A220606620606000000020000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B8010201060107011401080FFF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18762F1873447383935393739354A20",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18962F18930353037",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19162F1913447383935393739354720",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19762F19754534720484C20202020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A362F1A3483033",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA62F1AA4A33383820",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "24220600620600010F14014000628002080002",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206016206010C",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3131B8000071B80102010601070108010C011401160119011B",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F17E62F17E3030303032303031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F18762F187344830393037303634454E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F18962F18930353231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F18C7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19162F191344830393037303634454E",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19762F19742434D3220322E302020202020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19862F1982D2D2D2D2D2D",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1997F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19E7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A27F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A362F1A3483336",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1AA62F1AA4A33393320",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1DF7F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122060062060001A93006000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206016206010A",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "31220606620606040000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B34473039303735363845202030303430000000680000000000004A373730202053574120536C6176652048303420",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E34473039303735363820202020FF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F36505A20303130203238372D323420484C482D34354632382E30312E31343030483034303030414D533135303031FF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5A9B3447303930373434314220203030363103107AC5000646220957534720527565636B666168726B616D6572612020",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A915A910E34483039303734343120202020FF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9A7F1A12",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A865A860F353235205041384A343147353355205041382D30303131352E30312E31342D2D4830382D2D2D3030303231303136FF",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4931B8000071B80103010401060108",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F17E7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1877F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1897F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F18C7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1917F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1977F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1987F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1997F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F19E7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1A27F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1A37F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1A57F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1AA7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4922F1DF7F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206007F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206017F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206067F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206077F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206107F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206707F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206A07F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206D07F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492206407F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "492207307F2211",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A917F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9A7F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A867F1A11",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A31B800007F3112",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F17E62F17E3131303031303031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18762F1873448303931393437354141",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18962F18930303833",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18C62F18C3631303331343034393031383332",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19162F1913448303931393437354147",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19762F1975041524B48494C464520414343",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19862F198000000000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19962F199000000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19E62F19E45565F4550485641313841553537583030303000",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A262F1A2303034303039",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A362F1A3483031",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A562F1A5000646220957",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1AA62F1AA4A34343620",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1DF62F1DF40",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A220600620600A8EB0C",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22060162060103",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206067F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206077F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206107F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206707F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206A07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206D07F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206407F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2207307F2231",
+        "Model": "audi a6 allroad 2014",
+        "Semantics": "UNKNOWN"
+    }
+]

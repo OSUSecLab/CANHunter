@@ -1,0 +1,7 @@
+{
+  "User": "root",
+  "Password": "password",
+  "Host": "localhost",
+  "Port": 2222,
+  "App": [{"Carly f. Toyota": "Toyota"}]
+}

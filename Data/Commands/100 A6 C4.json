@@ -1,0 +1,62 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "100 A6 C4",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "100 A6 C4",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "100 A6 C4",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "100 A6 C4",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "100 A6 C4",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "100 A6 C4",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "100 A6 C4",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "100 A6 C4",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "714",
+        "Model": "100 A6 C4",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "100 A6 C4",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "100 A6 C4",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "100 A6 C4",
+        "Semantics": "Immobilizer"
+    }
+]

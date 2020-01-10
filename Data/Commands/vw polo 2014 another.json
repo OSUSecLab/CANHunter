@@ -1,0 +1,2222 @@
+[
+    {
+        "Command": "1F1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71031B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18762F1873643303930393930312020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18962F18930303635",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18C62F18C303039353238303132373232",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19162F1913643303933373038392020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19762F1974757204D514220413020202020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19E62F19E45565F476174657741304C6561720000000000000000000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A262F1A2303031303031",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A362F1A3483037",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1AA62F1AA4A35333320",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1DF62F1DF44",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "710220600620600030100047F0A560071000000000000010001010000000000000000000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102204A17F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E52344832312D2D2D",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F1873034453930363032374242",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18938323238",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F1913034453930373330394146",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197312E326C205234205453492020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D3132544653303131303445393036303237424200",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303031303036",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323320",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060001250032232419080000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E131B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F17E62F17E3030303433303134",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18762F1873043573330303034365020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18962F18936323031",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18C62F18C435535303134313032303634303100",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19162F19130414D3932373736394B20",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19762F1974753472044513230302D4D5142",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19E62F19E45565F54434D445132303030323100",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A262F1A2303031303031",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A362F1A3483433",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1AA62F1AA4A37343320",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206006206000014",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122060162060102",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18762F1873643303930373337394720",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18962F18930303033",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C62F18C3038353036313538313431303231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19162F1913652303930373337394241",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19762F197455350392E3069202020202020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E62F19E45565F4272616B6531455350393069424F5343485051323600",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A262F1A2313030303138",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A362F1A3483033",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1AA62F1AA4A31303420",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322060062060021DD2885892C33C71118106E0056841491CC88080005CB098F00",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71231B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F17E7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18762F1873643313930393134344D20",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18962F18933323131",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18C62F18C5045424530383731",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19162F1913643313930393134344420",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19762F1974550535F5452575F414C6F7720",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19E62F19E45565F5374656572417373697355445354525700",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A262F1A2303131303231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A362F1A3333132",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1AA62F1AA4A37393220",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206006206000007",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3131",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F1873643303930373034344120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930313035",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C62F18C2031343131303633412D30313139",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F1913643303930373034344120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F197436C696D6174726F6E69632020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F4143436C696D6156616C656F5051323600000000000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2303033303031",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483032",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A32353520",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "746220600620600200000001001100001",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3131",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873643303935393635354120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930333330",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334C4D303036384B5852",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913643303935393635354120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19756573230416972626167303142",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E7F2278",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19E45565F416972626156573230425041565732365800",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71522F1A262F1A2303031303031",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3303031",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060088C0C000000000005C0000CA000800000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873643303932303734304120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930323930",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913643303932303734304120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F44617368426F6172645644444D5142414200",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2303039303430",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3323131",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600072409082180000800086A001000000000000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77331B800007F3131",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F17E7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F18762F1873351303033353837342020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F18962F18930313333",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F18C62F18C56575A415A325034353937343039",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19162F1913351303033353837342020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19762F1974D552D532D4E442D4552202020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19E62F19E45565F4D5553746434435453415400",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1A262F1A2303031303138",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1A362F1A3483130",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1AA62F1AA4A37393420",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322060062060002620001BE00000011111201000808001F01008401200100C6",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E31B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F17E7F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18762F1873643303933373038394220",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18962F18930303635",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18C62F18C303039353238303132373232",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19162F1913643303933373038392020",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19762F19742434D20505132362048693452",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19E62F19E45565F42434D41300000000000000000000000000000000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A262F1A2303034303038",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A362F1A3483037",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1AA62F1AA4A35313920",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206006206000000184042530AFB4B844080B12703C810005B0257010000000000000000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A917F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9A7F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A867F1A11",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A31B800007F3112",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18762F1873551303931393239344520",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18962F18930303438",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18C62F18C3339333331343239303034303839",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19162F1913551303931393239344120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19762F1975041524B48494C464520384B20",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1987F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1997F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19E62F19E45565F4550485641313841553337303030303000",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A262F1A2303032303234",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A362F1A3483033",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A562F1A50007FD100314",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1AA62F1AA4A37393120",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1DF62F1DF40",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206006206000031051011",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206017F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206067F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206077F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206107F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206707F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206A07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206D07F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206407F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2207307F2231",
+        "Model": "vw polo 2014 another",
+        "Semantics": "UNKNOWN"
+    }
+]

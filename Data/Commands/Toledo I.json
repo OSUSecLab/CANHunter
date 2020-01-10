@@ -1,0 +1,42 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Toledo I",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Toledo I",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Toledo I",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Toledo I",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Toledo I",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Toledo I",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "711",
+        "Model": "Toledo I",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Toledo I",
+        "Semantics": "Immobilizer"
+    }
+]

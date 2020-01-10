@@ -1,0 +1,32 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Crafter",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Crafter",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Crafter",
+        "Semantics": "Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Crafter",
+        "Semantics": "Transmission"
+    },
+    {
+        "Command": "784",
+        "Model": "Crafter",
+        "Semantics": "ESP"
+    },
+    {
+        "Command": "7EE",
+        "Model": "Crafter",
+        "Semantics": "ESP"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "74D",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "7B7",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "746",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70C",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "76A",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "7D4",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "71D",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "755",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "7BF",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "74C",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "754",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76D",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "70B",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "775",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "76B",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "A6 S6 RS6 allroad C5",
+        "Semantics": "Telephone"
+    }
+]

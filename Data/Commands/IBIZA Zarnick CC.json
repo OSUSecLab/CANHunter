@@ -1,0 +1,2192 @@
+[
+    {
+        "Command": "00091FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00101FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00111FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "231003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00421FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0043ATSH32E",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0045A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0046A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0047A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0048A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0049A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0050A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0051A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00531000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1000037F1A11",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00541000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0055B1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00561000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00581100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21008F6204A10101",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00591100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2201000202000003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00601100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2303012017070130",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00611100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2415050120440901",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00621100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2520040001705506",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00631100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "260020101D003008",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00641100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "272C01113D3A0011",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00651100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2869430011475300",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00661100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "29112E540011375B",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00671100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2A00115757001156",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00681100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2B520511775A0011",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00691100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2C09200115191F01",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00701100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2D1525140130220A",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00711100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2E00204B39011113",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00721100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0F0B00306E3D0011",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00731100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0074B0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00751100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00761100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00771100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "200D240011782500",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00781100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2111182F00112D59",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00791100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2200116C49001132",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00801100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2308002005310031",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00811100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "243C1C0020263000",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00821100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "15112B300031",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00831100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0084B6",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00851100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0087A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00931FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0094ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0095ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01011FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0102ATSH32E",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0104A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D80010001000",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0105A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0106A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0107A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0108A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0109A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0110A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0111A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0112A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1241003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01261000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01271000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01281000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01291000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01311100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01321100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0134A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D000032E0301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01531FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0154ATSH32E",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0156A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0157A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0158A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0159A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0160A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0161A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0162A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0163A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0164A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1761003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01781000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01791000021A9F",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01811100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01821100032204A1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0184A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1901003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "020901C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "021001C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "021101C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "021201C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2241003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09027E810144902015653537E8215A5A5A364A5A427E82252313634303332",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2250902",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2311003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2411003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2216A97E8037F2231",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02422216A9",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2491003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02502202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2571003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02582202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2651003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02662202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2731003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02742202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2811003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02822202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2891003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD77E037F2231",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02902202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2971003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02982202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3051003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BDNODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03062202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3131003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180ENODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "031422180E",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "221811NODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "315221811",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2218B6NODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03162218B6",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180DNODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "031722180D",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3241003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "221008NODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "325221008",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3321003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "77E065003003200C8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "333",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3401003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "221821NODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "341221821",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3481003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2222AE77E037F2231",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03492222AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3561003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180BNODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035722180B",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3641003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A0CNODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0365222A0C",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A0BNODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0366222A0B",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222288NODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "367222288",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3741003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235377F0462235300",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "375222353",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235677F0462235600",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "376222356",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235477F0462235400",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "377222354",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235577F0462235500",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "378222355",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235777F037F2231",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "379222357",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3861003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F15B7E8037F22787E8102B62F15B0000007E821000000000000007E822000000000000007E823000000000000007E824000000000000007E825000000000000007E82600005555555555",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "038722F15B",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3971003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3981003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03991902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04011906001485FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "042103C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0422ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0423ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4351003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045405C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045505C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045605C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045705C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4691003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4701003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04711902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4771003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4781003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04791902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04982CC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0499ATSH33C",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0501A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0502A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0503A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0504A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0505A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0506A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0507A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5091000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5101000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0511B1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5121000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05141100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05151100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0516B2",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05171100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05191200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05201200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0521B3",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05221200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0524A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "053014C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0531ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0532ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5441003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5451003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05461902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "056552C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "056652C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "057200C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "057300C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "057920C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0580ATSH338",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0582A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0583A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0584A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0585A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0586A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0587A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0588A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5901000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5911000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0592B1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5931000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05951100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05961100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0597B2",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05981100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06001200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06011200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0602B3",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06031200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0605A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06111FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0612ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0613ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6251003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "064409C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0645ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0646ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6581003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "067739C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0678ATSH31E",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0680A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0681A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0682A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0683A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0684A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0685A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0686A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0687A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0688A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "A807",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6991003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07002216A9",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7071003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07082202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7151003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07162202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7231003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07242202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7311003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07322202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7391003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07402202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7471003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07482202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7551003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07562202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7631003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07642202BD",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7711003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "077222180E",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "773221811",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "07742218B6",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "077522180D",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7821003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "783221008",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7901003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "791",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7981003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "799221821",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8061003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "08072222AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8141003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "081522180B",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8221003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0823222A0C",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0824222A0B",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "825222288",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8321003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "833222353",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "834222356",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "835222354",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "836222355",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "837222357",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8441003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "084522F15B",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8611003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8065003003201F4",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8621003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7E8037F19787E8075902FF00148520",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "08631902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906001485FF7E806590600148500",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "08651906001485FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D0A3",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "088503C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0886ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0887ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8991003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9051003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377F065003004B00FA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9061003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77F037F197877F037F197877F037F197877F037F197877F037F197877F037F197877F03590299",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09071902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9131003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377E065003003200C8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9141003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77E03590299",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09151902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09342CC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0935ATSH33C",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0937A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0938A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0939A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D000033C0301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0940A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0941A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0942A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0943A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9451000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9461000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0947B1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9481000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09501100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09511100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0952B2",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09531100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09551200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09561200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0957B3",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09581200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0960A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9721003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377B065003003200C8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9731003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77B03590299",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09741902AE",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "099352C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "099452C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100000C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100100C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100720C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1008ATSH338",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1010A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1011A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1012A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D00003380301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1013A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "A10F8AFF4FFF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1014A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1015A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1016A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10181000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10191000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1020B1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10211000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10231100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10241100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1025B2",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10261100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10281200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1200037F1812",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10291200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1030B3",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10311200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1033A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10391FC00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D000032E0301STOPPEDOK",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1040ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1041ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10531003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D0A9",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "107209C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1073ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1074ATE0",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003NODATA",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10861003",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "110539C00010000301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1106ATSH31E",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1108A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1109A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1110A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D000031E0301",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1111A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "A10F8AFF4AFF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1112A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1113A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1114A00F8AFF84FF",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11161000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1000025089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11171000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1118B1",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11191000021089",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11211100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1100025800",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11221100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1123B2",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11241100041802FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11261200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "12000158",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11271200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1128B3",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11291200041800FF00",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1131A8",
+        "Model": "IBIZA Zarnick CC",
+        "Semantics": "unknown"
+    }
+]

@@ -1,0 +1,3747 @@
+[
+    {
+        "Command": "1F1A9F5A9FF1010100011115000002020001030300015319000104130001440900011505000155060000220A0000130B0000140C00004C080000101D00003218000017070601251402010920020546210205422202015223020162240201722502013626020065290201162A0201082C0201762D02007D2E02002630020069430200063502003D3A02006D34020063460200734702004753040075550400375B0400575704000F4F040056520405775A0401182F04001C4004015D4B04006C490400594104004F281800191F1A013C1C00005C1A00002E5404000D00020020160000780002002B0002000500020061331800A600000004009002FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A17F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "7102204A15",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "1F1A9B5A9B33433039303735333051202030313730100000000000000014C24A35333320204761746577617920202048313320",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E33433039303739353120202020FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A5A9A0000000014C230313730100BFD807F07001602009002FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A865A860F33343230503039413232303036312054464A2D494E4732322E31302E303920204831332020203050303130303631FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80104010601070108010A",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5A9B30364A393036303236444120363938371000000001CB8B78146A4D454431372E35205446534920322C3020202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A915A910E30364A39303630323644412020FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B8010101020103010601070108010D0118",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5A9B30324533303030353341202032313036030000140000000014BF4753472044534720414736202020202035313120",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A915A910E303245393237373730414C2020044631300530303033FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A865A860F30303030303931303135313032302054464B2D30333031352E31302E303920202035313131323835303431303230FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0231B8000071B80101010401060108",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F17E7F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1877F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1897F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F18C7F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1917F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1977F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1987F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1997F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F19E7F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A27F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A37F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A57F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1AA7F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1DF7F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206007F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206017F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206067F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206077F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206107F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206707F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206A07F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206D07F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206407F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022207307F2280",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5A9B334330363134313039414620303031350300017C0000000014BF4A31303420202020433420343430205632202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A915A910E33433036313431303941462020044B3033052D2D2D2DFF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A865A860F303030303037393538363531363120474E4F2D30303030322E31312E30392D2D3032352D2D2D3030393130333731FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B80101010201030104010601070108FFF0",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5A9B33433839303738303145202030303037030000390000000014BF4A3534302045504233202056572D313534313720",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A915A910E33433839303738303145202020FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A865A860F303030303030303030363236333120474E4F2D4B524232322E31302E303920203031302020203030303130303435FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1931B8000071B8010101020103010401060107",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B354E313930393134344B202030373033030001020000000014BF4A3530305F5F4150412D4253204B4C2E31343020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A915A910E354E313930393134384720202A044830330530303030FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A860F30303039323531303433373030322056444F2D30303132312E31302E303931414830333235364232303338323633FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301040106",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5A9B354E3039353936353548202031393136030030320000000014BF4A3233345F5F3330322056573130204849202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A915A910E354E303935393635354820202A043030330530304531FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A865A860F3030334531504D4D324B51362020205453362D50544C31352E31302E303932303031333030303030303131343232FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0531B8000071B8010101020103010401060108",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B80102010701030104010601140116",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E2D2D2D2D2D323053",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F187314B303033353138304143",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930303335",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C56575A345A374A31313235363139",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F191314B303033353138304143",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F205072656D2D3820",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3483130",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A50000000014BF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA4A35303320",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF40",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206006206000500040004",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060105",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5A9B334330393539343333415020B033383300000000FFFFFFFFFFFF202020494D4D4F20202020202020202030353220",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A915A910E33433039353934333341502020043030380530303030FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A865A860F56575A435A30303030303030303020484C4F2D57343232312E31302E303930303035323030305030303330363537FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1431B8000071B8010201030105010601070108",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5A9B334330393539343333415020B0343533030187050000000014BF20202052444B2020202020202020202020202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "291A915A910E33433039353934333341502020043030380530303030FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "291A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "291A865A860F56575A435A30303030303030303020484C4F2D57343232312E31302E303930303035323030305030303330363537FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2931B8000071B801020103010401060107",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5A9B334338393337303439452020B236303210000000000000001404426F72646E65747A2D5347202020202048353420",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A915A910E33433839333730343945202020043036330538352020FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A5A9A00000000140432363032101FF1848F8B40041A0047970F00170000000028FF475C40017C170000000000FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A865A860F3030303030303033333531373639205242382D36353831352E30392E303930304835343030303030313031363230FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601030104010201070108",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5A9B33433039353934333341502030343132100000000000000014BF2020204B534720505134362052444B2030353220",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A915A910E33433039353934333341502020043030380530303030FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A9A5A9A0000000014BF3034313210141B910F8001860E521204151F708A0F0E485801FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A865A860F56575A435A30303030303030303020484C4F2D57343232312E31302E303930303035323030305030303330363537FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2131B8000071B80102010301040105010601070108",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5A9B3154303935393730314C202031353333030004B70000000014BF4A3338362020545545522D534720465420202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A915A910E314B3039353937393350202020043232320530303854FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A865A860F3030303030373835343939303139204256422D39303631392E31302E303937313030393030352D2D2D2D37383534FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B80106010401020107",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5A9B3154303935393730324C202031353333030004B60000000014BF4A3338372020545545522D534720425420202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A915A910E314B3039353937393250202020043135370530303854FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A865A860F3030303030363236353939303137204256422D39303631372E31302E303937313030393030352D2D2D2D36323635FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B80106010401020107",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B7F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A917F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "7F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "2531B8000071B80106010201070104",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5A9B33433839313939363520202030303031030000020000000014C24B6F6D7061737320202020202020202030303120",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "401A915A910E33433839313939363520202020FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "401A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "401A865A860F313631343132385431325A303032204E41452D4A434132312E30392E303930303030313030303030333130303733FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4031B8000071B80102010301040106",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E62F17E3030303039303031",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F187334338393037333336414A",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930333035",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C7F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F191334338393037333336414A",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F197436C696D617469632020202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19862F198000000000000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19962F199000000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F436C696D617469630000000000000000000000000000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2413031303035",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483134",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A5000000E614BF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A33303120",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206006206000000001002",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622060162060105",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2222",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2222",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2222",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2222",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2222",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2222",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873343383932303937304D20",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930333035",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913343383932303937304D20",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695F5544535F5644445F524D303900",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034303532",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483033",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A5000000E614C2",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600240F00",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9A01CB8B78146A3639383710090404010A1C070160FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F56575A435A303030303030303030205242382D36353830332E31312E303941414831312D2D2D3133363031303635FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B334338393539333339202020303030330000000000000000000042462D4765776963687473656E732E2030303120",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E3343383935393333392020202A043030300530303030FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F303030303030303030303456424D204452312D30303032362E30392E303930303030313030303030363530303731FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363333324D545336303433393238383920FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363334324D545336303638303238383920FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A861236333531485453363033423032394B5220FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A861236333631485453364E41383936364B4A20FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A861236333732375453363647453136364B4A20FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633383237545336434E433032394B4A20FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B7F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B315A3030333537323943202030313730030033150000000014BF4653455F32503878202020202020202048333520",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A915A910E315A3030333537323943202020FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A865A860F3030303030303035313337383733204842522D30303230322E31312E303930303030303030303030383130303030FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A31B8000071B8010201030104010601070108",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B334330393035383631482020B033383000000000FFFFFFFFFFFF202020454C562020202020202020202030323820",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B334338393535313139202020B03630322100B7950000000014045769736368657220313530393039203032322020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B30393535353539414820B0343032220330ED000000001404524C532020202020323631303039203035342020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A0202020000000000000000000002020536F756E646572206E2E6D6F756E74656420",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A0202020000000000000000000002020202020204E4753206E2E6D6F756E74656420",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A020202000000000000000000000202020202049525545206E2E6D6F756E74656420",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B7F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B334338393539373033422020B0333039030004900000000014BF4A333838202020545545522D534720484C202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A917F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E314B3039353937393551202020043135390530303342FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A12",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A78",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F3030303030303031313335333130204252462D30303130322E31312E303934333030343130313030303130373432FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B80106010201070104",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1877F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1897F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1917F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1977F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A37F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A57F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF7F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206007F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206017F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2211",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B334338393539373034422020B0333039030004900000000014BF4A333838202020545545522D5347204852202020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E314B3039353937393451202020043135390530303342FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F3030303030303031313139383735204252462D30303132362E31302E303934333030343130313030303130323638FF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3112",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E62F17E4646303130453335",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18762F1873343353935333530314247",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930313232",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C62F18C3230303931303330313030313038",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19162F191354B303935333536395420",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19762F1974C454E4B532E4D4F44554C2020",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19862F198000000000000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19962F199000000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E62F19E45565F56573336305374656572576865656C5544530000",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A262F1A2413033303032",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A362F1A3303039",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A562F1A5000000E614BF",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA62F1AA4A35323720",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C220600620600098A270002",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22060162060105",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206066206061F",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw passat cc 2010",
+        "Semantics": "UNKNOWN"
+    }
+]

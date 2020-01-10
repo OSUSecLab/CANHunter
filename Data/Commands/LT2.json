@@ -1,0 +1,22 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "LT2",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "LT2",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "711",
+        "Model": "LT2",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "LT2",
+        "Semantics": "Immobilizer"
+    }
+]

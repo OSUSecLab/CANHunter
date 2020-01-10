@@ -1,0 +1,6 @@
+{
+  "IDA_PATH" : "/Applications/IDA Pro 7.0/ida64.app/Contents/MacOS/ida64",
+  "PROJECT_PATH": "/CANHunter/Code/CANHunter/",
+  "APP_PATH": ["CANHunter/diagnostic/Carly f. Toyota/Toyota"],
+  "API": {"-[CBPeripheral writeValue:forCharacteristic:type:]": 2}
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Up Brazil",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Up Brazil",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Up Brazil",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Up Brazil",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Up Brazil",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Up Brazil",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Up Brazil",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Up Brazil",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Up Brazil",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Up Brazil",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70A",
+        "Model": "Up Brazil",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "774",
+        "Model": "Up Brazil",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "714",
+        "Model": "Up Brazil",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Up Brazil",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "Up Brazil",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Up Brazil",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "712",
+        "Model": "Up Brazil",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "77C",
+        "Model": "Up Brazil",
+        "Semantics": "Steering Assist"
+    }
+]

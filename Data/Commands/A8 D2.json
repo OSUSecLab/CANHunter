@@ -1,0 +1,132 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "A8 D2",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "A8 D2",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "A8 D2",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "A8 D2",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "A8 D2",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "A8 D2",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "A8 D2",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "A8 D2",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7E2",
+        "Model": "A8 D2",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "7EA",
+        "Model": "A8 D2",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "70C",
+        "Model": "A8 D2",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "A8 D2",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "A8 D2",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "A8 D2",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "76A",
+        "Model": "A8 D2",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "7D4",
+        "Model": "A8 D2",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "711",
+        "Model": "A8 D2",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "A8 D2",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "754",
+        "Model": "A8 D2",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "A8 D2",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76D",
+        "Model": "A8 D2",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "A8 D2",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "70B",
+        "Model": "A8 D2",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "775",
+        "Model": "A8 D2",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "76B",
+        "Model": "A8 D2",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "A8 D2",
+        "Semantics": "Telephone"
+    }
+]

@@ -1,0 +1,3667 @@
+[
+    {
+        "Command": "1F1A9B5A9B38503039303735333020202030333032100000000000000018AA4A35333320204761746577617920202048333220",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E314B3039303739353120202020043030300530303030FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A5A9A0000000018AA30333032100CED937F0610070200002102FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A865A860F303330353130463230313930393920534A382D46535430332E30352E31302020483332202020303046324A303939FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80104010601070108010A",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F5A9FF5010100011115000002020001030300015319000004130001440900011505000155060001220A0001130B0A00140C00004C080001101D00003218000017070601251406010920020546210201422202155223020162240211722502013626020065290200162A0201082C0205762D02007D2E02002630020069430200063502003D3A02006D34020063460200734702004753040175550400375B0400575704000F4F040556520401775A0401182F04001C4004005D4B04006C490400594104004F280200191F14053C1C0A005C1A00002E5404000D00020020160000780002002B0002000500020061331400A6000000A5000A0004002102FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A17F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5A9B38503039303731313541532030303230100000000000000018AA322E306C2052342F345620544653492020202020",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A915A910E38503039303731313551202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B8010101020103010601070108010D0118",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5A9B30324533303030313253202032323432030000140000000018AA4753472044534720414736202020202035313120",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A915A910E303245393237373730414C2020044631300530303033FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A865A860F30303030313030353135303336362054464B2D30333031352E30352E313030353135313131323835303230333636FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0231B8000071B80101010401060108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F17E7F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1877F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1897F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F18C7F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1917F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1977F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1987F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1997F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F19E7F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A27F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A37F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A57F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1AA7F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1DF7F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206007F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206017F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206067F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206077F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206107F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206707F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206A07F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206D07F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206407F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022207307F2280",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103011401060108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E62F17E3030483330303031",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2278",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F187314B303930373337394243",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F18962F18930313036",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2278",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F191314B303930373337394243",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1977F2278",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F197455350204D4B36304543312020",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1987F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A362F1A3483330",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A562F1A50000000018AA",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA62F1AA4A31303420",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF62F1DF40",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206006206001150600F49220001880F06E9921F0041BF0400",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322060162060113",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B314B303930393134344A202033303031000000000AFFE00008154550535F5A464C53204B6C2E2032333320202020",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A8601205A46302D31303230392E30362E313030304831373030303430383030303032FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301060108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5A9B385030303335313836542020B0323830030B72200000000018AA5220436F6E63657274322B202020202048303320",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A915A910E38503030333531383654202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A865A860F41555A315A334B36313736363638204256582D30303332392E30352E313030304830333030303132333436363638FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B801020103010401060107",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5A9B38453030333535393350202030313630030000640000000018AA5344415220534952495553202020202048303720",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F1A915A910E38453030333535393350202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F1A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F1A865A860F41555A345A374B30353737373031204445322D44444D32362E30332E303030303030303030303030303730303930FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F31B8000071B801020104010601070108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F22F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "4F2207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5A9B385034303335333832452020B03138300000000000000000000041423220535542574F4F464552424F5848303720",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A915A910E38503430333533383245202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A865A860F393231353830363832373736333420424E4F2D32303331342E30352E313030303030362020203030303131323033FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5331B8000071B8010201060108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "7F1A78",
+        "Model": "audi a3 2011 us",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "141A9B5A9B385030393230393832522020B0303830000000000000000000004B4F4D4249494E5354522E2056444F2048303120",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A915A910E3850303932303938325220202004202020055644442DFF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A865A860F415558375A304A34464E49304447205644442D30323431382E30352E313044304830313030323736303130343834FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1431B8000071B8010301060108010D",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5A9B385033393037333537422020B03031300300000D0000000018AA44796E616D6973636865204C5752202048303120",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A917F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A865A860F202020202020202020202020202020484C4F2D30573533312E30352E313030303030303030313030303130373230FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0631B8000071B80101010201030104010601070108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B80102010301060107010801140FFF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E3030313037204146",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F1873850303930373036334B20",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930363135",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F1913850303930373036334B20",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D205051333520204D2020",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3313037",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A50000000018AA",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206006206006E000A0FA01336E4287241E000100D4D401E62AA104DD928E40008840040",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606800040000000",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2278",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "62061000DD13",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "2022067062067030303430",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A06206A03850313935353131394620",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2278",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "6206D0483130",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "202206406206403850313935353131394620",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022073062073057697363686572204155333530",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5A9B38503039353938303151202030313031030004BD0000000018AA547565722D534720202020202020202048303420",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A915A910E38503039353938303151202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B80102010401060107",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5A9B38503039353938303251202030313031030004BD0000000018AA547565722D534720202020202020202048303420",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A915A910E38503039353938303251202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B80102010401060107",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5A9B385034393539383032462020B0303530030004987B9A000018AA547565722D534720202020202020202048303420",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A915A910E38503439353938303246202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2531B8000071B80102010401060107",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873850303935393635355120",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930323030",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C303033464330303136533451",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913850303935393635355120",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616720415531303432",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F1980000000018AA",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F41697262613130415552423400",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303031303031",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483037",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50000000018AA",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220600620600303142393041303030374A55304C38503053",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206066206060100030405060708",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220610620610000000",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522067062067030303330",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A06206A03850303935393333394320",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D06206D0483032",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206406206403850303931303333394320",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522073062073042462D4765776963687473732E",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9A0000000018AA3030323010090103010A1C0F0160FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F415558375A304A34464E49304447205242382D36353830312E30362E313041414831372D2D2D3133363030303839FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5A9B3850303935333534394B2020B03037300300373E0000000018AA4A30353237202020202020202020202048333720",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B585858585858585858585820B0313030000000010000000000004530323231202020202020202020202048303220",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A915A910E3850303935333534394B202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B801020104010601070108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5A9B3850303932303938325220203030383003042B8880000002C0204B4F4D4249494E5354522E2056444F2048303120",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A915A910E3850303932303938325220202004202020055644442DFF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A865A860F323234344A303032303030303431205644442D30323431382E30352E313044304830313030323736303130343834FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B8010201030104010601070108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B7F1A78",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B38503138363233333620202030363530030004FD0000000018AA4653455F32353678204254202020202048343120",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A915A910E38503138363233333620202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A865A860F3030303030303035303336303637204842522D30303231392E30352E313030303030303030303030383230303030FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A31B8000071B8010201030104010601070108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B385030383230303433424E2030313530000300000000000000004B6C696D61766F6C6C6175746F6D617448303920",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A915A910E385030383230303433424E202004303030033030FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A5A9A0000000000003031353000000000FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A865A860F385030383230303433424E202020203030312D4B4D4D32372E30352E313030303032383220203030303230323832FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B801010102010301060107",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5A9B304252393037353534422020333031370300000500000000000048616C64657820344D6F74696F6E202020202020",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A915A910E30425239303735353442202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A867F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A31B8000071B801010102010401060108",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A22F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A2207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5A9B385034393539383031462020B0303530030004987B9A000018AA547565722D534720202020202020202048303420",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A915A910E38503439353938303146202020FF",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A12",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B80102010401060107",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1877F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1897F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1917F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1977F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A37F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A57F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF7F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206007F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206017F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2211",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "audi a3 2011 us",
+        "Semantics": "UNKNOWN"
+    }
+]

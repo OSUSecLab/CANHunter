@@ -1,0 +1,482 @@
+[
+    {
+        "Command": "00191FC00010000301",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00201FC00010000301",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00211FC00010000301",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "331003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A2A77A037F2231",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0034222A2A",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A2E77A1103622A2E10010277A210304050607080977A220A0B0C0D0E0F0077A231112131415161777A2418191A1B1C1D1E77A251F20212223242577A26262728292A2B2C77A272D2E2F3031323377A283435363738393A77A293B3C3D3E3F404177A2A4243444546474877A2B494A4B4C4D4E4F77A2C5051525354555677A2D5758595A5B5C5D77A2E5E5F606162636477A2F65666768696A6B77A206C6D6E6F70717277A217374757677787977A227A7B7C7D7E7F8077A238182838485868777A2488898A8B8C8D8E77A258F90919293949577A26969798999A9B9C77A279D9E9FA0A1A2A377A28A4A5A6A7A8A9AA77A29ABACADAEAFB0B177A2AB2B3B4B5B6B7B877A2BB9BABBBCBDBEBF77A2CC0C1C2C3C4C5C677A2DC7C8C9CACBCCCD77A2ECECFD0D1D2D3D477A2FD5D6D7D8D9DADB77A20DCDDDEDFE0E1E277A21E3E4E5E6E7E8E977A22EAEBECEDEEEFF077A23F1F2F3F4F5F6F777A24F8F9FAFBFCFDFE77A25FFAAAAAAAAAAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0035222A2E",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2204A377A10236204A301543C77A210000000000400C77A221000000048000077A230000000000000077A240000000000000077A2500AAAAAAAAAAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00362204A3",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A2877A1023622A2801400077A210000000000000477A220000000008000077A230000000000000077A240000000000000077A2500AAAAAAAAAAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0037222A28",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "431003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09027E81014490201544D427E8214A4B374E4538457E82230323030393439",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "440902",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377E065003003200C8",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "501003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "601003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8065003003201F4",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "611003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7E8037F19787E8101F5902FF0054667E8212000546520001B7E822DF2000442820007E823126D20001270207E82400159320555555",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00621902AE",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906005466FF7E806590600546600",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00651906005466FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906005465FF7E806590600546500",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00701906005465FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906001BDFFF7E8065906001BDF00",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00751906001BDFFF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906004428FF7E806590600442800",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00801906004428FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "190600126DFF7E806590600126D00",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0085190600126DFF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906001270FF7E806590600127000",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00901906001270FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00951906001593FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906001593FF7E806590600159300STOPPEDTSTC0?",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7E8101D62F19E45565F7E82145434D323054447E8224930313130344C7E823393036303231457E8244C005555555555",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "010022F19E",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1141003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003778065003003200FA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1151003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE778037F1978",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01161902AE",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3E807780759029900170A08",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "117300000000000005783897303697851138752145278806045914491753395807938689475572400128",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "190600170AFF778101A590600170A08778210102040297029177822FF000049CF48A3778230635040A718EAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0120190600170AFF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E778101D62F19E45565F77821426F6479436F6E7782274724D6F64756C7782331554453426F73778246300AAAAAAAAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "012522F19E",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1331003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377A065003003201F4",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1341003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77A100B59021902021277A210882300208AAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01351902AE",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906020212FF77A101B59060202120877A210102010286029377A228E000049F870CC77A23707C0000000000",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01381906020212FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01431906823002FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906823002FF77A101B590682300208STOPPEDTSTC0?",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E77A210107020272029177A22A2000049B4B69577A237078000000000077A101062F19E45565F77A2147617465774C6577A22617200AAAAAAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "014822F19E",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1571003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037DD065003003201F4",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1581003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7DD0759021900063209",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01591902AE",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906000632FF7DD10185906000632097DD21010201023302917DD22300000497CD71C7DD2371028678AAAAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01621906000632FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7DD101362F19E45565F7DD214D5553746434437DD22504153450000AA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "016722F19E",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1761003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037B4065003003201F4",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1771003",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7B40759021901003908",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01781902AE",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906010039FF7B410145906010039087B421010301027502927B42207000049D2FC6E",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01811906010039FF",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7B4101D62F19E45565F7B421444355447269767B422655369646545577B4234D4158434F4E547B4240000AAAAAAAAAA",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "018622F19E",
+        "Model": "Octavia",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7E0",
+        "Model": "Octavia",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Octavia",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Octavia",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Octavia",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Octavia",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Octavia",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Octavia",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Octavia",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70C",
+        "Model": "Octavia",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Octavia",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Octavia",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Octavia",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Octavia",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Octavia",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "71D",
+        "Model": "Octavia",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "Octavia",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "74C",
+        "Model": "Octavia",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Octavia",
+        "Semantics": "Seat Mem. Driver"
+    }
+]

@@ -1,0 +1,1207 @@
+[
+    {
+        "Command": "7502AA801E8010004FFFFFFFF0302C0000402C0000602E0E00902C0000A01FF0F0600000FFFFFFF100600000FFFFFFF110600000FFFFFFF120600000FFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA803E8030004FFFFFFFF0302C0000602E0E00E20800700000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF1802FFFF1906FFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7E0A801E8010004FFFFFFFF011DFFFFFFFFFF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000202FFFF030BFFFFFFFFFFFFFFFFFF0000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A802E8020004FFFFFFFF0101FF0402515105025252060202020904030301010B02C0C00D01FF150203031701FF1C03FFFF011D04FFFF00001F02FFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A8037FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C161C155524A322323233355524645200808416E0100",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C261C236304B383200210304000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021E261E2F7F7D9F360",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0AA00EA00C3C319ED",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E1A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7C0A801E8010004FFFFFFFF1204B00004001301FF2004FFFFFFFF2101FF2201FF2301FF2901FF4004FFFFFFFF4101FF6004FFFFFFFF6401FF6801FF6901FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A802E8020004FFFFFFFF01010F02017F0301FF0501FE0601F80902FF160A0280000B0CD3E00F428040101400000DE00D01FF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA10108A20118A603FF0000A701C0C004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0C06FFFFFFFFFFFF110480F000001204F87000001304D8000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF1103F080001203A0000014036000001503F0C0801604F08000F02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0C06FFFFFFFFFFFF110480F000001204F87000001304D8000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "750B5A801E8010004FFFFFFFF11063C38F0000000120620C0000000001B040C40C0002004FFFFFFFF3101FF3203FFFFFF3306FFFFFFFFFFFF3406FFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A802E8020004FFFFFFFF0101400201FF0301F00401800601902004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A803E8030004FFFFFFFF11063C38F0000000120620C0000000001B040C40C0002004FFFFFFFF3101FF4004FFFFFFFF6004FFFFFFFF6106800000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF2004FFFFFFFF2101FF2201FF2401FF2501FF2601FF2901FF2A01FF2B02FFFF2C02FFFF3B01FF3C01FF3D01FF3F01FF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF0201FF1301FF1401FF1902D1D11A0204042004FFFFFFFF2101FF2201FF2401FF2501FF2B01FF2D01FF3101FF3201FF3301FF3501FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A803E8030004FFFFFFFF0101FF0201FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF8104C0008D008204FEF8FE00",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C42189618910",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C42129612924",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "780A801E8010004FFFFFFFF0101FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8027FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A803E8030114FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "7802105610501",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "750ADA801E8010004FFFFFFFF0103FFBF400201EE0301800401880501880601FFE004FFFFFFFFE101FFE204FFFFFFF7",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA802E8020004FFFFFFFF0101C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA803E8030004FFFFFFFF0101EE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "75067A8017FA878",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "75067A802E8020004FFFFFFFF0401802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "75067A8037FA878",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "750E9A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "REMOTE_ENGINE_STARTER"
+    },
+    {
+        "Command": "7B4A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7D0A801E8010004FFFFFFFF2004FFFFFFFF2108C7FFFFFFBDFFFFFC2201FF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A802E8020004FFFFFFFF2004FFFFFFFF2201FF2301FF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A8037FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "75041A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75042A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "7B1A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "750E0A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "THEFT_DETERRENT"
+    },
+    {
+        "Command": "75090A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A8037FA811",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75091A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A8037FA811",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75092A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75092A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75092A8037FA811",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75093A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "75093A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "75093A8037FA811",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "750B9A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "WINDOW_REAR_HATCH"
+    },
+    {
+        "Command": "750A1A801E8010004FFFFFFFF2004FFFFFFFF2101E02204FFFFFFFF2302FFFF2702FFFF2804FFFFFFFF2902FFFF2D02FFFF3504FFFFFFFF380280F04004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A1A802E8020004FFFFFFFF1101802004FFFFFFFF21010C2201F02301F04004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A1A8037FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A2A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "750A4A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "750A7A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "750B8A801E8010004FFFFFFFF110268702004FFFFFFFF2101FE3101F04004FFFFFFFF41017C5101C06004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA104FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750B8A802E8020004FFFFFFFF0101801101F82004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750B8A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF41017C5101C06004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750ABA801E8010004FFFFFFFF0101380302DF0F0401FF0501FF0601FF0802FFFF0902FFFF0A02FFFF0B02FFFF0E02FFFF0F02FFFF1002FFFF1102FFFF1402FFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA802E8020004FFFFFFFF0101FF0201012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA803E8030004FFFFFFFF0301012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "75080A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75083A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_REAR_RIGHT"
+    },
+    {
+        "Command": "75085A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_REAR_LEFT"
+    },
+    {
+        "Command": "7508AA801E8010004FFFFFFFF2004FFFFFFFF2101FF2201FF2301FF2401FF2601FF2701FF2801FF2901FF2B01FF2C01FF2D01FF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508AA802E8020004FFFFFFFF0601FF0701FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508AA8037FA811",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508BA801E8010004FFFFFFFF2004FFFFFFFF2101FF2201FF2301FF2401FF2601FF2701FF2801FF2901FF2B01FF2C01FF2D01FF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508BA802E8020004FFFFFFFF0601FF0701FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508BA8037FA811",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508CA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_REAR_RIGHT"
+    },
+    {
+        "Command": "7508DA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_AC_REAR_LEFT"
+    },
+    {
+        "Command": "750DCA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SEAT_DRIVER_SWITCH"
+    },
+    {
+        "Command": "750DDA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "CENTRAL_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "750DEA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "REAR_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "75070A801E8010004FFFFFFFF010281F80308FFFFFFFFFFFFFFFF0406FFFFFFFFFFFF0506FFFFFFFFFFFF06080000000000E00000070896969494EC007F08",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A802E8020004FFFFFFFF0101CF030180050180",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A8037FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7507021E261E2005E990100",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "HYBRID"
+    },
+    {
+        "Command": "790A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STABILIZER_FRONT"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STABILIZER_REAR"
+    },
+    {
+        "Command": "7502AA801E8010004FFFFFFFF0302C0000402C0000602E0E00902C0000A01FF0F0600000FFFFFFF100600000FFFFFFF110600000FFFFFFF120600000FFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA803E8030004FFFFFFFF0302C0000602E0E00E20800700000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF1802FFFF1906FFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFFF00405FF000000FF050DFFFFFFFF0000000000FFFFFF000604FFFFFFFF0801FF0A07FFFFFF00000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF03021313070237372004FFFFFFFF2102FFFF22020F0F28020C0C3104000020203503FFFFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A803E8030002FFFF0300",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7A1A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "791A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "PRE_COLLISION"
+    },
+    {
+        "Command": "7A2A801E8010004FFFFFFFF10067F8E00000000110602F000A000802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7A2A8027FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7A2A803E8030004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7A2A9007FA911",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "750ECA801E8010004FFFFFFFF0102F7F702027E7CE004FFFFFFFFE101FFE204FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA802E8020004FFFFFFFF0101C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA8037FA811",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750A5A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A6A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A8A801E8010004FFFFFFFF0202FFFF0301FF0401FF0501F80601FF0701FF0804FFFFFFFF0904FFFFFFFF0A04FFFFFFFF0B04FFFFFFFF0C04FFFFFFFF0D04FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750A8A802E8020004FFFFFFFF0101F02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750A8A803E8030004FFFFFFFF0101FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750DBA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STEERING_COLUMN_SWITCHES"
+    },
+    {
+        "Command": "750DAA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "7503BA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ADAPTIVE_SUSPENSION"
+    },
+    {
+        "Command": "75060A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "NIGHT_VIEW"
+    },
+    {
+        "Command": "744A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "DYNAMIC_REAR_STEERING"
+    },
+    {
+        "Command": "75002A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "7A3A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "75051A801E8010004FFFFFFFF2004FFFFFFFF2104C0E01F004004FFFFFFFF6004FFFFFFFF6104FF0000006204800000008004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "75051A802E8020004FFFFFFFF1103C000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "75051A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFFD0180",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "7504FA801E8010004FFFFFFFF2004FFFFFFFF2104800000002204F00000004004FFFFFFFF520480E7E7006004FFFFFFFF6104FF0000006204800000007101F8",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "7504FA802E8020004FFFFFFFF11038000002004FFFFFFFF24038000003303C000004004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "7504FA803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF7101F88004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "750B0A80111",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "750B0A8027FA822",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "750B0A8037FA822",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "7C1A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ELEC_POWER_CONTROL"
+    },
+    {
+        "Command": "727A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "GEAR_SELECTOR"
+    },
+    {
+        "Command": "7D2A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ELEC_PROPULSION_CONTROL"
+    },
+    {
+        "Command": "7E7A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "PLUG_IN_CONTROL"
+    },
+    {
+        "Command": "723A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "ACTIVE_ENGINE_MOUNT"
+    },
+    {
+        "Command": "75052A801E8010004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "75052A8027FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "75052A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "750C8A801E8010004FFFFFFFF2004FFFFFFFF2102FFFF2201FF2304FFFFFFFF2401C02501FF2606FFFFFFFFFFFFE004FFFFFFFEE101FFE205FFFFFFF7C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750C8A8027FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750C8A8037FA812",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801041AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FFFF0000FFFF050E0000FFFF0000FFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010612FFFFFFFFFFFFFFFFFFFFFFFFFFFF000000002004FFFFFFFF2120FFFFFF000000000000FFFC00FFFFFFFFFFFFFFFFFFFFFFFFFFF8000000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012302FFFF250D0E1800C0F0E030004C00308400260D0E1800C0F0E030004C00308400",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013322FFFFFFFFFFFF0000000000000000FFFFFFFF0000000000000000FFFFFFFF00000000350300FFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013717FFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF20CF80390A51520202C0030000C718",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013A1E00000000000000000000000000FFFF0000FFFFFFFF00000000FFFFFFFF0C3C15FFFF0000FFFFFFFF000000000000000000000000004004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014115FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FC441DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801451AFFFFFF0000FFFFFFFFFFFFFFFF00000000FFFFFFFFFFFF00FFC0461AFFFFFFFFFF0000FFFFFFFFFFFFFFFFFFFF0000000000000000E0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801541AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000FFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018118FF0000000000000000000000000000000000000000FF0000820AFFFFFFFF00000000000083038000008504FF801800A004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A138000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000000000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A436FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000FFFFFFFF0000000000000000FFFFFFFF00000000000000000000FFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A71AFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A822FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000FFFFFFFFFFFFFFFFFF00FFA914FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AA2AFFFFFFFFFFFFFFFFFFFFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AB1AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAC0600000000FFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AD26FF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFB005FFFFFFFFFFB108FFFFFFFFFFFFFF1F",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B20BFF00000000000000000000C004FFFFFFFFC113FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F80C20CFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C31BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000C40EFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C514FFFFFFFF00000000000000000000000000000000C610FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C71CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC906FFFF0F07FEE0E004FFFFFFFFE108FFFF000000000000E205FFFFFFFFE0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E303AF0300",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8022004FFFFFFFF2804C7C718182D0A1F1F03030F0F02024141",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFF920FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF930FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA004FFFFFFFFA10108A20118A603FF0000A701C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE101FFE205001ED91100",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8026004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803E004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80114048A470000150470FC80C017040E00C0C02004FFFFFFFF2104800000002204F80000003101FF3203FFFFFF3304FFFFFFFF3404FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013604FFFFFFFF3704FFFFFFFF3804FFFFFFFF3904FFFFFFFF3A04FFFFFFFF3B04FFFFFFFF3C04FFFFFFFF3E04FFFFFFFF4004FFFFFFFF4404FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014504FFFFFFFF4604FFFFFFFF4704FFFFFFFF4804FFFFFFFF4904FFFFFFFF5604FFFFFFFF5704FFFFFFFF6004FFFFFFFF6501806601FF8004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFA104C0000000A204C0E80000A304C000C0C0A40460400000A504C0000000A6040080FE80A704F7FFFF00A804F8800C00A904FF0000FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFC132FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C204FFFFFFFFC304FFFF0000C404FFFF0000C504FFFF0000E004FFFFFFFEE101FFE205FFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80314048A470000150470FC80C017040E00C0C02004FFFFFFFF2104800000002204F80000003101FF4004FFFFFFFF4404FFFFFFFF4504FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8034604FFFFFFFF4704FFFFFFFF4804FFFFFFFF4904FFFFFFFF5604FFFFFFFF5704FFFFFFFF6004FFFFFFFF6101808004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803C004FFFFFFFFE004FFFFFFFEFC0180FD0180",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013506FFFFFFFFFFFF3606FFFFFFFFFFFF3706FFFFFFFFFFFF3806FFFFFFFFFFFF3906FFFFFFFFFFFF3A06FFFFFFFFFFFF3B06FFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013E06FFFFFFFFFFFF3F06FFFFFFFFFFFF4004FFFFFFFF4106FFFFFFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA103FF8030B106FCFF00000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B206FFFF00000000B302FFF0B404C0000000B5023000B606FFFFFF000000BB0408302000C004FFFFFFFFC10430000000C204FF000000C304C0000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C406F0FFFBFFFFFCC506F13DFE3F0000D106F7738FFFFFFFD20480000000D301E0D406800000000000D506F8FCFFF00000D606FF0000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFEE101FFE205FFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802E004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036206F880000000006306FFFF800000007104800000008004FFFFFFFF8106C800000000008206C8000000000083068000000000008406800000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8038506C000000000008606FFFF00000000A004FFFFFFFFB5023000C004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014101FF4201FF4401FF4501FF4B01FF5001FF5201FF5301FF5601FF5701FF5E01FF6004FFFFFFFF6101FF6601FF6801FF6C01FF6D01FF6E01FF7001FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017501FF7701FF7801FF7902FFFF7A02FFFF7B01FF7C01FF8004FFFFFFFF8104C0008D008204FEF8FE008901FF8A01FFA004FFFFFFFFAB01FFAC01FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8023A01FF3B01FF3E01FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010337FFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010405FFFF00FFFF0501FF0601FF0714FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF090A0000000000FFFFFFFFFF0A01FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012004FFFFFFFF2102FFFF3129FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801322EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014108FFFFFFFFFFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFFEC01FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010004FFFFFFFF2004FFFFFFFF210190220267FC2301302401082501C027050F00F0FFFF2801F82902F9004004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE101FFE205FFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8030004FFFFFFFF2004FFFFFFFF220267FC2301302401082501C02F01804004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803E004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E101FFE205FFFFFFF7C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFF7C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE205FFFFFFF7C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFC102FFFFC201FFE004FFFFFFFFE101FFE205FFFFFFF7C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011502FFFF1602FFFF1702FFFF1A02FFFF1B02FFFF1C02FFFF1D02FFFF2004FFFFFFFF2801014004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE10100E205FFFFFFF7C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205001E990100",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80108080000000001E00000090896969494FC007F080A08929290901DE005000B0896969494FC007F080D04FFFFFFFF0E08929290901DE00500",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010F0896969494FC007F082004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A801E8010004FFFFFFFF0304FFFFFFFF0402FFFF0501FF0602FFFF0702FFFF0804FFFFFFFF0904FFFFFFFF0A02FFFF0B02FFFF0C04FFFFFFFF0D04FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010E04FFFFFFFF0F04FFFFFFFF1004072E17601104FFFFFFFF1203FFFFFF1302FFFF1401FF1502FFFF1C04FFFFFFFF2004FFFFFFFF2101FF2202FF03",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80132027F734004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFFE303FFFFFFE504FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A802E8020004FFFFFFFF0101FF0201FF0301FF0401FF09027F030B02FF3F2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802C004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A803E8030004FFFFFFFF0102FFFF0202FFFF0302FFFF0402FFFF0504FFFFFFFF0604FFFFFFFF110012001300140017002004FFFFFFFF2102FFFF2202FFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8032302FFFF2402FFFF2504FFFFFFFF2604FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801130600000FFFFFFF1505FFFFFFFFFF1605FFFFFFFFFF170501010101011802FFFF1906FFFFFFFFFFFF1A05FFFFFFFFFF1B02C0001C02FF001D02FF00",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011F06FFFFFFFFFFFF2004FFFFFFFF2102C0004004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE101FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8031A05FFFFFFFFFF1B02C0001C02FF001D02FF001F06FFFFFFFFFFFF2004FFFFFFFF2102C0004004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803C004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010C0C000000FFFF000000000000001C02FF801D01601F02C0382004FFFFFFFF2101FF3901C03A010F3D03F400803E02EF803F02A0FF4004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014109FFFFFF0000000000004204FFFFFFFF4308FFFFFF00FFFFFFFF4607FFFFFFFFFFFFFF4707FFFFFFFFFF00005901FC5A02F6FC5E01FC5F02F316",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF6107FFFF00FFFF00FF6205FFFFFFFFF0630BFFFF00000000FFFFFFFFFF7E03FF63007F04FFDFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A101FFA408FFFFFFFFFFFFFFFFBE03FF0000C004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8028004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE101FFE205FFFFFFF780",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010E04FFFFFFFF1601F81701FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFF7C0",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE205FFFFFFFFFFFE200000000000000000000000000000000000000000000080000000000000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF200000000000000000000000000000000000000000000080000000000000000000",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE104FF000000E205FFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802E004FFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "756A8015",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC204FFFFFFFFC302FFFFC402FFFFC502FFFFC606FFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE101FFE205FFFFFFFFFFFE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803C120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC204FFFFFFFFC302FFFFC402FFFFC502FFFFE004FFFFFFFFFC0180",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803FD0180",
+        "Model": "lexus lx570 2010 us",
+        "Semantics": "UNKNOWN"
+    }
+]

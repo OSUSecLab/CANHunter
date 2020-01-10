@@ -1,0 +1,122 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Azure",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Azure",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Azure",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Azure",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Azure",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Azure",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "74D",
+        "Model": "Azure",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "7B7",
+        "Model": "Azure",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "710",
+        "Model": "Azure",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Azure",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "72D",
+        "Model": "Azure",
+        "Semantics": "Auto Roof"
+    },
+    {
+        "Command": "797",
+        "Model": "Azure",
+        "Semantics": "Auto Roof"
+    },
+    {
+        "Command": "74C",
+        "Model": "Azure",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Azure",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "74A",
+        "Model": "Azure",
+        "Semantics": "Door Elect. Driver"
+    },
+    {
+        "Command": "7B4",
+        "Model": "Azure",
+        "Semantics": "Door Elect. Driver"
+    },
+    {
+        "Command": "76F",
+        "Model": "Azure",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7D9",
+        "Model": "Azure",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "74B",
+        "Model": "Azure",
+        "Semantics": "Door Elect. Passenger"
+    },
+    {
+        "Command": "7B5",
+        "Model": "Azure",
+        "Semantics": "Door Elect. Passenger"
+    },
+    {
+        "Command": "70B",
+        "Model": "Azure",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "775",
+        "Model": "Azure",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "76B",
+        "Model": "Azure",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Azure",
+        "Semantics": "Telephone"
+    }
+]

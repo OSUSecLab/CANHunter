@@ -1,0 +1,72 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Fox",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Fox",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "713",
+        "Model": "Fox",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Fox",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Fox",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Fox",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Fox",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Fox",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "714",
+        "Model": "Fox",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Fox",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Fox",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Fox",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "712",
+        "Model": "Fox",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "77C",
+        "Model": "Fox",
+        "Semantics": "Steering Assist"
+    }
+]

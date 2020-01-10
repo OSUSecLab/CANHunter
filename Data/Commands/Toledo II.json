@@ -1,0 +1,82 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Toledo II",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Toledo II",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Toledo II",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Toledo II",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Toledo II",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Toledo II",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Toledo II",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Toledo II",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "714",
+        "Model": "Toledo II",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Toledo II",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Toledo II",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Toledo II",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "71D",
+        "Model": "Toledo II",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "Toledo II",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "74C",
+        "Model": "Toledo II",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Toledo II",
+        "Semantics": "Seat Mem. Driver"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Polo Classic",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Polo Classic",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Polo Classic",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Polo Classic",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Polo Classic",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Polo Classic",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "714",
+        "Model": "Polo Classic",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Polo Classic",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Polo Classic",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Polo Classic",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "711",
+        "Model": "Polo Classic",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Polo Classic",
+        "Semantics": "Immobilizer"
+    }
+]

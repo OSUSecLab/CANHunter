@@ -1,0 +1,2517 @@
+[
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A1010105001115000002020000030301005319000004130100440901001505010055060000220A0000130B0005140C00004C080000101D00003218000017070103251401030920050146210101422201015223010162240001722500013626000165290001162A0101082C0101762D00017D2E00012630000169430101063500013D3A00016D34000163460001734700014753000275550002375B0002575700020F4F000256520102775A0002182F00021C4000025D4B00026C490002594100024F28000A191F010A3C1C00055C1A00002E540002BE00000120160000BF0000012B000001050000016133000AA6000000A50000058C0000005100000040000005C2000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "7102204A15",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80104010601070108010A0114",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E2020483432202020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F187374E303930373533304820",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18931363230",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C62F18C3235303931314631303032333734",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F191314B303930373935312020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F1974A353333202047617465776179",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483432",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A500047AF28926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600357401",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060162060103",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22061011",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22067011",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A011",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D011",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22064011",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22073011",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103011401060108",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E62F17E3030483331303031",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2278",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F187314B303930373337394248",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F18962F18930313231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2278",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F191314B303930373337394248",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1977F2278",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F197455350204D4B36304543312020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1987F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A362F1A3483331",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A562F1A500047AF28926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA62F1AA4A31303420",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "03220600620600633C600D09270302C61406E79019C082300000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322060162060113",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B314B303930393134344D2020333230310000000000047AF289264550535F5A464C53204B6C2E2031343020202020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A8601205A46302D32303330342E31302E313130304832303030303430383030303536FF",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301060108",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B8010201030106010701080114",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E5230353533303036",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F187354B303033353135364120",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930353535",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C56575A355A314C30353830383939",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F191354B303033353135364120",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F2020202020202020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3353533",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A500047AF28926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA4A35303320",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206006206000500040002",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060105",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5A9B315430393539373031542020323131300300023000047AF28926547565722D534720202020202020202030303920",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A915A910E31543039353937303154202020FF",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A12",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A12",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B80102010401060107",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1877F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1897F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1917F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1977F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A37F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A57F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206007F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206017F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5A9B315430393539373032522020323131300300023000047AF28926547565722D534720202020202020202030303920",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A915A910E31543039353937303252202020FF",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A12",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A12",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B80102010401060107",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1877F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1897F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1917F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1977F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A37F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A57F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF7F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206007F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206017F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2211",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E34324832352D2D2D",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F18730334C393036303138474E",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18938323436",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C62F18C3030303030303030303030303030",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F19130334C3930373330395220",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197523420322C304C204544432020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D323054444930313130334C393036303138474E00",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303033303035",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483235",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A50624662C8926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A20363233",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060000110012040500080000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E62F17E3030303031303136",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F187374E30393037343236414D",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930333034",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F191374E30393037343236414D",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F1974143204D616E75656C6C202020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19862F198000000000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19962F199000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F41434D616E7565424842565733365800000000000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2413031303130",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483139",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A50624662C8926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A33303120",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206006206000000001002",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622060162060105",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2222",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2222",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2222",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2222",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2222",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2222",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873248303935393635354220",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930303133",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C303033484E303035374D534A",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913248303935393635354220",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19756573130416972626167303139",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626156573130425041564E37353000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2413031303236",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483036",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50624662C8926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220600620600000000000000000000000000000000003139",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206066206060304",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F187324B303932303836354520",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930363036",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F191324B303932303836354520",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695F5544535F5644445F524D303900",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034313134",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483033",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50624662C8926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600180A01",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F187354B303935333233342020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930363036",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C3030303030303030303030303030",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F191354B303935333233342020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000000000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5F5544535F5644445F524D303900",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413033303039",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483033",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A5000000000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "711220600620600000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122060162060103",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4331B8000071B8010201030106010701080114",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F17E62F17E3341303031303031",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F18762F187314B303930373338334620",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F18962F18930313030",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F18C62F18C3030303030313536343138303539",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F19162F191314B303930373338334620",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F19762F197416E6861656E67657220202020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F1987F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F1997F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F19E7F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F1A27F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F1A362F1A3483039",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F1A562F1A500047AF28926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F1AA62F1AA4A33343520",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "43220600620600410D000100000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4322060162060108",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432206067F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "432207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3112",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18762F187354B303935333530374153",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930303830",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C62F18C2039303434304B49553030313255",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19162F191354B303935333534394320",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19762F1974C656E6B732E4D6F64756C2020",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19862F198000000000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19962F199000000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E62F19E45565F534D4C534E474B55445300",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A262F1A2413035303031",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A362F1A3303038",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A562F1A50624662C8926",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA62F1AA4A35323720",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206006206005080060000",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22060162060105",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22060662060600",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw caddy 2012 partial",
+        "Semantics": "UNKNOWN"
+    }
+]

@@ -1,0 +1,2227 @@
+[
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A10101010002020000030301201707013315050120440901200400017055060020101D0030082C01113D3A001169430011475300112E540011375B00115757001156520111775A001109200115191F011525140133220A00204B390011130B00306E3D00110D24001178250011182F00112D5900116C49001132080020053100313C1C0020263000112B300031AD61003061330113B9000033B8000031650000305100003023000030C60000308C000030BD000030C0000030750000315F000031",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "7102204A15",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80105010601080114",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E4239303734303031",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F187364E303930393930312020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18930373235",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F1913748303933373039302020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F19747572D4B2D43414E2054503230",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483734",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A50000962D1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF00",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600932200",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060162060103",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B80102010301060107010801140116",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E2D2D2D2D2D303453",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F187354A303033353136314520",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930303031",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C534B5A345A325031323338333930",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F191354A303033353136314520",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F2D5357494E472020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3303034",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A50000962D1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA4A35303320",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "52220600620600000002000007",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060106",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601020103010701080114",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E4239303734303031",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F1873748303933373039304420",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930373235",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C62F18C3036373120313431313433373833",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F1913748303933373039302020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D2050513235204D617834",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3483734",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A50000962D1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022060062060024980B0000C93400920009302E0B0CC00F40400F60820040020000004000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606000144000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "7F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E62F17E2D2D4831302D2D2D",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18762F1873033463930363037304A4E",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18935343834",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C62F18C2020202020202020202020202020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F191303346393037333039414C",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F19753494D4F5331302E3233410000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D31325446533032313033463930363037304A4E",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303034303035",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483130",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A50000903F1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323320",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060000110096200401080000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18762F1873153303631343531374620",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18962F18930303232",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C62F18C4130304C4D5849",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19162F1913153303631343531374620",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19762F19745424320343630204553502020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E62F19E45565F4272616B653145535045424334363054525700",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A262F1A2303032303034",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A362F1A3483136",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A562F1A50000903F1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1AA62F1AA4A31303420",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322060062060093CC2C7889AD00F3C90234FC91AA00504E0700",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206017F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71231B800007F3112",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F17E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18762F1873652313930393134345220",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18962F18933313131",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18C62F18C4345363430303238",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19162F1913652313930393134344520",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19762F1974550535F5452575F414C6F7720",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19E62F19E45565F5374656572417373697355445354525700",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A262F1A2303131303231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A362F1A3333132",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A562F1A50000962D1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1AA62F1AA4A37393220",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206006206000003",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206017F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873334443935393635354220",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930333636",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334B3752303352304C4D",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913334443935393635354220",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616756573230202020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626156573230534D45565732353300",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303031313130",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3303035",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50000962D1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060088CCC00000000000540000C8000000000065",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206017F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F187354A413932303831304220",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930373039",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F191354A413932303831304220",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695F5544535F5644445F524D303900",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034373233",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483034",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50000903F1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600110A01",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F187354B303935333233342020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930373039",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C3030303030303030303030303030",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F191354B303935333233342020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000000000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5F5544535F5644445F524D303900",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413033373130",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483034",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A5000000000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "711220600620600000000",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122060162060103",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B801030106010701010114",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E62F17E3230313553483038",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18762F187354A413832303034354120",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18962F18930313031",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19162F191354A413832303034354120",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19762F1974D616E20414320202020202020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A362F1A3483038",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA62F1AA4A33303120",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF62F1DF40",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A917F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9A7F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A867F1A11",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3331B8000071B801060107010A0114",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F17E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18762F1873748303930373533342020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18962F18930373235",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18C62F18C3036373120313431313433373833",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19162F1913748303933373039302020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19762F197426174742E726567656C756E67",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1987F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1997F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19E7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A27F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A362F1A3483734",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A562F1A50000962D1ED6",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1AA62F1AA4A38343020",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1DF7F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "33220600620600032B7A64",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322060162060104",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "33220606620606000000000800",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206077F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206107F2231",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206707F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206A07F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206D07F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206407F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332207307F2278",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "skoda rapid 2014",
+        "Semantics": "UNKNOWN"
+    }
+]

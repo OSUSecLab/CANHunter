@@ -1,0 +1,797 @@
+[
+    {
+        "Command": "7E0A801E8010004FFFFFFFF0132FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000FF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010202FFFF030CFF00FFFF0000FF00FF000000041AFFFFFFFFFFFF00000000FFFFFFFF000000000000FFFFFF000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801050EFFFFFFFF0000FFFF0000000000000612FFFFFFFFFFFFFFFF00FFFFFFFFFF000000002004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012120FFFF000000FFFF00006ADDFD5BB8FCFCFE0000000000000000000000000000002212000000000000000000000000000000FFFFF02302FFFF240100",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801251006180000000000000400488500200000261006180000000000000400488500200000280300000030080000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80131120000000000000000000000000000000000003322FF00FFFF0000FFFF00000000000000000000FFFF0000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013507000000000000003720FFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFF00471000FF0000000000001E390C00180002E002000000000001",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013A2200000000000000000000000000FFFF0000FFFF000000000000FFFF00002B0000FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C21FFFFFFFFFFFF0000FFFF0000FFFF0000FFFF00FF8000000000000000000000FFFF4004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014116FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000003E00420CFFFFFFFFFFFFFFFF0000FFFF430100",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014424FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801451A0000000000FFFFFFFF0000000000000000000000000000000000461A000000FFFF0000000000000000000000000000000000000000E0",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801470D00000000000000000000000000480C000000000000000000000000490C000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015134FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FFFFFFFFFFFF00FFFF00000000000CC0000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015214FFFFFFFF000000000000000000000000FFFFFFFF541AFFFFFFFFFFFFFFFF00000000000000000000000000000000FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015516FFFFFF0000FFFFFFFF00FF0000000000000000000000560A00000000000000000000570C0000000000000000000000006004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFF8118000000000000000000000000000000000000000000000000820A00000000000000000000830400000000850400000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801872E00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801893A00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018A24000000000000000000000000000000000000000000000000000000000000000000000000A004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A1380000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A2140000000000000000000000000000000000000000A31C00000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A436000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A5110000000000000000000000000000000000A71A0000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A82200000000000000000000000000000000000000000000000000000000000000000000A9140000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AA2A000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AB1A0000000000000000000000000000000000000000000000000000AC06000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AD260000000000000000000000000000000000000000000000000000000000000000000000000000AF0A00000000000000000000B0050000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B1080000000000000000B20B0000000000000000000000B31B000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B42F0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B51E000000000000000000000000000000000000000000000000000000000000C004FFFFFFFFC113FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F80",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C20DFFFFFFFFFFFFFFFFFFFFFFFFFFC31B000000000000000000000000000000000000000000000000000000C40F000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C5170000000000000000000000000000000000000000000000C61000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C71C00000000000000000000000000000000000000000000000000000000C9080000000000000000E004FFFFFFFEE108FFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFE0E303D10100",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7E0A802E8020004FFFFFFFF0101FF05021818090202020B02E0E00C01FF0F01FF13020FFF150202021701FF1C030FFF012004FFFFFFFE2C01FF2E01FF3601FF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802370201013802FFFF3902FFFF3A02FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7E0A8037FA812",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7E1A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7C0A8017FA878",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010004FFFFFFFF0202FFFF1206A080040000001301FF2004FFFFFFFF2101FF2201FF2301FF2901FF4004FFFFFFFF6004FFFFFFFF6401FF6801FF6901FF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA10138A701C0AD01FEC004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFDFF7C0",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7C0A8027FA878",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8020004FFFFFFFF01011F0201FF0301FF0903FF26800A02FFE00B139AE0054A807110000000001A400010018040000D01FF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8026004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7C0A8037FA878",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA10138A701C0AD01FEC004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF0202FFFF1204F800000014049A6737F01504700080C01704000000801B04800000001E04900000001F040000F5632004FFFFFFFF3101FF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013203FFFFFF3304FFFFFFFF3404FFFFFFFF3F04FFFFFFFF4004FFFFFFFF5604FFFFFFFF5704FFFFFFFF6004FFFFFFFF640200006501806702FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFF8206000000000000A004FFFFFFFFA104C0000000A204C0C00000A304C0000000A40480200000A504C0000000A60480000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A704D7FFFF00A80400000000AE04FFFFFFFFB1040000F000B203F0780EB3048080FCC0B40400004000C004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FF00FFFFFFFFFFFFE205FFFFFFFFFFFE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF0601A01103E0800012038000001403C000001503F080001F04200080C02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF1204F800000014049A6737F01504700080C01704000000801B04800000001E04900000001F040000F5632004FFFFFFFF3101FF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8034004FFFFFFFF5604FFFFFFFF5704FFFFFFFF6004FFFFFFFF6101806201006301008004FFFFFFFF81018083060000000000008406000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80385060000000000008606000000000000A004FFFFFFFFC004FFFFFFFFE004FFFFFFFEFD0180",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750B5A801E8010004FFFFFFFF0202FFFF11063C8007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF3203FFFFFF3306FFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013406FFFFFFFFFFFF3606FFFFFFFFFFFF3706FFFFFFFFFFFF3806FFFFFFFFFFFF3906FFFFFFFFFFFF3A06FFFFFFFFFFFF3B06FFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C06FFFFFFFFFFFF3E06FFFFFFFFFFFF4004FFFFFFFF4106FFFFFFFFFFFF4306FFFFFFFFFFFF4406FFFFFFFFFFFF4506FFFFFFFFFFFF6004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA103CC4021B106FCFFFFFF0800B206FFFF00000000B302CF10B404C0000000B5023400B606000000010000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B706E00000000000C004FFFFFFFFC10430000000C204FF000000C304C0000000C406E0FFD3FFD7F0C506E03FFF3F0000C606CC0000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D106F7778FFFFFFFD204F0000000D301E0D406800000000000D506F8FCFFFC0000E004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750B5A802E8020004FFFFFFFF0101400401612004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750B5A803E8030004FFFFFFFF11063C8007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF4004FFFFFFFF6004FFFFFFFF6106800000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036206F880000000006306FFFF800000007104800000008004FFFFFFFF8506C000000000008606FFFF000000009206C800000000009406800000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8039606C8000000000098068000000000009906400000000000A004FFFFFFFFB5023400C004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750A1A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF0202FFFF0302FFFF2004FFFFFFFF2102FFFF2402FFFF2501FF2602FFFF2902FFFF2A02FFFF2B02FFFF2C02FFFF2D02FFFF2E02FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012F02FFFF3002FFFF3302FFFF3402FFFF3502FFFF3601FF3C01FF3D02FFFF4004FFFFFFFF4101FF4201FF4301FF4401FF4501FF4601FF4702FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014802FFFF4B02FFFF4C02FFFF6004FFFFFFFF8004FFFFFFFF8104FFFFFFFF8204FFFFFFFF8901FFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF0201FF0302FFFF0402FFFF0502FFFF1002FFFF1102FFFF1202FFFF1302FFFF1401FF1501FF190288882004FFFFFFFF4004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8026004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7C4A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF8104F0000500820400F80000A004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "780A801E8010004FFFFFFFF0101FF0202FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010337FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801040600FF00FF00000501FF0601FF09280000000000FFFFFFFFFF000000000000000000000000000000000000000000000000000000000000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012004FFFFFFFF2102FFFF4004FFFFFFFF6004FFFFFFFF6120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801620AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016338FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016438FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801651DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801661DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF670FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801680FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7FA878",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801693BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016B3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016C3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016D32FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016E32FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016F35FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017035FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017128FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017228FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801733AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801743AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFF8104FFFFFFFF8201FF8904FFFFFFFF8A08FFFFFFFFFFFFFFFF8B08FFFFFFFFFFFFFFFFA004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A521FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A621FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC004FFFFFFFFE004FFFFFFFFE108FFFFFFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFFFE301FF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "780A8027FA812",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "780A8037FA812",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75052A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75090A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750ADA8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75067A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750E9A801E8010004FFFFFFFF0202FFFF1102C28012027F001302800014020C001502F0FF1602EC002004FFFFFFFF2101FF2203FFFFFF2306FFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012506FFFFFFFFFFFF2606FFFFFFFFFFFF2706FFFFFFFFFFFF2806FFFFFFFFFFFF2906FFFFFFFFFFFF2B06FFFFFFFFFFFF2C06FFFFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750E9A802E8020004FFFFFFFF0101F00401802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750E9A8037FA812",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7B4A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7D0A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75041A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75042A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7B1A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75091A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75092A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75093A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75070A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750ABA8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75080A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "790A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7502AA80111",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7502AA80311",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF000406FF0000000000050FFFFFFFFF0000000000FFFFFF0000000604FF00FFFF0801FF0A07000000000E0000",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010C0C000000FF00000000000000FF1F03C000002004FFFFFFFF2101FF3901C03A010F3D04C00008003F02A0FF4004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801410C00FFFF0000000000000000004204FFFFFFFF4308FFFF00000000000046070000000000FFFF4707FFFFFFFFFF00005901FC5A02FEFE5F02FF00",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF6109FFFF00FFFF00FF00006205FFFFFFFF00630DFFFF00000000FFFFFFFFFF00007E03000B207F04FFDFFFFF8004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFA408FFFFFFFFFFFFFFFFA60280FFBE03000030C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFFF103FFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801F204FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF0302020207042222E0E02004FFFFFFFF2102FFFF22020F0F31060000000080804004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7B0A803E8030004FFFFFFFF0B01800C01302004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7A1A801E8010004FFFFFFFF0202FFFF03020FFF06023FFF0702FFFF0802FFFF0902FFFF0A0207FF0B0203FF0C0203FF0D02FFFF0E01031502FFFF16023FFF1702FFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80118023FFF19023FFF1A023FFF1B023FFF1C023FFF2004FFFFFFFF2101FF2201FF2401FF2501FF290207FF4004FFFFFFFF4102FFFF420101440101450101",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014601014701014802FFFF5701016004FFFFFFFF6101016201FF6801016901FF7101017201FF8004FFFFFFFF810101820101A004FFFFFFFFC004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFEE101FFE205FFFFFFF7C0",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7A1A8027FA812",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7A1A803E8030004FFFFFFFF01010102010103010F2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "791A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7A2A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750ECA801E8010004FFFFFFFF0103FFEEEE0206E0EEFFFFFFFF040200EE0504FFFFFFFF06040000FFFF0904FFFFFFFF0A04FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFF7E0",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750ECA802E8020004FFFFFFFF0101F02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750ECA8037FA812",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750A5A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750A6A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750B8A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "750A8A8015",
+        "Model": "subaru brz 2013",
+        "Semantics": "UNKNOWN"
+    }
+]

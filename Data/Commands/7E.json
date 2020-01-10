@@ -1,0 +1,477 @@
+[
+    {
+        "Command": "00191FC00010000301",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0025A00F8AFF84FF",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0026A00F8AFF84FF",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0027A00F8AFF84FF",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0028A00F8AFF84FF",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D000032E0301",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0029A00F8AFF84FF",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0030A00F8AFF84FF",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0031A3",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00321000021A9F",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00331000021A9F",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00341000021A9F",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00351000021A9F",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1000037F1A11",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00361000021A9F",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0037B1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0038A3",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00391100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00401100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00411100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00421100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "A10F8AFF4FFF",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00431100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00441100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21008F6204A10101",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00451100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2201100202011003",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00461100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2303011017070110",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00471100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2415050110440900",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00481100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2510040001105506",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00491100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "260010101D011008",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00501100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "272C05113D3A0011",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00511100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2869430111475300",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00521100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "29112E540011375B",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00531100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2A00115757001156",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00541100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2B521511775A0011",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00551100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2C09200515191F05",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00561100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2D1525140110220A",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00571100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2E00104B39001113",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00581100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0F0B00106E3D0111",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00591100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0060B0",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00611100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "200D240011782500",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00621100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2111182F01112D59",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00631100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2200116C49001132",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00641100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2308001005310031",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00651100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "243C1C0010263000",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00661100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "15112B300031",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00671100032204A1",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0068B6",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0069A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0070A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0071A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0072A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0073A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0074A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0075A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0076A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0077A8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "008301C00010000301",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0084ATE0",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8065003003201F4",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "961003",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09027E810144902015756327E8215A5A5A37485A417E82248323533343439",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "970902",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "011307C00010000301",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "011407C00010000301",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "011507C00010000301",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1271003",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22199ANODATA",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "013422199A",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1441003",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377E065003003200C8",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1451003",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F18777E100E62F18737453077E213932303837304177E2220AAAAAAAAAAAA",
+        "Model": "7E",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "014822F187",
+        "Model": "7E",
+        "Semantics": "unknown"
+    }
+]

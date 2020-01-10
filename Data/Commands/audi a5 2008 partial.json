@@ -1,0 +1,607 @@
+[
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B8010601070108010A010C0114",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B80101010201030106010701080114",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1931B8000071B80101010201030106010701140108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5A9B344530393130353431512020B0363230030000010000000018B554554E45522045552F55532F5244572048343220",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A915A910E3446303033353534314C202020FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A12",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A865A860F3333364151303837353334323636204A54422D30373432342E30312E303830303030303030303633363830343432FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B8010201030104010601070108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "531A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5331B8000071B801020103010401060107010C0114",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5A9B38483039303733353741202030303130030000110000000018B44146532031202020202020202020202048303120",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A915A910E38483039303733353720202020FF910E374C3639343133323941202020FF910E374C3639343133323941202020FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A9A7F1A12",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A865A860F202020202020202020202020202020484C4F2D30573531302E30312E303830303030303030313030303330303930FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0631B8000071B80101010201030104010601070108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "1D1A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D1A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D1A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D1A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "1D31B8000071B8010201030106010701140108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2131B8000071B801010102010301060107011401080116",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "221A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B801020114010601070108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B801020114010601070108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "2A1A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B8010201070114010601010108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B801020103010601070108010C0114",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5A9B3854303033353732394E2020B53137300300138E0000000018B5496E74657266616365626F782020202048343320",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B385430393139363039202020B03130300000000000000000000045303338302042656469656E7465696C48303820",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A915A910E34453030333537323920202020FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E38543039313936303920202020FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9A7F1A12",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A865A860F3332394152303837353338323037204A54422D30373432322E30312E303830303030303030303632393436303738FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F3030303030303030303339373034205052452D30303131312E30312E303830303030303030313030303130323836FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F31B8000071B80103010401060108010B",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5A9B344530393130383838502020B130363000000000062E17C613A64D4E532045434520202020202020202048353120",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A915A910E3445303931393838374D202020FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9A7F1A12",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A865A860F333333414D303837353336333731204A54422D30373431382E30312E303830303030303030303633334934313137FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B31B8000071B8010301060108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5A9B385431303335313130432020B0333930000000000000000000004D50332D4368616E676572202020202048343120",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A915A910E38543130333531313043202020043030300530303030FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9A7F1A12",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A865A860F41555A355A42483435353432323020504D362D30303131362E30312E303830303034313030313130313030323436FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5831B8000071B8010301060108010B",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5A9B3445303931303333364B2020B039353003002AB20000000018B548616E6479766F72623220202020202048313820",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A915A910E34453038363233333520202020FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9A7F1A12",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A865A860F3030303030303035303834353733204842522D30303232342E30312E303830303030303030303030383330383630FF",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A31B8000071B8010201030104010601070108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B374C3639343133323941202030303032000000280000000000004146532D4D6F64756C206C696E6B732048303620",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B374C3639343133323941202030303032000000280000000000004146532D4D6F64756C2072656368747348303620",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B80101010601030114010C010201070108",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A917F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9A7F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A867F1A11",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3131B8000071B80102010601070108010C011401160119011A",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a5 2008 partial",
+        "Semantics": "UNKNOWN"
+    }
+]

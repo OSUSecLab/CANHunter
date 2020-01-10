@@ -1,0 +1,322 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Cayenne",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Cayenne",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Cayenne",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Cayenne",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Cayenne",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Cayenne",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "732",
+        "Model": "Cayenne",
+        "Semantics": "Access/Start Authorization"
+    },
+    {
+        "Command": "79C",
+        "Model": "Cayenne",
+        "Semantics": "Access/Start Authorization"
+    },
+    {
+        "Command": "74D",
+        "Model": "Cayenne",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "7B7",
+        "Model": "Cayenne",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "746",
+        "Model": "Cayenne",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Cayenne",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Cayenne",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Cayenne",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70A",
+        "Model": "Cayenne",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "774",
+        "Model": "Cayenne",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "7E2",
+        "Model": "Cayenne",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "7EA",
+        "Model": "Cayenne",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "757",
+        "Model": "Cayenne",
+        "Semantics": "Auto Distance Regulation"
+    },
+    {
+        "Command": "7C1",
+        "Model": "Cayenne",
+        "Semantics": "Auto Distance Regulation"
+    },
+    {
+        "Command": "70C",
+        "Model": "Cayenne",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Cayenne",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Cayenne",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Cayenne",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "76A",
+        "Model": "Cayenne",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "7D4",
+        "Model": "Cayenne",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "710",
+        "Model": "Cayenne",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Cayenne",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "71D",
+        "Model": "Cayenne",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "Cayenne",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "71E",
+        "Model": "Cayenne",
+        "Semantics": "Differential Locks"
+    },
+    {
+        "Command": "788",
+        "Model": "Cayenne",
+        "Semantics": "Differential Locks"
+    },
+    {
+        "Command": "755",
+        "Model": "Cayenne",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "7BF",
+        "Model": "Cayenne",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "74C",
+        "Model": "Cayenne",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Cayenne",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "74E",
+        "Model": "Cayenne",
+        "Semantics": "Lane change"
+    },
+    {
+        "Command": "7B8",
+        "Model": "Cayenne",
+        "Semantics": "Lane change"
+    },
+    {
+        "Command": "74A",
+        "Model": "Cayenne",
+        "Semantics": "Door Elect. Driver"
+    },
+    {
+        "Command": "7B4",
+        "Model": "Cayenne",
+        "Semantics": "Door Elect. Driver"
+    },
+    {
+        "Command": "712",
+        "Model": "Cayenne",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "77C",
+        "Model": "Cayenne",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "76F",
+        "Model": "Cayenne",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7D9",
+        "Model": "Cayenne",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7E6",
+        "Model": "Cayenne",
+        "Semantics": "Electric Drive"
+    },
+    {
+        "Command": "7EE",
+        "Model": "Cayenne",
+        "Semantics": "Electric Drive"
+    },
+    {
+        "Command": "74B",
+        "Model": "Cayenne",
+        "Semantics": "Door Elect. Passenger"
+    },
+    {
+        "Command": "7B5",
+        "Model": "Cayenne",
+        "Semantics": "Door Elect. Passenger"
+    },
+    {
+        "Command": "752",
+        "Model": "Cayenne",
+        "Semantics": "Parking Brake"
+    },
+    {
+        "Command": "7BC",
+        "Model": "Cayenne",
+        "Semantics": "Parking Brake"
+    },
+    {
+        "Command": "754",
+        "Model": "Cayenne",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Cayenne",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76D",
+        "Model": "Cayenne",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "Cayenne",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "70B",
+        "Model": "Cayenne",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "775",
+        "Model": "Cayenne",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "747",
+        "Model": "Cayenne",
+        "Semantics": "Trailer"
+    },
+    {
+        "Command": "7B1",
+        "Model": "Cayenne",
+        "Semantics": "Trailer"
+    },
+    {
+        "Command": "769",
+        "Model": "Cayenne",
+        "Semantics": "Back-up Cam"
+    },
+    {
+        "Command": "7D3",
+        "Model": "Cayenne",
+        "Semantics": "Back-up Cam"
+    },
+    {
+        "Command": "723",
+        "Model": "Cayenne",
+        "Semantics": "Electrical Trunk"
+    },
+    {
+        "Command": "78D",
+        "Model": "Cayenne",
+        "Semantics": "Electrical Trunk"
+    },
+    {
+        "Command": "76B",
+        "Model": "Cayenne",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Cayenne",
+        "Semantics": "Telephone"
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "Command": "3E6FF037F3E11",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00113E",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A9F6FF045A9F938B",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00121A9F",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10896FF037F10786FF025089",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "131089",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10866FF037F10786FF025086",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "141086",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "27016FF066701AED882DE",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "152701",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A906FF10135A905750305A",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00161A90",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3E7F3E11",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00293E",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A9F5A9F938B",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00301A9F",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10897F10785089",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "311089",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10867F10785086",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "321086",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "27016701333FDC15",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "332701",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A9001305A905750305A",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00341A90",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "521089",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10896F0025089",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "531089",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A906F010135A905750305A6F0215A5A39395A39536F022373030313438AA",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00541A90",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A916F0100D5A91393937366F02131383630373032",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00551A91",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A996F0055A99290408",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00561A99",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A9E6F0065A9E02190095",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00571A9E",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1A9F6F0065A9F47323031",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00581A9F",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D06F0100861D005EC03976F021B319AAAAAAAAAA",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "005921D0",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D16F0100861D1000000006F0210000AAAAAAAAAA",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006021D1",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D26F0100861D2000000006F0210000AAAAAAAAAA",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006121D2",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D36F0100861D3000000006F0210000AAAAAAAAAA",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006221D3",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D46F0100861D4000000006F0210000AAAAAAAAAA",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006321D4",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D56F0100861D5000000006F0210000AAAAAAAAAA",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006421D5",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D66F00661D603EA770C",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006521D6",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21D76F00661D700088F86",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006621D7",
+        "Model": "Porsche CC Pauls 997",
+        "Semantics": "unknown"
+    }
+]

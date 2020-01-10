@@ -1,0 +1,42 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Golf Citi",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Golf Citi",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "70E",
+        "Model": "Golf Citi",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Golf Citi",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "714",
+        "Model": "Golf Citi",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Golf Citi",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "Golf Citi",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Golf Citi",
+        "Semantics": "Immobilizer"
+    }
+]

@@ -1,0 +1,992 @@
+[
+    {
+        "Command": "00211FC00010000301",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00221FC00010000301",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00231FC00010000301",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0024ATSH000",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0026A00F8AFF84FF",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0027A00F8AFF84FF",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0028A00F8AFF84FF",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0029ATE0",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00461FC00010000301",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00471FC00010000301",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00481FC00010000301",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0049ATSH000",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0051A00F8AFF84FF",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0052A00F8AFF84FF",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0053A00F8AFF84FF",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6101",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7307",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10707",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11707",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "12601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "12707",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "13601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "13707",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "14601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "14707",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "15601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "16401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "17201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "18001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "18107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "20001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "20107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "23601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "24401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "25201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "26001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "26801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "27601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "28401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "29201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "30001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "30801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "31601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "32401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "33201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "34001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "34107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "35001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "35801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "36601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "37401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "38201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "39001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "39801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "40601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "41401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "42201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "43001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "43801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "44601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "45401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "46201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "47001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "47107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "48001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "48107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "49001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "49801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "50601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "51401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "52201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "53001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "53801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "53907",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "54801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "55601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "56401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "57201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "57307",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "58201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "59001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "59801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "60601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "61401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "62201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "63001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "63107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "64001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "64107",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "65001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "65801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "66601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "67401",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "68201",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "69001",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "69801",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "70601",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "70707",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "71701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "71807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "72701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "72807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "73701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "73807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "74701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "74807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "75701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "75807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "76701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "76807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "77701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "77807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "78701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "78807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "79701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "79807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "80701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "80807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "81701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "81807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "82701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "82807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "83701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "83807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "84701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "84807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "85701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "85807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "86701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "86807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "87701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "87807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "88701",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "88807",
+        "Model": "Touareg",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7E0",
+        "Model": "Touareg",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Touareg",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Touareg",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Touareg",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Touareg",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Touareg",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "732",
+        "Model": "Touareg",
+        "Semantics": "Access/Start Authorization"
+    },
+    {
+        "Command": "79C",
+        "Model": "Touareg",
+        "Semantics": "Access/Start Authorization"
+    },
+    {
+        "Command": "74D",
+        "Model": "Touareg",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "7B7",
+        "Model": "Touareg",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "746",
+        "Model": "Touareg",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Touareg",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Touareg",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Touareg",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "7E2",
+        "Model": "Touareg",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "7EA",
+        "Model": "Touareg",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "757",
+        "Model": "Touareg",
+        "Semantics": "Auto Distance Regulation"
+    },
+    {
+        "Command": "7C1",
+        "Model": "Touareg",
+        "Semantics": "Auto Distance Regulation"
+    },
+    {
+        "Command": "70C",
+        "Model": "Touareg",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Touareg",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Touareg",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Touareg",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "76A",
+        "Model": "Touareg",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "7D4",
+        "Model": "Touareg",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "710",
+        "Model": "Touareg",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Touareg",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "71D",
+        "Model": "Touareg",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "Touareg",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "71E",
+        "Model": "Touareg",
+        "Semantics": "Differential Locks"
+    },
+    {
+        "Command": "788",
+        "Model": "Touareg",
+        "Semantics": "Differential Locks"
+    },
+    {
+        "Command": "755",
+        "Model": "Touareg",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "7BF",
+        "Model": "Touareg",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "74C",
+        "Model": "Touareg",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Touareg",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "74E",
+        "Model": "Touareg",
+        "Semantics": "Lane change"
+    },
+    {
+        "Command": "7B8",
+        "Model": "Touareg",
+        "Semantics": "Lane change"
+    },
+    {
+        "Command": "76F",
+        "Model": "Touareg",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7D9",
+        "Model": "Touareg",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "754",
+        "Model": "Touareg",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Touareg",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76D",
+        "Model": "Touareg",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "Touareg",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "70B",
+        "Model": "Touareg",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "775",
+        "Model": "Touareg",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "747",
+        "Model": "Touareg",
+        "Semantics": "Trailer"
+    },
+    {
+        "Command": "7B1",
+        "Model": "Touareg",
+        "Semantics": "Trailer"
+    },
+    {
+        "Command": "769",
+        "Model": "Touareg",
+        "Semantics": "Back-up Cam"
+    },
+    {
+        "Command": "7D3",
+        "Model": "Touareg",
+        "Semantics": "Back-up Cam"
+    },
+    {
+        "Command": "723",
+        "Model": "Touareg",
+        "Semantics": "Electrical Trunk"
+    },
+    {
+        "Command": "78D",
+        "Model": "Touareg",
+        "Semantics": "Electrical Trunk"
+    },
+    {
+        "Command": "76B",
+        "Model": "Touareg",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Touareg",
+        "Semantics": "Telephone"
+    }
+]

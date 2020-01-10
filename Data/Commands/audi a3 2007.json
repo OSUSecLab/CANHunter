@@ -1,0 +1,2032 @@
+[
+    {
+        "Command": "1F1A9F5A9FD9010100011115000002020000030300015319000004130001440900011505000155060000220A0000130B0000140C00004C080000101D00003218000017070605251406010920020146210205422202055223020562240201722502013626020065290200162A0205082C0201762D02007D2E02002630020069430200063502003D3A02006D34020063460200734702004753040075550400375B0400575704000F4F040056520401775A0400182F04001C4004005D4B04006C490400594104004F281818191F18053C1C00005C1A00002E5404007F4E040004002103FF",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A17F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9B5A9B314B303930373533304C202030313830100000000000000018AA4A3533335F5F4761746577617920202048313520",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E314B3039303739353120202020FF",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A5A9A0000000018AA30313830100AE9807F060002022103FF",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A865A860F313430304B3037423134303733452054464A2D494E4731342E31312E30372020483135202020304B303230373345FF",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80105010601070108",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B7F1A78",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A915A910E303347393036303231414E2020FF",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B801010102010401050106010701080103010D0118FFF0",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A78",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A78",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A78",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103010401060108",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B314B3039303931343450202033333035000000000B3401A402654550535F5A464C53204B6C2E2032333220202020",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A8601205A46302D32303331322E31312E313230304832323030303430383030353531FF",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301060108",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5A9B3850303935393635354C2020B4323130030117BC0000000018AA20202041697262616720392E3431202048303120",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A915A910E3850303935393635354C202020FF",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A9A7F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A865A860F30303343503030315636362B2020204250412D414E5731382E31312E303739314830313432313630333736363333FF",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "7F5A78",
+        "Model": "audi a3 2007",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "0531B8000071B801010102010301040106",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F17E7F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1877F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1897F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F18C7F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1917F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1977F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1987F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1997F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F19E7F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A27F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A37F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A57F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1AA7F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1DF7F2231",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206007F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206017F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206067F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206077F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206107F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206707F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206A07F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206D07F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206407F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052207307F2212",
+        "Model": "audi a3 2007",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5A9B385030303335313532432020B032373003004EFD0000000018AA522043686F727573322B20202020202048303120",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A915A910E38503030333531353243202020FF",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A865A860F41555A315A324739323731383632204256582D30303330392E31312E303730304830313030303132333431383632FF",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B801020103010401060107",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5A9B3850303930373237394B2020B2353031100000000100000018AA426F72646E65747A2D5347202020202048353420",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A915A910E3850303930373237394B202020043036330532322020FF",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A5A9A0100000018AA32353031101F01880F01B01410004F1600001600000000085E175C010000000000000000FF",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A865A860F3030303030303037393332333834205242382D36353831352E31312E303730304835343030303030303334363731FF",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601030104010201070108",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9B3033473930363032314C532039313832030000470000000018AA523420312C394C20454443202030303053472020",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9A0000000018AA3931383203000047",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F415558375A30474E464E4A304631204250472D38313030382E31312E30372D2D4830372D2D2D3134373930323730FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B3039303733373941432030313031030052810000000018AA4553502046524F4E",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A54204D4B3630202020202020",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E314B3039303733373941432020FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8601204354412D30303031322E31312E303730304831313030313031303235333337FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5A9B314B30393533353439414820B0303730030000020000000018AA4A30353237202020202020202020202030333620",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A915A910E314B3039353335343941482020FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B801020104010601070108",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633333244524234303637354338314157FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363334324452423430363735434339352FFF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363335323852423430333336463839432DFF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633363238524234303333373138324348FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363337343752423430333039353845452DFF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633383437524234303330393539313547FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5A9B3850303932303935314B202030363530030011470025F1A404BE4B4F4D4249494E5354522E2056444F2048323220",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A915A910E3850303932303935314B20202004202020055644442DFF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A865A860F3132344E47303032313030353237205644442D30323431392E31312E303744304832323030323736303130353431FF",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B8010201030104010601070108",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B385030383230303437202020B0303330000000000000000000004A32353520204B6C696D61204D616E2048303720",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A917F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A867F1A12",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B80101010201060108",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B385032393535313139452020B03133302100F5100100000018AA5769736368657220415533353020202048303120",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "audi a3 2007",
+        "Semantics": "UNKNOWN"
+    }
+]

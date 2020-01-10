@@ -1,0 +1,2722 @@
+[
+    {
+        "Command": "1F1A9F5A9F8D01010001020200000303000100130001150500014409000155060000220A00000920020546210219422202055223020562240200722502003626020065290200162A0201082C0201762D02007D2E0205182F04002630020069430200063502003D3A02004753040075550400375B0400575704000F4F040056520401775A04001707060125140601191F140504000003FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A17F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "7102204A15",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "1F1A9B5A9B314B3039303735333043202030303830100000000006462204FF4761746577617920202020202020202048303820",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E314B3039303739353120202020FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A5A9A0006462204FF3030383010083D0F0B40070003FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A865A860F32363030313034363234304339412054464A2D494E4732342E30362E303430382020202020203131303230433941FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B8010601070108",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B7F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A917F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B801010102010701030106010401050108010DFFF0",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A31",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A31",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A31",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103010401050106",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B314B303930393134344A202033303031000000000000000000004550535F5A464C53204B6C2E2030303020202020",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A8601205A46302D31303331302E30352E313030304831373030303430383030353037FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301060108",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5A9B314B30393039363035442020B0363030030030320006462204F43032204149524241472056573820202030323220",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A915A910E314B3039303936303544202020FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A865A860F303033334A4430464C334636202020534D452D52424733302E30362E3034303530323230303030303044464C3346FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0531B8000071B801020103010401060108",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "7F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "521A917F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B801020103010401050106",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B7F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A917F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A867F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1431B8000071B8010301060108",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5A9B314B30393633323335452020B0343034000000000000000000005054432D456C656D656E74202020202020202020",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E1A915A910E314B3039363332333545202020FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E1A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E1A865A860F2020202020202020202020202020204245422D30303131362E30362E303430303830303030303231303037393934FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E31B8000071B801020106",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E22F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2E2207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5A9B314B30393337303439542020B037303410000000000000000000426F72646E65747A2D534720312E302048333020",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A915A910D314B3039333730343954202A04303633033245FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A5A9A000000000000303730341012E5890F0600041800001400001400000000FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A865A860F3030303030303030383331303531203035312D32353932352E30352E303430303033303030303037333031373938FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010301040106010801020107",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5A9B314B30393539373031452020B0313438030000340006462204FF5475657273746575657267657261657420303920",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A917F1A7F",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A7F",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B8010201040106",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1877F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1897F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1917F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1977F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A37F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A57F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206007F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206017F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5A9B314B30393539373032452020B0313438030000340006462204FF5475657273746575657267657261657420303920",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A917F1A7F",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A7F",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B8010201040106",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1877F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1897F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1917F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1977F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A37F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A57F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF7F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206007F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206017F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2280",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9B3033473930363031364342203631373603000047000102030405523420312C394C20454443204730303053472020",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910D303238313031313930302020FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9A0001020304053631373603000047",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F56575A375A304430313534363532204250472D38313030312E30372E303431323334353637383138383930383031FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B303930373337394B2020B0313033030052810006462204FF4553502046524F4E",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A54204D4B3630202020202020",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5A9B314B30393533353439412020B0303330030000160006462204FF4C656E6B73E4756C656E6D6F64756C2030313220",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A915A910E314B303935333534394120202AFF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B801020104010601070108",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363333324D534D45354234383438303320FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363334324D534D45304435443546303320FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633353148534D45304130343032303320FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633363148534D45373134443135303320FF",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B7F1A78",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B303932303935314220203038313403000D4B08B9E9A400BC4B4F4D4249494E535452554D454E542056444420",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A917F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A867F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B801020103010401060108",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B303033353138364C2020B030323103009DD00006462204FF526164696F204256582020202020202030313020",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B30393230393531422020B038313400000000000000000000494D4D4F20202020202020202020202056444420",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B314B30383230303437435220B034303400000000000000000000436C696D61746963205051333520202030383120",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A917F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A867F1A12",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B8010101020106",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B32393535313139422020B03430312100FFD50000000000005769736368657220565733353020203031322020",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw golf mk5 2004 another",
+        "Semantics": "UNKNOWN"
+    }
+]

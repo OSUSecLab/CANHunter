@@ -1,0 +1,52 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "100 200 C3",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "100 200 C3",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "100 200 C3",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "100 200 C3",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "100 200 C3",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "100 200 C3",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "100 200 C3",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "100 200 C3",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "711",
+        "Model": "100 200 C3",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "100 200 C3",
+        "Semantics": "Immobilizer"
+    }
+]
