@@ -1,0 +1,32 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Kombi T2C",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Kombi T2C",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "714",
+        "Model": "Kombi T2C",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Kombi T2C",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "Kombi T2C",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Kombi T2C",
+        "Semantics": "Immobilizer"
+    }
+]

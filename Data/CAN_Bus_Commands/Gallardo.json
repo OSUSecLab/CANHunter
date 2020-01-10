@@ -1,0 +1,102 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Gallardo",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Gallardo",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Gallardo",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Gallardo",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Gallardo",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Gallardo",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "70E",
+        "Model": "Gallardo",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Gallardo",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "7E2",
+        "Model": "Gallardo",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "7EA",
+        "Model": "Gallardo",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "70C",
+        "Model": "Gallardo",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Gallardo",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Gallardo",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Gallardo",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "Gallardo",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Gallardo",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "769",
+        "Model": "Gallardo",
+        "Semantics": "Back-up Cam"
+    },
+    {
+        "Command": "7D3",
+        "Model": "Gallardo",
+        "Semantics": "Back-up Cam"
+    },
+    {
+        "Command": "76B",
+        "Model": "Gallardo",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Gallardo",
+        "Semantics": "Telephone"
+    }
+]

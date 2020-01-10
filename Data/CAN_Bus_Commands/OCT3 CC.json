@@ -1,0 +1,1512 @@
+[
+    {
+        "Command": "00221FC00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00231FC00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00241FC00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00251FC00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "371003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "431003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09027E81014490201544D427E8214A4B374E4538457E82230323030393439",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "440902",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "501003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "601003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2216A97E8076216A9000260D3",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00612216A9",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "681003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7B5100E6202BD0092267B5210D300022E555547B52200AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00692202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "761003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7B4100E6202BD0092267B4210D300022E555547B42280AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00772202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "841003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD77A100D6202BD92026077A21D3000045CAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00852202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "921003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7B0100D6202BD9202607B021D3000045CAAAAB",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00932202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1001003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD778037F2231",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01012202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1081003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD77E037F2231",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01092202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1161003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7DD100D6202BD9202607DD21D3000045CAAAAE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01172202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1241003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD774100D6202BD92026077421D3000045CAAAAF",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01252202BD",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1321003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180E77D0762180E80025C96",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "013322180E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22181177D0762181100000000",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "134221811",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2218B677D10096218B601026077D21C60000AAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01352218B6",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180D77D0762180D01000000",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "013622180D",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1431003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22100877810096210086D4B4777821024CC7AAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "144221008",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1511003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "77E065003003200C8",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "152",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1591003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22182177D102C62182101000277D2128AB000228AB0077D220228AB0001F84377D230001F8270001AF77D24AC00004832000077D250000EDEDEDEDFF77D26FAFCFFAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "160221821",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1671003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2222AE77E102F6222AE00590077E2159020301E5061377E22003C004E01B10177E23B1060F002C003877E2401310131060C0077E257C0083013C013C77E26060800000000AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01682222AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1751003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180B7DD0762180B00741625",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "017622180B",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1831003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A0C77A04622A0C47",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0184222A0C",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A0B77A04622A0B4E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0185222A0B",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22228877A037F2231",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "186222288",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1931003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235377F037F227877F0462235300",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "194222353",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235677F037F227877F0462235600",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "195222356",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235477F037F227877F0462235400",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "196222354",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235577F037F227877F0462235500",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "197222355",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235777F037F227877F0462235700",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "198222357",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2051003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F15B7E8103562F15B1404027E8210001FE2D1ED6007E8221404020001FE2D7E8231ED600140402007E82401FE2D1ED600147E82504020001FE2D1E7E826D60014040200017E827FE2D1ED6005555",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "020622F15B",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2161003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2171003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1877E8100E62F18730344C7E821393036303231457E8224C555555555555",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "021822F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7E8101D62F19E45565F7E82145434D323054447E8224930313130344C7E823393036303231457E8244C005555555555",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "021922F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA7E8100862F1AA4A36327E82133205555555555",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "022022F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7E8037F19787E8100B5902FF00121B7E82120001220205555",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02211902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "190600121BFF7E806590600121B20",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0223190600121BFF",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906001220FF7E806590600122020",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02261906001220FF",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2331003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025200C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025300C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025400C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025500C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2671003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2731003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377D065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2741003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F18777D037F227877D100E62F18735513077D213930373337395277D2220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "027522F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E77D037F227877D101D62F19E45565F77D214272616B65315577D224453436F6E746977D234D4B313030455377D245000AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "027622F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA77D037F227877D100862F1AA4A313077D213420AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "027722F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77D037F1978",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02781902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77D0759029900202C0877D037F1978",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02791902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "190600202CFF77D0759029900202C0877D037F197877D102C590600202C0877D2101061902BA025877D2240000045150CA477D237100000018520077D240000AA00E8000077D250000000000000077D26000000AAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0281190600202CFF",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2881003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377F065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2891003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F18777F100E62F18733513077F213935393635354177F2243AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "029022F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E77F037F227877F101862F19E45565F77F214169726261565777F223230545336565777F2334385800AAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "029122F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA77F100862F1AA4A323377F213420AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "029222F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77F03590299",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02931902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2991003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "031800C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "031900C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "032000C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "032100C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3331003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3391003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377E065003003200C8",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3401003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F18777E100E62F18735453077E213932303837314677E2220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "034122F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E77E101862F19E45565F77E2144617368426F6177E2272645644444D5177E2342414200AAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "034222F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA77E100862F1AA4A323877E213520AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "034322F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77E03590219",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03441902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3501003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037BE065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3511003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1877BE100E62F1873750367BE21393037333537447BE2220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035222F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7BE101962F19E45565F7BE21486561646C52657BE2267756C565741467BE23534D514200AAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035322F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA7BE100862F1AA4A37347BE213520AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035422F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7BE03590299",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03551902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3611003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037B0065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3621003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1877B0100E62F1873545307B021393037303434467B02220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "036322F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7B0101C62F19E45565F7B0214143436C696D617B022424842565733377B023580000000000007B02400AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "036422F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA7B0100862F1AA4A32357B0213520AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "036522F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7B003590219",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03661902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3721003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039100C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039200C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039300C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039400C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4061003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4121003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003774065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4131003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F187774100E62F18735513077421393139323833427742220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041422F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E774101762F19E45565F7742145504856413134774224155333730303077423303000AAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041522F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA774100862F1AA4A3739774213120AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041622F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77403590219",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04171902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4231003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "044200C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "044300C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "044400C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "044500C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "044600C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "044700C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4591003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4651003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "048400C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "048500C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "048600C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "048700C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4991003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5051003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "052400C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "052500C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "052600C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "052700C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5391003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5451003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003778065003003200FA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5461003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F187778100E62F18735513077821393337303836517782220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "054722F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E778101D62F19E45565F77821426F6479436F6E7782274724D6F64756C7782331554453426F73778246300AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "054822F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA778100862F1AA4A3531778213920AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "054922F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE778037F197877803590299",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05501902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5561003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377A065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5571003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F18777A100E62F18735513077A213930373533305177A2220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "055822F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E77A101062F19E45565F77A2147617465774C6577A22617200AAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "055922F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA77A100862F1AA4A353377A213320AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "056022F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77A0759021901030008",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05611902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1906010300FF77A101B59060103000877A2101020102B4026077A2290000045C5640F77A2370790000008000",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05631906010300FF",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5701003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "058900C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "059000C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "059100C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "059200C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6041003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6101003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377C065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6111003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F18777C100E62F18733513077C213930393134344677C2220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "061222F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E77C101462F19E45565F77C215374656572417377C227369734D514200",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "061322F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA77C100862F1AA4A353077C213020AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "061422F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77C03590299",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06151902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6211003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037DD065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6221003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1877DD100E62F1873545307DD21303335383734417DD2220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "062322F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7DD101362F19E45565F7DD214D5553746434437DD22504153450000AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "062422F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA7DD100862F1AA4A37397DD213420AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "062522F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7DD03590219",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06261902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6321003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "065100C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "065200C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "065300C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "065400C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6661003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6721003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003776065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6731003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F187776037F2278776100E62F18735513077621393533353037417762243AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "067422F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E776037F2278776101162F19E45565F77621534D4C534B4C4F776224D514200AAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "067522F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA776037F2278776100862F1AA4A3532776213720AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "067622F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE77603590219",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06771902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6831003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037B4065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6841003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1877B4100E62F1873551347B421393539353933427B42220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "068522F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7B4101D62F19E45565F7B421444355447269767B422655369646545577B4234D4158434F4E547B4240000AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "068622F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA7B4100862F1AA4A33387B4213620AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "068722F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7B403590219",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06881902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6941003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037B5065003003201F4",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6951003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1877B5100E62F1873551347B521393539353932427B52220AAAAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "069622F187",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F19E7B5101D62F19E45565F7B521444355506173737B522655369646545577B5234D4158434F4E547B5240000AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "069722F19E",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1AA7B5100862F1AA4A33387B5213720AAAAAAAAAA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "069822F1AA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1902AE7B503590219",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "06991902AE",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7051003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "072400C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "072500C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "072600C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "072700C00010000301",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003NODATA",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7391003",
+        "Model": "OCT3 CC",
+        "Semantics": "unknown"
+    }
+]

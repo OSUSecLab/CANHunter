@@ -1,0 +1,2397 @@
+[
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A10101011002020010030301101707011015050110440901100400011055060010101D0010082C01113D3A001169430011475301112E540111375B05115757001156520111775A001109200115191F011525140110220A00104B390011130B00106E3D00110D24001178250011182F00112D5900116C49001132080010053101313C1C0010263000112B300131",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80105010601080114",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E4232303636303031",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F187364E303930393930312020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18930323536",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F1913543303933373038374120",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F19747572D4B2D43414E2054503230",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483636",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A5000000000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF00",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600102200",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060162060103",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5A9B30334C393036303139484520343630360300C398000000000042523420322C304C20454443204730303053472020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A915A910E30334C39303733303941412020043738200520202020FF",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B801010102010A01040105010601070118",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103011401060108",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E62F17E3030483331303031",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2278",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F187314B30393037333739424C",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F18962F18930313532",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2278",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F191314B30393037333739424C",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1977F2278",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F197455350204D4B36304543312020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1987F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A362F1A3483331",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A562F1A5000000000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA62F1AA4A31303420",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF62F1DF40",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "03220600620600B14B400C492500FE8D0B02E892190042A71000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322060162060113",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B314B3039303931343450202033333035000000000AFFE00008154550535F5A464C53204B6C2E2037302020202020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A8601205A46302D32303233302E30372E313230304832323030303430383030323434FF",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301060108",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601020103010701080114",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E4232303636303031",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F1873543303933373038374520",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930323536",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C62F18C3034333731323736313231323435",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F1913543303933373038374120",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D3235204A4C4220483320",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3483636",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A5000000000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206006206007B994B9A08AB0B0008382000240884C50082502E6000000030A000000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606001810038000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873543303935393635354520",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930383038",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C30303347544D3038435233592020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913543303935393635354520",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616756573130472020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626156573130534D45565733363000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2413031303233",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3303134",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A5000000000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF00",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060000003936",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206017F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220606620606010003040506070800000000000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220610620610303036",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522067062067030303436",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A06206A03543363935393333394220",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D06206D0483130",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206406206403543363935393333394220",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522073062073042462D4765776963687473732E",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873543363932303935324120",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930373035",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913543363932303935324120",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695F5544535F5644445F524D303900",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034373136",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483036",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50003B0000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600270A01",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F187354B303935333233342020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930373035",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C2020202020202020202020202020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F191354B303935333233342020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000000000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5F5544535F5644445F524D303900",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413033373039",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483036",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A50003B0000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "711220600620600000007",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122060162060103",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7321A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73231B800007F3112",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F17E62F17E3030303835303030",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18762F187354B303935393433344220",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18962F18930393032",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18C62F18C30313834303533393233",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19162F191354B303935393433342020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19762F19756574B45535359505133354750",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19862F198000000000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19962F199000000",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19E62F19E45565F4B45535359505133354700",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A262F1A2413032303133",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A362F1A3303835",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A562F1A5000000000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1AA62F1AA4A35313820",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1DF62F1DF40",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "732220600620600030C0C",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222060162060103",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222060662060600",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C1A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C1A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C1A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C31B800007F3111",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F17E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F18762F187314B303033353237344420",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F18962F18930333139",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F18C62F18C56575A415A324D34323732313839",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F19162F191314B303033353237344420",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F19762F197524E533331352D4E4152202020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F1987F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F1997F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F19E62F19E45565F524E533331354E4152563255445300",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F1A262F1A2303031373035",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F1A362F1A3483533",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F1A562F1A50624662C0567",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F1AA62F1AA4A37393420",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22F1DF62F1DF00",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22060062060004090001010006000000100A",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C2206016206010C",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22060662060601",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C2206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C2206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C22067062067030303337",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C2206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C2206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C2206406206403341413931393836364200",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76C2207306207304E41525F56335F283030333729",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F31B800007F3131",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F18762F1873543363033353435362020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F18962F18930343638",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F18C62F18C4541413038334130303732303335",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F19162F1913543363033353435362020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F19762F1974B6F6E7A65726E416D7031304B",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F1987F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F1997F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F19E62F19E45565F417564696F566572737431304B616E616C5354543300",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F1A262F1A2533031303031",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F1A362F1A3483037",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F1A57F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F1AA62F1AA5231322020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F22F1DF62F1DF40",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206007F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206017F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206067F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F2207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9A000000000042343630360300C398",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F2020202020202020202020202020205A53432D38363430362E30372E313231324831342D2D2D3738323430343936FF",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A917F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9A7F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A867F1A11",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5431B8000071B801070103010601140104",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F17E62F17E4131303031303033",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F18762F187354E303033353334324620",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F18962F18930353330",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F18C62F18C3736363330383131383820202020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F19162F191354E303033353334324620",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F19762F1975347204558542E504C41594552",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1987F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1997F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F19E7F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1A27F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1A362F1A3483138",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1A562F1A5000000000042",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1AA62F1AA4A36353020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1DF62F1DF40",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "54220600620600020100",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422060162060103",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206067F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206077F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206107F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206707F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206A07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206D07F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206407F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542207307F2231",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B35433038323030343742412030323034000000000000000000424A33303120204B6C696D61616E6C616765202020",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A915A910E35433038323030343742412020042020200520202020FF",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A12",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A865A860F30303030303030313233323834392059584F2D2D2D2D32392E30392E313232303031303132533030303031363738FF",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B80103010601020101",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw jetta 2013 us",
+        "Semantics": "UNKNOWN"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Brooklands",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Brooklands",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Brooklands",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Brooklands",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Brooklands",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Brooklands",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "74D",
+        "Model": "Brooklands",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "7B7",
+        "Model": "Brooklands",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "710",
+        "Model": "Brooklands",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Brooklands",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "74C",
+        "Model": "Brooklands",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Brooklands",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "74A",
+        "Model": "Brooklands",
+        "Semantics": "Door Elect. Driver"
+    },
+    {
+        "Command": "7B4",
+        "Model": "Brooklands",
+        "Semantics": "Door Elect. Driver"
+    },
+    {
+        "Command": "76F",
+        "Model": "Brooklands",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7D9",
+        "Model": "Brooklands",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "74B",
+        "Model": "Brooklands",
+        "Semantics": "Door Elect. Passenger"
+    },
+    {
+        "Command": "7B5",
+        "Model": "Brooklands",
+        "Semantics": "Door Elect. Passenger"
+    },
+    {
+        "Command": "70B",
+        "Model": "Brooklands",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "775",
+        "Model": "Brooklands",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "76B",
+        "Model": "Brooklands",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Brooklands",
+        "Semantics": "Telephone"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Car",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Car",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "713",
+        "Model": "Car",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Car",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Car",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Car",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Car",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Car",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70C",
+        "Model": "Car",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Car",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Car",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Car",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "74C",
+        "Model": "Car",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Car",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "754",
+        "Model": "Car",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Car",
+        "Semantics": "Xenon Range"
+    }
+]

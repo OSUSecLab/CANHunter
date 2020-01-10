@@ -1,0 +1,3082 @@
+[
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80104010601070108010A0114",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E2020483530202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F187374E303930373533304148",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18931363334",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C62F18C3235303131333033323930343438",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F191374E303930373533304148",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F1974A353333202047617465776179",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483530",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600461000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060162060103",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A1010101001115000002020100030301005319000004130100440900001505010055060000220A0000130B0005140C00004C080000101D00003218000017070103251401030920050146210101422201015223010162240101722501013626000165290001162A0101082C0501762D00017D2E00012630000169430001063500013D3A00016D34000163460001734700014753000275550002375B0002575700020F4F000256520102775A0102182F00021C4001025D4B00026C490002594100024F28010A191F010A3C1C00055C1A00002E540002BE00000120160000BF0000012B000001050000016133000AA6000000A50000058C0000005100000040000005C2000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B7F1A78",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A915A910E30374B39303733303941202020FF",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B801010102010301040105010601070108010D0118",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5A9B3039473932373735304C482032323531030003480006477A232B4151203235302036462020202020202020202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A915A910E3039473932373735304C482020FF",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A9A7F1A12",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A865A860F202020202020202020202020202020414E322D30303031302E31322E313230304839373030303030303134333431FF",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0231B8000071B80101010401060108",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F17E7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1877F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1897F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F18C7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1917F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1977F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1987F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1997F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F19E7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A27F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A37F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A57F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1AA7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1DF7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206007F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206017F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206067F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206077F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206107F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206707F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206A07F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206D07F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206407F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022207307F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103011401060108",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E62F17E3030483331303031",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F187314B30393037333739424B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F18962F18930313532",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F191314B30393037333739424B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1977F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F197455350204D4B36304543312020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A362F1A3483331",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA62F1AA4A31303420",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "03220600620600C54BC0F5492208FAA31103E8921E1061A61000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322060162060113",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B80102010701030104010601140116",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E2D2D2D2D2D303953",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F187314B303033353138304146",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930303038",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C56575A345A374E33343132363636",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F191314B303033353138304146",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F205072656D2D3820",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3483035",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA4A35303320",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206006206000500040004000B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060107",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601020103010701080114",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E4248303231303031",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F187354B303933373038355320",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930303638",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F191354B303933373038355320",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D205051333520422B2020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3303231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206006206006F200E3BD82B08D408880005360004600771008640801D60648060000C70",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "281A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "281A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "281A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2831B8000071B8011401060101010701040108",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F17E62F17E2020483530202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F18762F187374E303930373533322020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F18962F18931363334",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F18C62F18C3235303131333033323930343438",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F19162F191374E303930373533304148",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F19762F197455A455F322020202020202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F19E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1A27F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1A362F1A3483530",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1AA62F1AA4A35323020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822060062060001030108",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822060162060104",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206067F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "28220607620607000010000000000000010000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206707F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206A07F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206D07F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206407F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282207307F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5A9B35363139313939363520202030303031030000020006477A232B4B6F6D7061737320202020202020202030303220",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "401A915A910E35363139313939363520202020FF",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "401A9A7F1A12",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "401A865A860F313832393232375233414A33303620424A522D4A434130392E31312E313230303030323030303030333130313336FF",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4031B8000071B80102010301040106",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F17E7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1877F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1897F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F18C7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1917F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1977F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1987F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1997F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F19E7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1A27F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1A37F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1A57F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1AA7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "4022F1DF7F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206007F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206017F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206067F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206077F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206107F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206707F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206A07F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206D07F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402206407F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "402207307F2211",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E62F17E30303030314B3037",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F1873536313930373432364120",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18930313031",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F1913536313930373432364120",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F1974143204D616E75656C6C202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19862F198000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19962F199000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F41434D616E7561456C65637447656E32424854430000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2303031303032",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483032",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A33303120",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206006206000010001002",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622060162060105",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2222",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2222",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2222",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2222",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2222",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2222",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873543303935393635354145",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930383531",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334D574D30304739485A2020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913543303935393635354145",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616756573130472020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626156573130534D45565733363000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303031303236",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3303134",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060000005033",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206017F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220606620606010003040506070800000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220610620610303044",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522067062067030303436",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A06206A03543363935393333394220",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D06206D0483130",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206406206403543363935393333394220",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522073062073042462D4765776963687473732E",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873536313932303937304420",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930373035",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913536313932303937304420",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695F5544535F5644445F524D303900",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034373136",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483037",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600231C01",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F187354B303935333233342020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930373035",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C2020202020202020202020202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F191354B303935333233342020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5F5544535F5644445F524D303900",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413033373039",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483037",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "711220600620600000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122060162060103",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A31B800007F3112",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F17E62F17E3133313130303039",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18762F1873536313935393730312020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18962F18930353235",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18C62F18C30303036303135363238",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19162F1913343303935393739334220",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19762F197545545522D5347204654202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19E62F19E45565F54534746505132354252465657343658000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A262F1A2413034303031",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A362F1A3303032",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1AA62F1AA4A33383620",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206006206000404F5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206017F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22060662060620",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B31B800007F3112",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F17E62F17E3135313130303039",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18762F1873536313935393730322020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18962F18930353235",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18C62F18C30303036303132373135",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19162F1913343303935393739324220",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19762F197545545522D5347204254202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19E62F19E45565F54534742505132354252465657343658000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A262F1A2413034303031",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A362F1A3303032",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1AA62F1AA4A33383720",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206006206000404F4",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206017F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22060662060621",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B31B800007F3112",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F17E62F17E3142303031303031",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F18762F1873750363033353733304B20",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F18962F18933323030",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F18C62F18C3030303037363633383836323939",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F19162F1913750363033353733304B20",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F19762F19754454C45464F4E202020202020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F19862F198000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F19962F199000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F19E62F19E45565F5548564E4100000000000000000000000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F1A262F1A2303032373230",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F1A362F1A3483135",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F1AA62F1AA4A34313220",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206006206000A10040000010110",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B22060162060108",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206067F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B2207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9B30374B393036303535435220343334300300004B0006477A232B322C356C2052352F345620202020202047303120",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9A0006477A232B343334300300004B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F2020202020202020202020202020205A53432D38363430362E30322E313354364830322D2D2D3738323530303531FF",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3331B8000071B801060107010A01140104",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F17E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18762F187374E303930373533342020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18962F18931363334",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18C62F18C3235303131333033323930343438",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19162F191374E303930373533304148",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19762F197426174742E726567656C756E67",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1987F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1997F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19E7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A27F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A362F1A3483530",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1AA62F1AA4A38343020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1DF7F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "33220600620600F000185A",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322060162060104",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "33220606620606000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206107F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206707F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206A07F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206D07F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206407F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332207307F2278",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3112",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E62F17E4646303130303431",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18762F187314B353935333530315120",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930313430",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C62F18C3230313231323035333031373638",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19162F191354B303935333536394820",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19762F1974C454E4B532E4D4F44554C2020",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19862F198000000000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19962F199000000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E62F19E45565F56573336305374656572576865656C55445300",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A262F1A2413033303034",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A362F1A3303134",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A562F1A50006477A232B",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA62F1AA4A35323720",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C220600620600098A140000",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22060162060105",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206066206061F",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw passat 2013 us",
+        "Semantics": "UNKNOWN"
+    }
+]

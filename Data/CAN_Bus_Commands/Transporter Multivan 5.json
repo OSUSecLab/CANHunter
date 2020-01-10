@@ -1,0 +1,132 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70C",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "76A",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "7D4",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "710",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "71D",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "787",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "76F",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7D9",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "76D",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "76B",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Transporter Multivan 5",
+        "Semantics": "Telephone"
+    }
+]

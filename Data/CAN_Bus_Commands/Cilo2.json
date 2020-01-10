@@ -1,0 +1,197 @@
+[
+    {
+        "Command": "001810C0",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "003210C0",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10C0CANERROR",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "003310C0",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "F1A0NODATA",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0034F1A0",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181CANERROR",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "352181",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0100SEARCHING4100983B8011",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "630100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "640100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "650101",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "660100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "670100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "680101",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6903",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0343000000000000",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7003",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7107",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7207",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00730A",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00740A",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "750100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "760100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0101410100048000",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "770101",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3430443010102",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7803",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "034306430201020304",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7903",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8007",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "077F0711",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8107",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00820A",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0A7F0A11",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00830A",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "840100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01004100983B8011",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "850100",
+        "Model": "Cilo2",
+        "Semantics": "unknown"
+    }
+]

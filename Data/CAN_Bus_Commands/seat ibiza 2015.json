@@ -1,0 +1,2262 @@
+[
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80105010601080114",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E4246303334303031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F187364E303930393930312020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18930343234",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F1913652303933373038372020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F19747572D4B2D43414E2054503230",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483334",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A50007FD100314",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF00",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600022200",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060162060103",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A10101010002020100030301201707013015050120440901200400017055060020101D0030082C01113D3A001169430011475300112E540011375B00115757001156520211775A001109200115191F051525140130220A00204B390011130B00306E3D00110D24001178250011182F00112D5900116C49001132080020053100313C1C0020263000112B300031AD61003061330013B9000030B8000031650000305100003023000030C60000308C000030BD000030C0000030750000315F000031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5A9B30414D333030303632502020363230310300001400064622052C4753472044534720414737202020202034333120",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A915A910E30414D39323737363944202020044432300530303020FF",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A9A7F1A12",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A865A860F4355353031343130323637343331204355352D30303132362E31302E313430303034333031343030303037343331FF",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0231B8000071B801010104010601080118",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F17E7F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1877F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1897F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F18C7F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1917F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1977F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1987F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1997F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F19E7F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A27F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A37F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A57F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1AA7F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1DF7F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206007F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206017F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206067F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206077F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206107F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206707F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206A07F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206D07F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206407F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022207307F2280",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B8010201070103010601140116",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E5230303030303030",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F187364A303033353135362020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930303134",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C53455A415A315036353833303638",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F191364A303033353135362020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F2020202020202020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3483039",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A500044E040031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA4A35303320",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF40",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "52220600620600010002000203",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060106",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601020103010701080114",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E4246303334303031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F1873652303933373038375220",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930343234",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C62F18C3036383120333036313430393531",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F1913652303933373038372020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D205051323520482B3420",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3483334",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A50007FD100314",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206006206007A882BE888F3010000300EF07F4B9EC80040422F60000440200000000000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606001800018000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E62F17E2D2D4831302D2D2D",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18762F1873033463930363037304753",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18935343934",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C62F18C2020202020202020202020202020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F1913033463930373330394145",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F19753494D4F5331302E3232410000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D31325446533032313033463930363037304753",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303034303037",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483130",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A500047E040031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323320",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E0220600620600002500D6200400080000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E7F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18762F1873652303930373337394248",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18962F18930303031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19162F1913652303930373337394153",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19762F197455350392E30692066726F6E74",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1987F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1997F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E62F19E45565F4272616B6531455350393069424F53434800",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A262F1A2303033303230",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A362F1A3483033",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A562F1A50007FD100314",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1AA62F1AA4A31303420",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322060062060011DD287D412A00C788151469825A00480909",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206017F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7511A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7511A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7511A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75131B800007F3112",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75122F17E7F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75122F1877F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F1873652303935393635342020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F18962F18930303730",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75122F18C7F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F18C3131313131343034363531323534",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1917F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F1913652303935393635342020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1977F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F1974C454E4B572E53454E534F5220",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1987F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75122F1997F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75122F19E7F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F19E45565F4C57534B4C4F565732355800",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1A27F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F1A2303035303031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1A37F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F1A3483037",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1A57F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F1A5000000000000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1AA7F2278",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "62F1AA4730383520",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "75122F1DF62F1DF40",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75122060062060001",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206017F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206067F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7512207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873652303935393635354B20",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930303230",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C30303347583032383457384B",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913652303935393635354B20",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19756573130416972626167413039",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000376040031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F4169726261565731304250415657323530",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2413031303031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483130",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A5000376040031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF00",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220600620600003039",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060103",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206066206060304",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E62F17E5830303432323053",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F187364A303932303830372020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930343034",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C2020202020202020202020202020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F191364A303932303830372020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000556040031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199141125",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695544534D4D39524D313000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034383032",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483432",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50007FD100314",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600110201",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E62F17E5830303432323053",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F187354B303935333233342020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930343034",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C2020202020202020202020202020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F191364A303932303830372020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000556040031",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5544534D4D39524D313000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413031373032",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483432",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A5000000000000",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206007F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206017F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B364A30383230303435422020B0333331000000000007FD1003144A33303120204B6C696D61616E6C616765202020",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A915A910E364A3038323030343542202020042020200520202020FF",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A12",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A865A860F3030333033303033393639323831205052452D2D2D2D30352E31312E313430303032362030393030303930353738FF",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B8010301060107",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "seat ibiza 2015",
+        "Semantics": "UNKNOWN"
+    }
+]

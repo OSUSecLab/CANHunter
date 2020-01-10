@@ -1,0 +1,3012 @@
+[
+    {
+        "Command": "00091FC00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00101FC00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00111FC00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00121FC00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "241003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00431FC00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0044ATSH32E",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0046A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0047A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0048A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0049A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0050A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0051A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00531000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00541000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00551000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00561000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00571000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00581000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00591000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00601000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00611000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00621000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00631000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00641000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00651000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00661000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00671000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00681000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0069BF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00701000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00711000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00721000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00731000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00741000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00751000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00761000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00771000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00781000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00791000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00801000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00811000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00821000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00831000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00841000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00851000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00861000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0087BE",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00881000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00891000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00901000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00911000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00921000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00931000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00941000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00951000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0096B5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00971000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0099A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01051FC00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0106ATSH32E",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0108A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0109A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0110A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0111A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0112A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0113A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01151000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01161000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01171000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01181000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01191000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01201000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01211000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01221000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01231000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01241000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01251000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01261000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01271000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01281000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01291000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01301000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0131BF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01321000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01331000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01341000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01351000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01361000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01371000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01381000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01391000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01401000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01411000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01421000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01431000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01441000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01451000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01461000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01471000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01481000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0149BE",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01501000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01511000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01521000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01531000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01541000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01551000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01561000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01571000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0158B5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01591000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0161A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D000032E0301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01671FC00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0168ATSH32E",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0170A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0171A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0172A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0173A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0174A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0175A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01771000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2000FC5A9FF50101",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01781000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2100011115000002",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01791000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202000003030001",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01801000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2353190000041300",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01811000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2401440900011505",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01821000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2500015506000122",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01831000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "260A0000130B0A00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01841000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "27140C00014C0800",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01851000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2800101D00013218",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01861000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2900001707060125",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01871000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2A14060109200201",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01881000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2B46210201422202",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01891000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2C01522302016224",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01901000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2D02017225020136",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01911000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01921000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0193BF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01941000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2F162A0201082C02",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01951000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2001762D02007D2E",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01961000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2102002630020069",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01971000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2243020006350200",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01981000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "233D3A02006D3402",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01991000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02001000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2400634602007347",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02011000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2502004753040075",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02021000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "26550400375B0400",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02031000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "27575704000F4F04",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02041000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "280056520401775A",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02051000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "290400182F04001C",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02061000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2A4004005D4B0400",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02071000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2B6C490400594104",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02081000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2C004F280200191F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02091000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0D14013C1C0A005C",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02101000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0211BE",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02121000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2E1A00002E540405",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02131000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2FBE000200201600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02141000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2000BF0002002B00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02151000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2102000500020061",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02161000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22331400A6000000",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02171000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "23A5000A00040000",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02181000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1402FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02191000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0220B5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02211000021A9F",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0223A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D00003400701",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "022901C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0230ATSH740",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0232A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0233A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0234A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0235A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0236A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0237A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02391000021A90",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2000135A90575657",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02401000021A90",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "215A5A5A314B5A42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02411000021A90",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1257303636313733",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02421000021A90",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0243B3",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "02441000021A90",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0246A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025207C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025307C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025407C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "025507C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2671003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D00003EC0401",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "029754C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0298ATSH4EC",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0300A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0301A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0302A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0303A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0304A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0305A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3071000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3081000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0309B1",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3101000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03121100041802FF00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "11000558010C4269",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03131100041802FF00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0314B2",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03151100041802FF00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03171200041800FF00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1200037F1812",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03181200041800FF00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0319B3",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03201200041800FF00",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03221300051200040C42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "23001452006C0169",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03231300051200040C42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2404014E0169B900",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03241300051200040C42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03251300051200040C42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "25013FBF2B6A040C",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03261300051200040C42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1642",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03271300051200040C42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0328B7",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "03291300051200040C42",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0331A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035321C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035421C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035521C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "035621C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "036221C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "036321C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "036421C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "036521C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "037121C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "037221C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "037321C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "037421C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "038021C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "038121C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "038221C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "038321C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "038921C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039021C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039121C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039221C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "039820C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0399ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0401A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0402A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0403A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0404A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0405A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0406A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04081000021A9B",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04091000021A9B",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0410B1",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "04111000021A9B",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041311000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041411000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041511000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041611000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0417B4",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "041811000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0420A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4321003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045107C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045207C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045307C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "045407C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "4661003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "048520C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0486ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0488A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0489A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0490A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0491A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0492A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0493A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0494A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0495A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0496A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "050220C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0503ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0505A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0506A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0507A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0508A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0509A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0510A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0511A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0512A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0513A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5251003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "054420C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0545ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0547A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0548A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0549A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0550A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0551A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0552A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05541000021A9A",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05551000021A9A",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0556B1",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "05571000021A9A",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0559110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0560110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0561110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2388008450000924",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0562110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0563110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0564110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0565B6",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0566110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0568A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "059020C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0591ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0593A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0594A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0595A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0596A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0597A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0598A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6001000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6011000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0602B1",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6031000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "060511000322F1A5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21000962F1A50006",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "060611000322F1A5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "124016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "060711000322F1A5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0608B3",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "060911000322F1A5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "061113064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1300036EF198",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "061213064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0613B4",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "061413064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0616198000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0617198000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0619A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "062520C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0626ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0628A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0629A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0630A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0631A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0632A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0633A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0635100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0636100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0637100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0638100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0639100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0640100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0641B5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0642100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6441100021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6451100021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0646B6",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6471100021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "064913064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "065013064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0651B7",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "065213064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0654198000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0655198000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0657A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "066320C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0664ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0666A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0667A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0668A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0669A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0670A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0671A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0673100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0674100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0675100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2288008050000924",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0676100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0677100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0678100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0679B5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0680100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0682A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "070420C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0705ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0707A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0708A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0709A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0710A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0711A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0712A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0713A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0714A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0715A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "072120C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0722ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0724A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0725A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0726A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0727A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0728A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0729A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0730A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0731A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0732A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7441003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "076621C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "076721C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "076821C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "076921C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "077521C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "077621C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "078221C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "078321C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "078921C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "079021C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "079621C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "079721C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "080320C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0804ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0806A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0807A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0808A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0809A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0810A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0811A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "08131000021A9B",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "08141000021A9B",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0815B1",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "08161000021A9B",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "081811000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21000E62F187314B",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "081911000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2230393337303837",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "082011000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "134A20",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "082111000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0822B4",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "082311000322F187",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0825A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003NODATA",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8371003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "085607C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "085707C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377E065003003200C8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "8691003",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "088820C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0889ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0891A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0892A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0893A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0894A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0895A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0896A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0897A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0898A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0899A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "090520C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0906ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0908A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0909A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0910A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0911A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0912A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0913A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09151000021A9A",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1000037F1A11",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09161000021A9A",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0917B1",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09181000021A9A",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0920110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2100216206004018",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0921110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "220A3A88251AC040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0922110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2388008050000924",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0923110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2443050088724D8D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0924110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1560648000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0925110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0926B6",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0927110003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0929A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "095120C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0952ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0954A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0955A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0956A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0957A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0958A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0959A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9611000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1000025089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9621000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0963B1",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9641000021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "096612064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1100036EF198",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "096712064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0968B2",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "096912064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0971188000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0972188000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0974A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "098020C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0981ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0983A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0984A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0985A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0986A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0987A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0988A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0990100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0991100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0992100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0993100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0994100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0995100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0996B5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0997100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "9991100021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1500025089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10001100021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1001B6",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10021100021089",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100413064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1600036EF198",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100513064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1006B7",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100713064016054D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1009198000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1010198000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1012A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00D00003380301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "101820C00010000301",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1019ATSH338",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1021A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1022A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1023A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "A10F8AFF4AFF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1024A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1025A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1026A00F8AFF84FF",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1028100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2000216206004018",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1029100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "210A3A88251AC040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1030100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2288008050008924",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1031100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2343050088724D8D",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1032100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1460648000200040",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1033100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1034B5",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1035100003220600",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1037A8",
+        "Model": "Golf V",
+        "Semantics": "unknown"
+    }
+]

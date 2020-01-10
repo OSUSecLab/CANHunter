@@ -1,0 +1,4672 @@
+[
+    {
+        "Command": "1F1A9B5A9B34453039313034363820202030303730100000000006462209094761746577617920202020202020202048303720",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E34453039303734363841202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A5A9A000646220909303037301008FCFE7BC62B2104FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A865A860F3136303033303434323931344236205446373430333532392E30342E303430372020202020203130303131344236FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B8010601070108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F5A9FD169430200130B0A181505000161330205382702050303000553190019762D02051D2B02000531020125140201191F140502020005092002054F2802054621020117070601082C020128450200340400010013000155060001010100051115000065290200182F0205162A020136260200063502006636020042220201522302016224020172250201273E0800073F08010E5808001E5008012E5408003E6208005652080175550800575708000F4F0800775A0800375B0805675C08004E5D08005E5E08001F5F0800475308013D3A0200FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A10022",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B7F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A917F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B80101010201070106010401050108010DFFF0010A0118",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5A9B34453039313031353646202030303630030000010006462209094147362030394C20332E306C5444492052645720",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A915A910D30394C393237313536202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A865A860F2020202020202030303237363134205A46532D30303532303034303630393030303030303031FFFFFFFF37363134FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0231B8000071B801020103010701040106",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5A9B344530393130353137422020B0353130030020A500000000090945535020352E3720616C6C726164202048343420",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A915A910E34453036313435313742432020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020104010501060108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5A9B344530393130363535202020B03934300306927300064622090941697262616720382E34452B2020202048313020",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A915A910E34453039353936353547202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0531B8000071B8010201040106",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5A9B344530393130353431432020B03239300300000100064622090954554E45522045552F55532F5244572048343120",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A915A910E34453030333535343142202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A865A860F333034464F303437353935353430204A54422D30373431342E30362E303430303030303030303030303130343337FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B8010201030104010601070108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5A9B344530393130323233462020B031393003000002000646220909416D702E2D426173697320202020202048343220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A915A910E3445303033353232334320202AFF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A865A860F3030303030303437353239323837204A54422D30373430322E30362E303430303030303030303030303130303630FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5331B8000071B8010201030104010601070108010B",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5322F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "532207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5A9B344530393130313139412020B03139300000000000000000000043442D53696E676C652020202020202048343120",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "501A915A910E34453030333531313920202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "501A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "501A865A860F3330324545303437353131353138204A54422D30373430372E30352E303430303030303030303030303130303036FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5031B8000071B8010301060108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "5022F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "502207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5A9B344530393130313331202020B03230300304040080000000D0EF2020202046425320415544494433202048313220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A915A910E34453039303731383141202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A865A860F415558335A30443531343331313020534D452D52424730342E31312E313330323030353131323030303930333034FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1431B8000071B8010201030104010501060107010D",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5A9B344530393130333537202020B0303430030000010006462209075072652D41465320202020202020202048303120",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A915A910E34453039303733353720202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A865A860F202020202020202020202020202020484C4F2020202030372E30362E303430303030303030313030303230313332FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0631B8000071B801010102010301040105010601070108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5A9B34453039313031303541202030313030030000010000000000004865697A67657261657420202020202048303720",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F1A915A910E3445303831353036394520202AFF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F1A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F1A865A860F303030303030303930303634303620574F532D30303030332E30362E303430303030303030423030303136383832FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F31B8000071B80101010201030104010501060107010B",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F22F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2F2207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5A9B3445303931303535334820203434383003003C9607A3A99404124C5546544644522E2D4344432020202048303620",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "041A915A910E34453039303735353346202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "041A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "041A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0431B8000071B801010102010301040105010601070108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F17E7F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1877F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1897F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F18C7F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1917F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1977F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1987F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1997F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F19E7F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1A27F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1A37F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1A57F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1AA7F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "0422F1DF7F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206007F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206017F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206067F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206077F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206107F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206707F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206A07F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206D07F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042206407F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "042207307F22",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A915A910E20344530393037323739482020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010101020104010601070108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5A9B344530393130323830412020B030343003002775000646220909494C4D2042656966616872657220202048303920",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "281A915A910E3445303930373238304120202004202020032020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "281A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "281A865A860F3030303030303030303431383139204256422D39303631392E30352E303420202020202020203037333130313939FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2831B8000071B8010201030104010601070108010B",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "2822F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "282207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5A9B344530393130323839412020B0303430030002480006462209094B6F6D666F727467657261657420202048303420",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A915A910E34453039303732383920202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A865A860F205730343034303630373031363220484C4F2D57303430372E30362E303430303430303030343030303130313632FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2131B8000071B801020103010401060107010B0108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5A9B344531393130383032412020B03131300300092000064622090754FC727374657565722E46536D42524D30303120",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A915A910E34453139353938303143202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B80102010701040106",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5A9B344531393130383032412020B03131300300092000064622090754FC727374657565722E42466D42524D30303120",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A915A910E34453139353938303243202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B80102010701040106",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5A9B344530393130383032412020B03036300300092000064622090754FC727374657565722E48522042524D30303220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A915A910E34453039353938303243202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2531B8000071B80102010701040106",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5A9B344530393130313335412020B030393003000C10000646220909446163686B6E6F74656E20443320202048303220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "271A915A910E34453039303731333541202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "271A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "271A865A860F3030303030343133383030303534FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2731B8000071B8010201030104010601070108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "2722F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "272207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9B3445303931303430315220203030333003002DFD0A0269940331332E304C20563654444920204730303041472020",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E34453039303734303143202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9A0A02699403313030333003002DFD",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F415558335A304435313433313130204250472D38313033302E30332E30352D2D4830312D2D2D3138383430373439FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5A9B344530393130353439202020B0303430030007F90006462209074C656E6B73E4756C656E6D6F64756C2048313320",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B585858585858585858585820B0303830000000010000000000004C656E6B7261646D6F64756C2020202048303420",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A915A910E34453039353335343920202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B801020104010601070108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B7F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B3445303931303930304B20203032303003001D680BCF4EF0000B4B4F4D4249494E5354522E2056444F2048343720",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A917F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E3445303932303930304B202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A867F1A78",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F4155444944334435303030363236205644442D30323430382E30362E303444303220202020203030303130303837FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B8010201030104010601070108010B",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5A9B344530393130373239472020B037373003000006000646220909496E74657266616365626F782020202048343320",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B344530393130363039412020B03032300000000000000000000042656469656E7465696C204D4D49202048343220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A915A910E34453030333537323920202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E34453139313936313020202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A865A860F333433464F303437353337303238204A54422D30373430392E30362E303430303030303030303030303136313035FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F333031464E303437353338383333204A54422D30373430322E30362E303430303030303030303030303130313730FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F31B8000071B80103010401060108010B",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F22F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F2207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5A9B344530393130383837442020B0353530000000000006462209094D4E532045434520202020202020202048343320",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A915A910E34453039313938383743202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A865A860F3335334650303437353234383531204A54422D30373431342E30362E303430303030303030303030303132323135FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B31B8000071B8010301060108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B34453039313030343341202030333030030008410006462209074B4C494D414155544F4D41542020202030313620",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A915A910E34453038323030343341202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A865A860F3030303030303030303436343531204248422D30303131342E30362E303430303030303032353030303130303338FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B80101010201030104010501060107010B",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5A9B34453039313032383341202030303230030003F00006462209095061726B68696C666520382D4B616E2048313220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A915A910E34453039313932383342202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A865A860F3038373330343135373031363531204154572D30303130382E30362E30342D2D2E2D2D2E2D2D2D2D2D2D2D2D2D2DFF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D31B8000071B801020103010401060108",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D22F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D2207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B344530393130323739482020B031393003004E21000646220909494C4D2046616872657220202020202048313220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B344531393130313133422020B0343030210000240006462209095769736368657220575753204433202048353020",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E34453139353531313342202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5A9B344530393130383032412020B03036300300092000064622090754FC727374657565722E484C2042524D30303220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A915A910E34453039353938303143202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B80102010701040106",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5A9B344530393130313331202020B03230300304040080000000D0EF2020202046425320415544494433202048313220",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B5858585858585858585858205858585800000000000000000000454C562020202020202020202020202020202020",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A915A910E34453039303731383141202020FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9A7F1A12",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A865A860F415558335A30443531343331313020534D452D52424730342E31312E313330323030353131323030303930333034FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3131B8000071B8010201030104010501060107010D",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3122F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "312207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5A9B34453039313031383143202030353130000000000A02B1940A3F4A303634342042454D2020202020202048313120",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B3445303931353130354156202020202031000000000909000000766F6E2041303120203430353237303334310020",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A915A910E3445303931353138314320202004303030033030FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9A5A9A000909000000303531303119344530393135313035415641303134303532373033343100FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A865A860F3030303030303030303031373436203030302D30303131322E30352E303430303030303030303030303030303030FF",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3331B8000071B8010301060107",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F17E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1877F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1897F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18C7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1917F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1977F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1987F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1997F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19E7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A27F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A37F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A57F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1AA7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1DF7F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206007F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206017F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206067F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206077F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206107F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206707F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206A07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206D07F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206407F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332207307F2211",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "audi a8 2004 eu",
+        "Semantics": "UNKNOWN"
+    }
+]

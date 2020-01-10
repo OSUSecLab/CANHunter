@@ -1,0 +1,72 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "70E",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70A",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "774",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "714",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Novo Gol Voyage Saveiro",
+        "Semantics": "Immobilizer"
+    }
+]

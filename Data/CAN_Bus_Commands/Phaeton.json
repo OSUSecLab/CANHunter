@@ -1,0 +1,242 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Phaeton",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Phaeton",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Phaeton",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Phaeton",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Phaeton",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Phaeton",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "732",
+        "Model": "Phaeton",
+        "Semantics": "Access/Start Authorization"
+    },
+    {
+        "Command": "79C",
+        "Model": "Phaeton",
+        "Semantics": "Access/Start Authorization"
+    },
+    {
+        "Command": "74D",
+        "Model": "Phaeton",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "7B7",
+        "Model": "Phaeton",
+        "Semantics": "Seat Mem. Passenger"
+    },
+    {
+        "Command": "746",
+        "Model": "Phaeton",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Phaeton",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Phaeton",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Phaeton",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "7E2",
+        "Model": "Phaeton",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "7EA",
+        "Model": "Phaeton",
+        "Semantics": "Engine II"
+    },
+    {
+        "Command": "757",
+        "Model": "Phaeton",
+        "Semantics": "Auto Distance Regulation"
+    },
+    {
+        "Command": "7C1",
+        "Model": "Phaeton",
+        "Semantics": "Auto Distance Regulation"
+    },
+    {
+        "Command": "70C",
+        "Model": "Phaeton",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "Phaeton",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "Phaeton",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Phaeton",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "76A",
+        "Model": "Phaeton",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "7D4",
+        "Model": "Phaeton",
+        "Semantics": "Aux. Heat"
+    },
+    {
+        "Command": "710",
+        "Model": "Phaeton",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Phaeton",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "73B",
+        "Model": "Phaeton",
+        "Semantics": "Brake Booster"
+    },
+    {
+        "Command": "7A5",
+        "Model": "Phaeton",
+        "Semantics": "Brake Booster"
+    },
+    {
+        "Command": "71A",
+        "Model": "Phaeton",
+        "Semantics": "HVAC rear"
+    },
+    {
+        "Command": "784",
+        "Model": "Phaeton",
+        "Semantics": "HVAC rear"
+    },
+    {
+        "Command": "755",
+        "Model": "Phaeton",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "7BF",
+        "Model": "Phaeton",
+        "Semantics": "Level Control"
+    },
+    {
+        "Command": "74C",
+        "Model": "Phaeton",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "7B6",
+        "Model": "Phaeton",
+        "Semantics": "Seat Mem. Driver"
+    },
+    {
+        "Command": "76F",
+        "Model": "Phaeton",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "7D9",
+        "Model": "Phaeton",
+        "Semantics": "Sound System"
+    },
+    {
+        "Command": "754",
+        "Model": "Phaeton",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Phaeton",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76D",
+        "Model": "Phaeton",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "Phaeton",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "70B",
+        "Model": "Phaeton",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "775",
+        "Model": "Phaeton",
+        "Semantics": "Tire Pressure"
+    },
+    {
+        "Command": "747",
+        "Model": "Phaeton",
+        "Semantics": "Trailer"
+    },
+    {
+        "Command": "7B1",
+        "Model": "Phaeton",
+        "Semantics": "Trailer"
+    },
+    {
+        "Command": "71D",
+        "Model": "Phaeton",
+        "Semantics": "Battery Charger"
+    },
+    {
+        "Command": "787",
+        "Model": "Phaeton",
+        "Semantics": "Battery Charger"
+    },
+    {
+        "Command": "76B",
+        "Model": "Phaeton",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "Phaeton",
+        "Semantics": "Telephone"
+    }
+]

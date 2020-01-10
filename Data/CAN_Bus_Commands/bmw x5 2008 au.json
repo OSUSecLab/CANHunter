@@ -1,0 +1,1527 @@
+[
+    {
+        "Command": "121A805A80000008509036000E00504C5320080423080802305438370303010000000000047184897028934730303839525230303038395252304154383742",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "121A9B5A9B0E",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230007F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230107F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230207F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230307F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232007F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232107F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232407F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232607F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "181A805A8000000760521910050204534C2008042808001D45C3400202030A000000000007569980265060153034373953393030343739533930543634325A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "181A9B5A9B05",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "191A805A8000000760663014040D60515020060504600022B802060003031E000000000007569971818700763036303952383430363039523834443236304D",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "191A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230006230000105020D000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "171A805A8000000727638304131010564420070515070013030520900401000000010000070540411900234130303732364B3030303732364B304630353041",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "171A9B5A9B13",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "172230006230000108343208344B09BC640B44960E55C81165FE14B4015B325BFE9D018C328CFE8C6C09C47F0EA6",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223001623001325100080014640A690A0000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223002623002A03FB42D01FFFFFFFFFFFF0000B43C0382961700FF5A3CDC060000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "781A805A8000000922792305080D304E48200805302100230D051BFF03033C0000000000091290112045072130323131413630303231314136304632373041",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "781A9B5A9B08",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "78223000623000A1C2D763C0002896040004000400040004000400",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "791A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "291A805A8000000679349206050BC5504420071213080023002C37010000003C2956000006770406193563D630303831385A3030303831385A304638333042",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "291A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230017F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "6230018008041041D205AA1EFF281EFF120A2600C805F050B405FF0A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "292230027F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "62300214060805960F0D040408193C00000000EA6000000000EA60FFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "292230037F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "623003BE9E0DEDC25728F63B72AE080EEC0EEC066C0672F86BCD31234B6401",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "292230047F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "6230040FF01771B40C0A0F0E1E0F0F0E0A0046",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "29223005623005E200FD",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "2922300662300690",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230076230071C2003E80500",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "2922300862300819B4FA1E160711F4EBE714410532BEFF15160700",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "011A805A8000000918990502220CA14E4B2008043008001CF704320103280A000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "011A9B5A9B22",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223000623000FF750203838CFA1D01",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230016230011408003425FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300262300219241008FFFF000000004C4A13391000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300362300300FE",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230106230100101",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230117F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623011CACACACA0606060606060606060606060606060606060606060606060606060606CA06061900F000312E31F0F00000000000000000000005020500008107698A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230207F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302001C400220022402140210020002000800080FFFFFFFF04320300000000000000B38F13CE",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230217F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623021050503052D28141496713F8183589C000000008A80141817283F553F554450A9886EFFBC16964B64224E4B6438FFA7FF28FF605FCB4BFFA7FF22FF605FCB655E",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230227F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302214006E0100192DFFFF00FF6E96000103047E7A006473648A1E643C0B154C4D585151465851514F122D612C312D12EE482F64241496761B82977D4B58515A2B0E",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230237F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623023401F8342314A5A323B225B2A7D7D5A76764B2C74774B64FF926C752B5E786B786B1D663D0B15AC6051479D6051479D132F602C337D13FF23EF643E1B82971B82",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230247F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623024977D4B3F3F642C0E58298342314A537D425E5B5E7D7D50B0B0583874771B64FF926C75445E0164401B83C91B83C97D5C5B65872C0E6580533254298342474A5D",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230257F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230257D6A5E655E7D7D5DFFFFFFFFFFFF252B12325E35000001040404040132263280009600193200A001969C4E9C00464E7D00463F712F3BEAFF8980420008182005",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230267F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623026181808201820006464969C969CC864000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF875A57",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230277F2278",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623027020A02020A0701320A11014B02C800329C4B9622FFBF2532611902290F366A410B329C7D64FF0E0A02030032147F640000000000000000000B41DE43",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "0E1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "091A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CENTER_SAFETY"
+    },
+    {
+        "Command": "0A1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "B_PILLAR_LEFT_SAFETY_2"
+    },
+    {
+        "Command": "601A805A8000000921888505030CF04E5320080608100020D4A34043031001000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "601A9B5A9B03",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300062300085AD0A04000F00320A1E0A1E00000014000F",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230016230017EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7D0300",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300262300200865179AE995266AD",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230036230036E4ACAEE00FFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230046230045B0F0858051755850550000000009000000300",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230056230051D20400A05820C08A45242200A00582E140800",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223006623006CA00000000780A32023700A000E001F802CF03370065016C023903CF0303",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230076230070C0303FFFF0C",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223008623008132840DC052C013C00100E5046FFFFE01E0A1857",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300962300912500A413C9118C20192303CC3D292C1C19191C393939332FFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300A7F2210",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230507F2210",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223106623106B7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF202847E6F0F7FB48546C757980DA200009161F000407090B0C0E10121415181A1B1D1F00FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223B02623B029E6140014148010144016100FF6100FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C03623C033C08041020",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C04623C04F80129D0",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C0F623C0F01030200",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "1C1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "301A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DYNAMIC_MANAGEMENT"
+    },
+    {
+        "Command": "201A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "211A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TPMS"
+    },
+    {
+        "Command": "161A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "021A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "231A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "391A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ACTIVE_ROLL_STABILIZATION"
+    },
+    {
+        "Command": "381A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "EDC_REAR_RIGHT"
+    },
+    {
+        "Command": "2A1A805A8000000679607205040D1050452008031356001796053200030A00FFFFFF0000067822050000012030353631364530303536313645304632383053",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AIR_SUSPENSION"
+    },
+    {
+        "Command": "2A1A9B5A9B04",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AIR_SUSPENSION"
+    },
+    {
+        "Command": "711A805A80000009167198040504B041382003051556001373060801020301000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "711A9B5A9B05",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "401A805A80000009227053C40906A0534120080507040000000205080303000000000000069438063031393030303432385444303034323854444632303653",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "401A9B5A9B09",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221010621010574241464630323058304C4A3133333931",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221011621011266603101E06E202085064",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221012621012304135324C555357",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022101362101330303030301D0A08",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221014621014000806FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221A907F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230006230002D3F0A41383C1E320F0E081E8800C300000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300162300168E9A0000200100218000606B90000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230026230022C00307F0000053C053C33190F051E14000A000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300362300340051408083C280009020000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230046230049005051402092A28063203003400",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223005623005170A05270000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300662300680000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F00623F000241441895743F9A6412421552B35CF7",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F01623F0141041041041041041041041041041042",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F02623F02118E14925924D0495552B254B0853410",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F03623F034D26134D04D85938674E1C144125114D",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F04623F0444985134545115156546115194D48645",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F05623F05504954185524554925525154D4554515",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F06623F065185564D641159065645259159649059",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F07623F0734D65D25975D74105D64175D56114184",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F08623F08586124D84956144185536165185D6618",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F09623F09418CEC63FFFF58CF8652559592493544",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0A623F0A89065000FFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0B623F0BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0C623F0CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0D623F0DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0E623F0EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0F623F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "411A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "501A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ALARM"
+    },
+    {
+        "Command": "641A805A80000009185139010204214C572008050611000C5F090F0003031E000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "641A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "671A805A8000000912534801000AF844552006082422001221040002030A00000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "671A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "651A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ERGO_COMMANDER"
+    },
+    {
+        "Command": "701A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CENTER_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "221A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "LIGHT_SWITCH"
+    },
+    {
+        "Command": "5F1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ADAPTIVE_LIGHT"
+    },
+    {
+        "Command": "721A805A8000000917045407090E60524C2008061609001309060A000400050000000000091332508168486330303931454E3030303931454E304639313041",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "721A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72221010621010574241464630323058304C4A3133333931",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72221A907F2212",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300062300080073000FFD805AAFF00000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230016230016293544846961C2306640A07070D0A0D",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230026230021E32080A32191E104030143D19150000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230036230033201060C64AF961E400F0A320A50781B",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223004623004641432641E0AFE0A063C023C96060A20",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230056230053201060C64AF961E400F0A320A50781B",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223006623006641432641E0AFE0A063C023C96060A20",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223007623007080510080803001660823C4E01052328",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223008623008F0EA2E21000023283364D42A00000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223009623009C7E26400C7005A00C7005A00E8142300",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223010623010C7002300282D506E8C1E4664060F0C03",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222301162301164383032280550303664642D4182AA43",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223012623012330DFD0DFE0D0EFD0EFE0E90A7A64BE2",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223013623013B08B18A0A00A1331721A618214F80032",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340062340003C3A07F0FCFE07F0A10401401200000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223401623401CCCFA67FD00000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234026234025647303899071142011414014001C000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223403623403F1050900000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340462340408B20A4905003C0A9E00000000006D00",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223405623405957100832A0020001453010015000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234066234068D0BFF1F00108D0B2C0C2D0C050B7C04",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223407623407380EDD05FF1F650A8D0B2D0C650AD70A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234086234080000000000106D4A1002000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223409623409BB0B050BFF1F00100010CCC12BA00010",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340A62340A2A277FD77A8E0A0A5614043780888888",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340B62340B88715E51473F362F2F2F2F2F2F2F904F",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340C62340CCECE9D00000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340D62340D2007B2033C140F04C802000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340E62340E2110073800C80C051455000100000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340F62340F000000323C1921000E1B00320F00051E",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234106234108D0B23030010D70A001082059E0C0406",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234116234113E0101010501003A010024480C0C0000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223412623412C000200005040ABB1C073F1A35910555",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341362341300000000000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234146234140FFF1E70283200000D2B088828001439",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341562341528272807B40F282F2827282700000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341662341600030003000300030003000300000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341762341700000000000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341862341800000000000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223500623500451D322931313036484601040A864200",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235016235017C30203C8051685C30203C8051688CB8",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350262350200000000000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235036235030F0E1F32D2DCA00A0E1F37003B0424CE",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235046235040308173250BA0000000000000000B2A4",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235056235050C468C2832069612CF9B000000FFFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235066235064A36363664B4B4B4140D0D0D13FF7B66",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223507623507EEE2E0EEE2E007C4C7F5281E501482FE",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350862350835180000000000000B0000000000B003",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235096235090203916603DFD932780000000000EA3C",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350A62350A00002528070800000001A811153D3FF7",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350B62350BD93E21048C85FF018800005014337200",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350C62350C23A0400012AF0000162818181200A913",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350D62350D1E24203C3C3C64000300000A505059B8",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350E62350E23FFFFFFFFFFFFFFFFFFFFFFFFFFB3C6",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350F62350F000000009500FFFFFFFFFFFFFFFF3314",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F00623F000241441895743F9A6412421552B35CF7",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F01623F0141041041041041041041041041041042",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F02623F02118E14925924D0495552B254B0853410",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F03623F034D26134D04D85938674E1C144125114D",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F04623F0444985134545115156546115194D48645",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F05623F05504954185524554925525154D4554515",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F06623F065185564D641159065645259159649059",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F07623F0734D65D25975D74105D64175D56114184",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F08623F08586124D84956144185536165185D6618",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F09623F09418CEC63FFFF58CF8652559592493544",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "271A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "431A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "PASSIVE_GO_SYSTEM"
+    },
+    {
+        "Command": "241A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "561A805A8000000922586816060D704E512008061303001308050109040001000002",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "561A9B5A9B06",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223000623000DF07BFF000A30A14E600F401F401F401B609BC0C1801F4014301F4016E01F4019901F401C401F401DC053A0232079E022E0896099208300CDD084B0BD300720137070606191919193200020364500300320A64461400FF02010582B4",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223001623001503F7FFF8D6C660F08BF0A8214A0F0010064647880647880A42611074D0940",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "5622300211",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "5622300311",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223004623004080236073A079A079E07B90B00000000200320040000000000000000000000009401EE010000000000000000000000008080FFFF80800000FFFF000000000000FFFF000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562230056230051E1E11070B2E",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56223006623006001134B0000909090A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "441A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CENTER_ROOF"
+    },
+    {
+        "Command": "6B1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "451A805A80000009174999C0020E705541200805080300168008032D010332010332",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "451A9B5A9B02",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "45223000623000000585D2377B",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "452230016230017903552255225522552255225522552255225522592255226F2441247B225522",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "6D1A805A8000000919693505150C50534E2008050324000A14070E000303030000000000069263610108192230323431455A3030323431455A304631353041",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D1A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300062300000020103",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223001623001FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223002623002FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223003623003FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223004623004FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223005623005FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223007623007FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223008623008FF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223009623009AA",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300A62300AFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300B62300BFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300D62300DFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300F62300FFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223010623010341A018E06",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230116230114329060C0048FFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301262301252FFFFFFFFFF1EFFFF",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223013623013932906081F77",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223014623014633006071841",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223015623015BB38070C0043",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223016623016431604050F26",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301762301748100409121D",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223018623018E038060C1F4D",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223019623019901C060C1C46",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302062302005",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223021623021E0001E",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223022623022060112110100",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230246230246A01",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302562302500008303E80AF00BB80320000E",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303062303055060A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230316230311E242E18C86408641923292F08C864083C196464C101240A0F1E32340C",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303462303408",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303562303500",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223036623036040BB8214A0286002101180000017C000001CA0064021D00CC02780143030701F600",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6E1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "591A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "5A1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "ACTIVE_BACKREST_PASSENGER"
+    },
+    {
+        "Command": "371A805A80000009218709D5020E404E4E20080517090017840903070303030000000000091480150001318430303931485130303039314851304634323041",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "371A9B5A9B02",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3722300062300000010000000000000000000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3F1A805A80000009185546C30A0A0049452008050510000A94061100000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3F1A9B5A9B0A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3C1A805A80000009209758D1000F50504E2008040817000E6805015C0000000000000000091463580043463830313731394830303137313948304635433041",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "3C1A9B5A9B00",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "631A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "261A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "731A805A80000009166976D1000CE050492008061253001599795040030330000000000009129111046254413035333145463030353331454630463041304A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "731A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "741A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CENTRAL_INFO_DISPLAY"
+    },
+    {
+        "Command": "3B1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "CENTRAL_INFO_DISPLAY_REAR"
+    },
+    {
+        "Command": "531A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "5B1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "RADIO"
+    },
+    {
+        "Command": "361A805A800000092310891816063255422009101584001F3D0D0103FFFFFF000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "361A9B5A9B16",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "471A805A80000009185625050C06D049462008050510000A94070700000000000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "471A9B5A9B0C",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "541A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "4B1A805A80000009179581D70003984C422008050564000A2007091E030300072301",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "4B1A9B7F1A12",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "311A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "VIDEO"
+    },
+    {
+        "Command": "3A1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "MULTIMEDIA_CHANGER"
+    },
+    {
+        "Command": "3D1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "HEADPHONE_INTERFACE"
+    },
+    {
+        "Command": "611A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "HEAD_UP_DISPLAY"
+    },
+    {
+        "Command": "621A805A80000009185626420809D0464D2008050510000A9405682B030300000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "621A9B5A9B08",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "7A1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A11A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A21A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A71A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A81A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A51A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A61A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A805A80000009192741020A0DD04E52200512210900179F084000030A00000000",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A9B5A9B0A",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AD1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AE1A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A01A805",
+        "Model": "bmw x5 2008 au",
+        "Semantics": "UNKNOWN"
+    }
+]

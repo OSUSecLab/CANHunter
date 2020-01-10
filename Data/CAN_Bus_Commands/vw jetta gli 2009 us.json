@@ -1,0 +1,3892 @@
+[
+    {
+        "Command": "1F1A9B5A9B314B3039303735333053202030303731100000000000000000424A35333320204761746577617920202048303720",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E314B3039303739353120202020043030300530303030FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A5A9A00000000004230303731100BED817F07400612001002FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A865A860F303630323039463230303136333120534A382D46535430362E30322E303920204830372030313030463231363331FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B801040105010601070108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F5A9FE9010100011115000002020001030300015319000004130001440900011505000155060001220A0000130B0000140C00004C080000101D00003218000017070601251406010920020146210201422202015223020162240201722502013626020065290201162A0201082C0201762D02007D2E02002630020069430200063502003D3A02006D34020063460200734702004753040075550400375B0401575704000F4F040056520401775A0401182F04001C4004005D4B04006C490400594104004F280200191F14013C1C00005C1A00002E5404010D00020020160000780002002B0002000500020004001002FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A17F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5A9B314B303930373131354145203030333010000000000000000042322E306C2052342F345620544653492020202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A915A910E314B3039303731313541412020FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A9A7F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "011A867F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0131B8000071B8010101020103010601070108010D0118",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "0122F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "012207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5A9B303245333030303531522020313932360300001400000802134C4753472044534720414736202020202034343020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A915A910E303245393237373730414A2020044531300530303032FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "021A865A860F30303030313030383133313630302054464B2D30333031332E30382E313030353134343030323835303331363030FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0231B8000071B80101010401060108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F17E7F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1877F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1897F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F18C7F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1917F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1977F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1987F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1997F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F19E7F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A27F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A37F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1A57F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1AA7F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "0222F1DF7F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206007F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206017F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206067F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206077F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206107F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206707F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206A07F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206D07F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022206407F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "022207307F2280",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A917F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A867F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B8010101020103011401060108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E62F17E3030483335303031",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2278",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F187314B303930373337394145",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F18962F18930313036",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2278",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F191314B303930373337394145",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1977F2278",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "62F197455350204D4B36304543312020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "0322F1987F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A362F1A3483335",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A562F1A5000000000042",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA62F1AA2D2D2D2D2D",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF62F1DF40",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "03220600620600113B600D492700FF881406E5921E0041B100",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322060162060112",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B314B3039303931343445202032353031000000000AFFE00008154550535F5A464C53204B6C2E2037302020202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A8601205A46302D32303231332E30322E303930304831353030303430383030323637FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301060108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5A9B314B30393039363035414320B8363030030032300000000000423230204149524241472056573852202030333820",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A915A910E314B3039303936303541432020043030330530304537FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "051A865A860F30303345374D3039313256332020205A59532D47444C31332E30332E303930373033383030303030304130313834FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0531B8000071B80101010201030104010601080116",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F17E7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1877F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1897F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F18C7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1917F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1977F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1987F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1997F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F19E7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A27F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A37F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1A57F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1AA7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "0522F1DF7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206007F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206017F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206067F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206077F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206107F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206707F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206A07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206D07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052206407F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "052207307F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B801020103010601070114",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E4142303031303031",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F1873343303033353638344120",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18930333230",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C56575A365A374A36303431313431",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F1913343303033353638344120",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197524E532D4D4944202020202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19862F198000000000000",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E62F19E2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A262F1A22D2D2D2D2D2D",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3483031",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A5000000000042",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA4A30353036",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF00",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "52220600620600040004000400000600",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060109",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5A9B314B36393230393734482020B2343136000000007A11FB7823BF494D4D4F20202020202020202020202056444420",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A915A910E314B3639323039373448202020043030300530303030FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "141A865A860F565758375A30484E334E50375A46205644442D30323432352E31312E303856303030353030303737303230333437FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1431B8000071B8010301060108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "1422F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "142207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5A9B315430393037333537202020B03030330300000300000000004244796E616D6973636865204C5752202020202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A917F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "061A867F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0631B8000071B8010101020103010401060108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "0622F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "062207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5A9B314B30393539343333444120B03435330301870500000000004220202052444B2020202020202020202020202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "291A915A910E314B3039353934333344412020043030380530303030FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "291A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "291A865A860F303030303030303030303030303020484C4F2D57343231322E31322E303830303035323030305030303330373234FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2931B8000071B801020103010401060107",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "2922F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "292207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5A9B334338393337303439452020B236303210000000000000000042426F72646E65747A2D5347202020202048353420",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A915A910E33433839333730343945202020043036330538352020FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A5A9A00000000004232363032101F17058E234004150007140000001400000028770B5C000120000000000000FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A865A860F3030303030303039303033333839205242382D36353830352E31302E303830304835343030303030303334313335FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010601030104010201070108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5A9B314B3039353934333344412030323235100000007A11FB7823BF2020204B534720505133352052444B2030353220",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A915A910E314B3039353934333344412020043030380530303030FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A9A5A9A7A11FB7823BF30323235101413900F880186081B0904058FB0880F0488DC00FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "211A865A860F303030303030303030303030303020484C4F2D57343231322E31322E303830303035323030305030303330373234FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2131B8000071B80102010301040105010601070108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "2122F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "212207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5A9B314B3039353937303141432031353139030004B50000000000424A3338362020545545522D534720465420202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A915A910E314B303935393739334E202020043232320530303853FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A865A860F3030303030373535313839323138204256422D39303631382E31322E303837323030393030353037363637353531FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B80106010401020107",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5A9B314B3039353937303241432031353139030004B40000000000424A3338372020545545522D534720425420202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A915A910E314B303935393739324E202020043135370530303853FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A865A860F30383132303832313333333530342037584D2D33363930392E31322E30383732303039303035303730342D2D2D2DFF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B80106010401020107",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B7F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A917F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "7F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "2531B8000071B80106010201070104",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "5A9A0000000000423030333010090403010A1C070160FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F565758375A30484E334E50375A46204250472D38313032302E31302E303841414830332D2D2D3134383030333635FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9B5A9B314B30393533353439434420B0313131030005970000000000424A30353237202020202020202020202030353520",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B585858585858585858585820B0303330000000000000000000004530323231202020202020202020202030303220",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A915A910E314B3039353335343943442020FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A1A867F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A31B8000071B801020104010601070108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A22F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2A2207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B30393539333339482020B03030360000000000000000000042462D4765776963687473656E732E2030303720",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E314B3039353933333948202020042020200520202020FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363333324D534D45343335313431323059FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A8612363334324D534D45343537303442303033FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633353148534D45314232453642333349FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633363148534D45314232453532313641FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633373237534D4531423736303136305AFF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A86123633383237534D45314237363139373336FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5A9B314B363932303937344820203234313603005AA30000000000424B4F4D4249494E535452554D454E542056444420",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A915A910E314B3639323039373448202020043030300530303030FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A865A860F565758375A30484E334E50375A46205644442D30323432352E31312E303856303030353030303737303230333437FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B8010201030104010601070108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0722F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "072207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B7F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A917F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9A7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A867F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B31B8000071B801020103010601070114",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F17E62F17E4142303031303031",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F18762F1873343303033353638344120",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F18962F18930333230",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F18C62F18C56575A365A374A36303431313431",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F19162F1913343303033353638344120",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F19762F197524E532D4D4944202020202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F19862F198000000000000",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1997F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F19E62F19E2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1A262F1A22D2D2D2D2D2D",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1A362F1A3483031",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1A562F1A5000000000042",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1AA62F1AA4A30353036",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22F1DF62F1DF00",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B220600620600040004000400000600",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B22060162060109",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206067F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206077F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206107F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206707F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206A07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206D07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2206407F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B2207307F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A917F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9A7F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A867F1A11",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5431B8000071B801070103010601140104",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F17E62F17E4131303031303033",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F18762F187354E303033353334324220",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F18962F18930303834",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F18C62F18C3736363733343831323420202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F19162F191354E303033353334324220",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F19762F1975347204558542E504C41594552",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1987F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1997F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F19E7F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1A27F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1A362F1A3483133",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1A562F1A5000000000042",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1AA62F1AA4A36353020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422F1DF62F1DF40",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "54220600620600010000",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5422060162060103",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206067F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206077F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206107F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206707F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206A07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206D07F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542206407F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "542207307F2231",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B7F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B315A303033353732394120203031353003002B450000000000424653455F32503878202020202020202048333420",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A915A910E315A3030333537323941202020FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A865A860F3030303030303035303130393137204842522D30303231362E31322E303830303030303030303030383430303030FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A31B8000071B8010201030104010601070108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A22F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A2207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B314B303832303034374A4A203133313300000000000000000000436C696D61746963205051333520202031343320",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A915A910E314B303832303034374A4A2020FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A865A860F3030303030303030303030303030204248422D30303130392E30322E303930303134333033333031313030303834FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B80101010201060108",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B31393535313139452020B0353031210097950000000000425769736368657220323430333039203032312020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A0202020000000000000000000002020536F756E646572206E2E6D6F756E74656420",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A0202020000000000000000000002020202020204E4753206E2E6D6F756E74656420",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B202020202020202020202020A020202000000000000000000000202020202049525545206E2E6D6F756E74656420",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B7F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B30393539373033414820B1343031030004900000000000424A333838202020545545522D534720484C202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A917F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E314B303935393739355420202004313539053030334BFF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A12",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A78",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F3030303030303033383332383036204252462D30303130342E30322E303931323030363030313030303130313530FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B80106010201070104",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1877F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1897F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1917F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1977F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A37F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A57F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF7F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206007F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206017F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2211",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A9B314B30393539373034414820B1343031030004900000000000424A333839202020545545522D5347204852202020",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A910E314B3039353937393454202020043136310530303338FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A860F3030303030303033383032343036204252462D30303132322E30312E303931323030363030313030303135373838FF",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw jetta gli 2009 us",
+        "Semantics": "UNKNOWN"
+    }
+]

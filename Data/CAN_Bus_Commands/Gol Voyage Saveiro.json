@@ -1,0 +1,42 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "711",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Gol Voyage Saveiro",
+        "Semantics": "Immobilizer"
+    }
+]

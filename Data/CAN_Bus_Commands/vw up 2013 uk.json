@@ -1,0 +1,2102 @@
+[
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B801030106011401050108",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E2D412D2D2D2D2D2D",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F187364E303930393930312020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18930353535",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F1913153303933373038364220",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F19747572D4B2D43414E2054503230",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1987F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483330",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF00",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600001100",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22060162060103",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A10101010002020000030301001707010015050500440901000400010055060000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "62101D0000082C00013D3A000169430001475300012E540001375B000157570001",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "6256520101775A000109200105191F010525140100220A00004B390001130B0000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "626E3D00010D24000178250001182F00012D5900016C4900013208000005310001",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "623C1C0000263000012B300001AD6100006133000575000001B8000001",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "521A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B80102010301040106010701080114",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F17E62F17E4141303031303031",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18762F1873153303033353135364120",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18962F18935353431",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F18C62F18C56575A385A314D44303635333838",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19162F1913153303033353135364120",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19762F197526164696F2020202020202020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1987F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1997F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F19E7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A27F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A362F1A3353637",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1AA62F1AA4A35303320",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222F1DF62F1DF40",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206006206000000020801",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5222060162060105",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "522207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B8010301060114010201070108",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E2D412D2D2D2D2D2D",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F1873153303933373038364220",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930353535",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F1913153303933373038364220",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F197505132352042434D2020202020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3483330",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022060062060064B8290000010000000008042C28ACD00040400C60020000200000400000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220606620606000000000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E55374830312D2D2D",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F1873034433930363032304120",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18934343033",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C62F18C2020202020202020202020202020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F1913034433930373330392020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197312E306C205233204D50492020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D31304D50493031313034433930363032304100",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303031303132",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A362F1A3483031",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA2D2D2D2D2D",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060000110012020400000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18762F1873153303631343531374520",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18962F18930303132",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C62F18C41303035575A46",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19162F1913153303631343531374520",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19762F19745424320343630204553502020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1987F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1997F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E62F19E45565F4272616B65314553504D5031545257565731323000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A262F1A2303136303335",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A362F1A3483038",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1AA62F1AA4A31303420",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322060062060011BF247189B502FA880324FE91AE4080590100",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206017F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71231B800007F3112",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F17E7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18762F1873153323930393134344C20",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18962F18931353033",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18C7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19162F1913153323930393134344720",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19762F1974550535F454355202020202020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1987F2222",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1997F2222",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19E62F19E45565F537465657241737369734E534B00000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A262F1A2303039303034",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A362F1A3483435",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1AA62F1AA4A37393220",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1DF62F1DF00",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206006206000001000101000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206017F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873153303935393635352020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930303035",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C30303347333030344E5A5553",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913153303935393635352020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19756573130416972626167303042",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626156573130425041565731325800",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303031303031",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483033",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220600620600000000000000000000000000000000003042",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "715220606620606030407",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E62F17E5830303231303038",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873153303932303936304C20",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930313035",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913153303932303936304C20",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695544534D4D39524D313000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034373132",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A500000E2C7AB6",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "714220600620600414200",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E62F17E5830303231303038",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F187354B303935333233342020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930313035",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C3030303030303030303030303030",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F1913153303932303936304C20",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000000000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5544534D4D39524D313000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413031373032",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A5000000000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206007F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206017F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A917F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9A7F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A867F1A11",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3331B8000071B80106010A01140107",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F17E7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18762F1873153303930373533342020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18962F18930353535",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19162F1913153303933373038364220",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19762F197426174742D726567656C756E67",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1987F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1997F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F19E7F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A27F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A362F1A3483330",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1A562F1A5000000000000",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1AA62F1AA4A38343020",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322F1DF62F1DF00",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "33220600620600F000185A",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3322060162060104",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206067F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206077F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206107F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206707F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206A07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206D07F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332206407F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "332207307F2231",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B5",
+        "Model": "vw up 2013 uk",
+        "Semantics": "UNKNOWN"
+    }
+]

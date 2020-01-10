@@ -1,0 +1,997 @@
+[
+    {
+        "Command": "7502AA80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA80311",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7E021C111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0AA00EA00C3C318ED",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E121C25",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7A2A9005",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7C42189618930",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C421297F2112",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7802105610501",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "7507021E261E2003ED90100",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E0A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A8037FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E1A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7C0A801E8010004FFFFFFFF0202FFFF120890A031FF138201001301FF1502FE402004FFFFFFFF2101FF2201FF2301FF2901FF4004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A802E8020004FFFFFFFF0A0280000B16BBA0174281011014000000064400000C0040000000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA10108A701C0AE01C0B001C0C004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF0202FFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0C06FF40FF0000000D06FFFFFFFFFFFF1104C00F0000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF0601701103E08000120382800014038000001503F0C4881904401000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0C06FF40FF0000000D06FFFFFFFFFFFF1104C00F00001204F8480000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "750B5A801E8010004FFFFFFFF0202FFFF11063C8007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF3203FFFFFF3306FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A802E8020004FFFFFFFF0101400301040401610501802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A803E8030004FFFFFFFF11063C8007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF4004FFFFFFFF6004FFFFFFFF6106800000000000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF2101FF2201FF2401FF2501FF2601FF2B02FFFF2C02FFFF3C01FF3D01FF4004FFFFFFFF4104FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF0201FF1301FF1401FF1701FF1902D0D01C0200002004FFFFFFFF2101FF2201FF2301FF2401FF2801FF2A01FF3D01FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A803E8030004FFFFFFFF0101FF0201FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF810441000D0A8204FEF800E08404008004008504F8000000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "780A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8027FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8037FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "750ADA801E8010004FFFFFFFF0103FFF7400201C00301800401880501880601FF070108080140E004FFFFFFFFE101FFE204FFFFFFF7",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA803E8030004FFFFFFFF0101C0020140",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "75067A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "750E9A801E8010004FFFFFFFF0202FFFF1102E380120213C014020C001502F0FF16023E002004FFFFFFFF2101FF2203FFFFFF2306FFFFFFFFFFFF2506FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A802E8020004FFFFFFFF0101940401802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A8037FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "REMOTE_ENGINE_STARTER"
+    },
+    {
+        "Command": "7B4A801E8010004FFFFFFFF0101FF0202FFFF0301FF0401FF0701FF0801FF0902FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A802E8020004FFFFFFFF01020101",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A8037FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7D0A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A8037FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "75041A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF61038003FF6207CCFFFF0FFF3FFF640AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75041A802E8020004FFFFFFFF0201800301802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75041A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF6808000000000000FF806B01B06C01F87001807101FF7201FF7301FF7401FF7701FF7801FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75042A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF61030003FF6207CCFFFF0FFF3FFF640AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "75042A802E8020004FFFFFFFF0201800301802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "75042A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF6808000000000000FF806B01306C01F87001807101FF7201FF7301FF7401FF7501FF7601FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "7B1A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF001F038000002004FFFFFFFF3901803D032040003E0200804004FFFFFFFF4707000000FFFF00005901C0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "7B1A802E8020004FFFFFFFF0704909000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "7B1A803E8030004FFFFFFFF0B0140",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "750E0A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "THEFT_DETERRENT"
+    },
+    {
+        "Command": "75090A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A80311",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75091A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A803E8030004FFFFFFFF1101C0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75092A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75092A80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75092A80311",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75093A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "75093A80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "75093A80311",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "750B9A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "WINDOW_REAR_HATCH"
+    },
+    {
+        "Command": "750A1A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A2A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "750A4A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "750A7A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "750B8A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750ABA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "75080A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75083A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_REAR_RIGHT"
+    },
+    {
+        "Command": "75085A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_REAR_LEFT"
+    },
+    {
+        "Command": "7508AA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508BA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508CA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_AC_REAR_RIGHT"
+    },
+    {
+        "Command": "7508DA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_AC_REAR_LEFT"
+    },
+    {
+        "Command": "750DCA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SEAT_DRIVER_SWITCH"
+    },
+    {
+        "Command": "750DDA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "CENTRAL_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "750DEA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "REAR_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "75070A801E8010004FFFFFFFF010204600202FFFF0308FFFFFFFF0000FFFF0506FFFFFFFFFFFF0C08FFFFFFFFFF0000000D04FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A802E8020004FFFFFFFF0101C0040280FF0501400B0180",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFF10103",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "HYBRID"
+    },
+    {
+        "Command": "790A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "790A80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "790A80311",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STABILIZER_FRONT"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STABILIZER_REAR"
+    },
+    {
+        "Command": "7502AA80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA80311",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF000406FF0000000000050FFFFFFFFF0000000000FF000000FFFF0604FFFFFFFF0801FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF0302939307042222E0E02004FFFFFFFF2102FFFF22023030280227273603701F004004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A803E8030004FFFFFFFF03000B01800C01600D01400E05FFFFFFFFFF0F0BFFFFFFFFFFFFFFFFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7A1A801E8010004FFFFFFFF0202FFFF0302FFFF0602FFFF0702FFFF0802FFFF0902FFFF0A02FFFF0B02FFFF0C02FFFF0D02FFFF0E01FF0F02FFFF1102FFFF1202FFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A8027FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A803E8030004FFFFFFFF0101FF0201FF0301FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "791A80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "791A80211",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "791A80311",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "PRE_COLLISION"
+    },
+    {
+        "Command": "7A2A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "750ECA80111",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA802E8020004FFFFFFFF0101C0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA8037FA811",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750A5A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A6A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A8A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750DBA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STEERING_COLUMN_SWITCHES"
+    },
+    {
+        "Command": "750DAA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "7503BA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_SUSPENSION"
+    },
+    {
+        "Command": "75060A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "NIGHT_VIEW"
+    },
+    {
+        "Command": "744A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "DYNAMIC_REAR_STEERING"
+    },
+    {
+        "Command": "75002A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "7A3A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "75051A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "7504FA8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "750B0A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "7C1A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ELEC_POWER_CONTROL"
+    },
+    {
+        "Command": "727A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "GEAR_SELECTOR"
+    },
+    {
+        "Command": "7D2A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ELEC_PROPULSION_CONTROL"
+    },
+    {
+        "Command": "7E7A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "PLUG_IN_CONTROL"
+    },
+    {
+        "Command": "723A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "ACTIVE_ENGINE_MOUNT"
+    },
+    {
+        "Command": "75052A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "75052A8027FA812",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "75052A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "750C8A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014324000000000000000000000000000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801443600000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF6401FF8004FFFFFFFFA004FFFFFFFFA10108A701C0AE01C0B001C0B101BCC004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFDFF7F0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803F101FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011204F84800001304D0C0000014049B6737F0150470FC00C817040C00C0C01904E00000001B04000000001D04000000002004FFFFFFFF2204F8000000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013101FF3203FFFFFF3304FFFFFFFF3404FFFFFFFF3604FFFFFFFF3E04FFFFFFFF3F04FFFFFFFF4004FFFFFFFF4404FFFFFFFF4504FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014604FFFFFFFF4704FFFFFFFF4F04FFFFFFFF5004FFFFFFFF5504FFFFFFFF5604FFFFFFFF5704FFFFFFFF6004FFFFFFFF640200006501808004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFA10480000000A20430E80000A3043000C0C0A4048A800000A504C0000000A604C0060000A704F7000008AA04C1FF01FFAB041FFF0000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801BB0400002000C004FFFFFFFFC904FFFFFFFFCA0400FF0000CB0480000000D304FFFFFFFFD404FFFFFFFFD504FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FF00FFFFFFFFFFFFE205FFFFFFFFFFFE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8031304D0C0000014049B6737F0150470FC00C817040C00C0C01904E00000001B04000000001D04000000002004FFFFFFFF2204F80000004004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8034404FFFFFFFF4504FFFFFFFF4604FFFFFFFF4704FFFFFFFF4F04FFFFFFFF5004FFFFFFFF5504FFFFFFFF5604FFFFFFFF5704FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036101806201006301008004FFFFFFFF810180A004FFFFFFFFC004FFFFFFFFE004FFFFFFFEF101FFF201FFFD0180",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013406FFFFFFFFFFFF3606FFFFFFFFFFFF3706FFFFFFFFFFFF3806FFFFFFFFFFFF3906FFFFFFFFFFFF3A06FFFFFFFFFFFF3B06FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C06FFFFFFFFFFFF3D06FFFFFFFFFFFF3E06FFFFFFFFFFFF4004FFFFFFFF4106FFFFFFFFFFFF4206FFFFFFFFFFFF4406FFFFFFFFFFFF6004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA103CC4001B106FCFFFFFFFD00B206FFFF00000000B302CF90B404C0000000B502140CB606000000010000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B706E00000000000C004FFFFFFFFC10430000000C204FF000000C304C0000000C406E0FFD6FFD6F2C506E827FF3FF000C606CC0000000000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D106F7FF8FFFFFFFD204F3000000D301E0D406800000000000D506F8FCFFFC0000D606FF0000000000E004FFFFFFFEE108FF00FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036206FEF8000000006306FFFF800000007104800000008004FFFFFFFF8106C800000000008206C8000000000083068000000000008406C00000000000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8038506E00000000000A004FFFFFFFFB502140CC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014204FFFFFFFF4304FFFFFFFF4404FFFFFFFF4B01FF4C02FFFF4D04FFFFFFFF5301FF5501FF6004FFFFFFFF6101FF6304FFFFFFFF6504FFFFFFFF7C01FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017E01FF7F01FF8004FFFFFFFF810441000D0A8204FEF800E08404008004008504F80000008601FF8901FF8A01FF8B01FF9101FF9201FF980488000000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFD101FFE004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012806FFFFFFFFFFFF2906FFFFFFFFFFFF2B06FFFFFFFFFFFF2C06FFFFFFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFC0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801651AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6606FFFFFFFFFFFF6706FFFFFFFFFFFF6808000000000000FF806905C4FFFF00FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A04CFFFFFFF6B01B06C01F87001807101FF7201FF7301FF7401FF7701FF7801FF7901FF7A08FFFFFFFFFFFFFFFF7B05FFFFFFFFFF8004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8037901FF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEF101FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801651AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6606FFFFFFFFFFFF6706FFFFFFFFFFFF6808000000000000FF80690538FFFFFF00",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A04CFFFFFFF6B01306C01F87001807101FF7201FF7301FF7401FF7501FF7601FF7A08FFFFFFFFFFFFFFFF7B05FFFFFFFFFF8004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8038004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEF101FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF6109FF00000000000000006205FFFFFFFF00630D000000000000FFFFFFFFFF0000670CFF00000000000000000000007F04009F0000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA501FFC004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80114120007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2004FFFFFFFF2101602506FFFFFFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A801E8010004FFFFFFFF0202FFFF0304FFFFFFFF0402FFFF0A02FFFF1004050003001104FFFFFFFF1204FF0000001302FFFF1401FF1502FFFF1C04FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012004FFFFFFFF2101FF2303FFFFFF2404FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FF00FFFFFFFFFFFFE205FFFFDFF7C0E303FFFFFFE504FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A802E8020004FFFFFFFF0101FF0201FF0301FF0401FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF41006004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010A0D0000000002CC00FF0000FF00000C0E000000FF00000000000000FF00000F0BFFFFFFFFFFFFFFFFFFFFFF1C02FF001D01201F03E02000",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012004FFFFFFFF2101FF3A01303C01C03D04C00008003F02E0FF4004FFFFFFFF410CFFFFFF0000000000000000004204FFFFFFFF4308FFFFFF00FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801460CFFFFFFFFFFFFFF0000000000470AFFFFFFFFFFFFFF0000005901FC5A02FEFC5F02F0FE6004FFFFFFFF6109FFFF00FFFF00FF00006205FFFFFFFF00",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016310FFFF00000000FF0000FFFFFFFF0000006505FFFFFFFF00670DFF0000000000000000000000007E03FF1B007F04FFDFFFFF8004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFA101FFA60280FFBB05FFFFFFFFFFBC0124BD04FF803FF0BE04FF803FF0C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFFFF101C0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFE004FFFFFFFFF101FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011302FFFF1402FFFF1502FFFF1602FFFF1702FFFF1802FFFF1902FFFF1A02FFFF1B02FFFF1C02FFFF2004FFFFFFFF2902FFFF4004FFFFFFFF4102FFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014201FF4401FF4501FF4601FF4701FF4802FFFF4A02FFFF5701FF5A02FFFF6004FFFFFFFF6101FF6201FF6801FF6901FF7101FF7201FF7801FF7901FF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFF8101FF8201FF9001FF9101FF9201FF9301FF9401FF9501FF9607FFFFFFFFFFFFFF9708FFFFFFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8019823FFFFFFFFFF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8019918FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9A14FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9B04FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFF7C0",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "756A8015",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC204FFFFFFFFC302FFFFC402FFFFC502FFFFC606FFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFFFE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803C120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC204FFFFFFFFC302FFFFC402FFFFC502FFFFE004FFFFFFFFFC0180",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803FD0180",
+        "Model": "lexus is350 awd 2014",
+        "Semantics": "UNKNOWN"
+    }
+]

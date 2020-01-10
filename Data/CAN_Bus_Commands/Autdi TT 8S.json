@@ -1,0 +1,462 @@
+[
+    {
+        "Command": "00221FC00010000301",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00231FC00010000301",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00241FC00010000301",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00251FC00010000301",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "371003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "431003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09027E810144902015452557E8215A5A5A465634467E82231303035313438",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "440902",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "501003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "601003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2216A97E8037F2231",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00612216A9",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037B5065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "681003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7B5100E6202BD00C3037B521EFF00022F275A67B52280AAAAAAAAAAAA",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00692202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037B4065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "761003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7B4100E6202BD00C3037B421EFF00022F275A77B42200AAAAAAAAAAAA",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00772202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "841003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD77A100D6202BDC3003E77A21FF000045E4EB4F",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00852202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037B0065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "921003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7B0037F2231",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00932202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1001003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD778037F2231",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01012202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1081003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD77E037F2231",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01092202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1161003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD7DD037F22787DD100D6202BDC3003E7DD21FF000045E4EB51",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01172202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003774065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1241003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2202BD774100D6202BDC3003E77421FF000045E4EB51",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01252202BD",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1321003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180E77D0762180E8000399C",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "013322180E",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22181177D0762181101000000",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "134221811",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2218B677D10096218B601003D77D21500000AAAAAAAA",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01352218B6",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180D77D0762180D00000000",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "013622180D",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003778065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1431003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "221008778037F2231",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "144221008",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1511003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "77E065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "152",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377D065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1591003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22182177D102C62182101000077D212CE200002CE20077D22001C1700001C1777D230000000000000077D240000000000000077D250000A4A4A4A4FF77D26FEFFFFAAAAAAAA",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "160221821",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377E065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1671003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2222AE77E102F6222AE00800077E218601780178062C77E2200B700AE023A0277E23260602007F008577E240230022605DF0077E2560005C023A022677E2605B900000000AA",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01682222AE",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037DD065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1751003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22180B7DD037F22787DD0762180B001C0E03",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "017622180B",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377A065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1831003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A0C77A04622A0C30",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0184222A0C",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A0B77A04622A0B42",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0185222A0B",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22228877A037F2231",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "186222288",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377F065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1931003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235377F0462235300",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "194222353",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235677F0462235600",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "195222356",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235477F0462235400",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "196222354",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235577F0462235500",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "197222355",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22235777F0462235700",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "198222357",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8065003003201F4",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2051003",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F15B7E8103562F15B1411137E8210000862C18F1007E8221411130000862C7E82318F100141113007E82400862C18F100147E82511130000862C187E826F10014111300007E827862C18F100AAAA",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "020622F15B",
+        "Model": "Autdi TT 8S",
+        "Semantics": "unknown"
+    }
+]

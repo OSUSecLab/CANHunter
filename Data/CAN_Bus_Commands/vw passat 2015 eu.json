@@ -1,0 +1,3757 @@
+[
+    {
+        "Command": "1F1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7101A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71031B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18762F1873551303930373533304143",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18962F18932323033",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F18C62F18C3239313131343130383031373734",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19162F1913551303930373533304D20",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19762F1974757204D514220486967682020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F19E62F19E45565F4761746577436F6E746900",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A262F1A2303131303230",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A362F1A3323132",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1A562F1A50002C8E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1AA62F1AA4A35333320",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71022F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206006206000B0300344F087300EF00025E1C0F00010001070000000000000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7102204A17F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "710222A5E622A5E00",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E42354832312D2D2D",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F18730344C3930363032364154",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18930383838",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1917F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F19130344C3930373330395220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F19762F197523420322C304C205444492020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D323054444930313130344C393036303236415400",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303031303035",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A37F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F1A3483231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F1A562F1A50009D0E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A36323320",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E0220600620600011D003204741D083000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E131B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F17E62F17E3033323533313034",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18762F1873044393330303034314120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18962F18934383031",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F18C62F18C54464B303134313133303031323700",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19162F1913032453932373737304151",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19762F19744513235302D3646204D514220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F19E62F19E45565F54434D445132353030323100",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A262F1A2303031303031",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A362F1A3483533",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1A562F1A50002C8E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1AA62F1AA4A37343320",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206006206000014",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E122060162060102",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E12207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7131A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71331B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F17E7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F17E3030303030303030",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1877F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1873351303930373337394E20",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F18962F18930373130",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F18C7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F18C3633343434303030303030373037",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1917F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1913351303930373337394720",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1977F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19745534320202020202020202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F19E7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19E45565F4272616B6531554453436F6E74694D4B31303049504200",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1A27F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1A2303334303237",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1A362F1A3483432",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71322F1A57F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1AA7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F1AA4A31303420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71322F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206006206000FEC6A8F34230B71077C060441C949F0562CD0E0608292F53862F0084222",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7132207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7121A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71231B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18762F1873351303930393134344820",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18962F18935303631",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F18C7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19162F1913351303930393134344820",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19762F1974550535F4D51425F5A464C5320",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19862F198000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19962F199000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F19E62F19E45565F537465657241737369734D514200",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A262F1A2303132313430",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A362F1A3353035",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1A562F1A50009D0E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1AA62F1AA4A35303020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71222F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206006206009303",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7122207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7461A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74631B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F17E62F17E30303030314B3130",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18762F1873547313930373034342020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18962F18931303031",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F18C7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19162F1913547313930373034342020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19762F197436C696D6174726F6E69632020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F19E62F19E45565F4143436C696D61424842565733375800000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A262F1A2303034313331",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A362F1A3483033",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1AA62F1AA4A32353520",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74622060062060012020124202400012115500E00101902",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7462207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873351303935393635354145",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930313935",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C30303352315050574E383046",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913351303935393635354145",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616720565732302020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1987F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F198000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71522F1997F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F199000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71522F19E7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "62F19E45565F416972626156573230545336565734385800",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "71522F1A262F1A2303031313136",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3303132",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50000080014C2",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060098FCC0C0000000005C5400CC000800000065",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873347303932303739384120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930343530",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913347303932303739384120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42492020202020202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F44617368426F6172645644444D5142414200",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2303039303431",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3303137",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060062060007A409986E84000800886A061001000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75431B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18762F1873750363930373335374320",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18962F18930303931",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19162F1913750363930373335374220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19762F1974146532D454355202020202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19E62F19E45565F486561646C526567756C4146534D51424D4C4200",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A262F1A2303031303031",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A362F1A3483031",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A562F1A50000080014BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1AA62F1AA4A37343520",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "754220600620600039A01004F210200",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422060162060108",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A1A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A31B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18762F1873551303935393539334420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18962F18930303238",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F18C62F18C303331323134424C333033333138",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19162F1913551303935393539334220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19762F19754534720465320202020202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F19E62F19E45565F44435544726976655369646545574D41584B4C4F00",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A262F1A2303036303033",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A362F1A3303230",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1AA62F1AA4A33383620",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A22F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A220600620600003F1A20D000028000001000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74A2207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B31B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18762F1873551303935393539324420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18962F18930303238",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F18C62F18C303331323134424C323132333235",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19162F1913551303935393539324220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19762F19754534720424653202020202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F19E62F19E45565F44435550617373655369646545574D41584B4C4F00",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A262F1A2303036303033",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A362F1A3303230",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1AA62F1AA4A33383720",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B22F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B220600620600003F1020D000028000001000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B2207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7231A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7231A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7231A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72331B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F18762F1873551303935393130374120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F18962F18930323234",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F18C62F18C3239373334333832323030303030",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19162F1913551303935393130374120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19762F197484453472D4D6F64756C202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19862F198000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19962F199000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F19E62F19E45565F4465636B4C6964434F4E5449415537333600",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1A262F1A2303031303038",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1A362F1A3483131",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1AA62F1AA4A36303520",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "72322F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206006206000288",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7232207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75731B800007F3131",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F18762F1873351303930373537324120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F18962F18930313236",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F18C7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19162F1913351303930373537324120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19762F19741434320424F534348204D5142",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F19E62F19E45565F414343424F534348565734385800000000000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1A262F1A2303031303037",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1A362F1A3483034",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1A562F1A50002C8E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1AA62F1AA4A34323820",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75722060062060032C067CB18FFC428949C804C",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7572207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7691A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7691A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7691A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76931B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F18762F1873551303938303535362020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F18962F18930313030",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F18C7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F19162F1913551303938303535362020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F19762F19752564320436F6D706163742020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F19E62F19E45565F43616D537973525652564350414E414D5142414200",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F1A262F1A2303035303037",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F1A362F1A3483037",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F1A562F1A50002C8E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F1AA62F1AA4A37373220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76922F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206006206000184020163002017000040",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7692207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7321A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73231B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F17E62F17E3030303333303030",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18762F1873351303935393433354120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18962F18930353233",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F18C62F18C30333534363335373431",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19162F1913351303935393433354120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19762F19756574B455353594D5142202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F19E62F19E45565F4B6573737948656C6C614D5142414200",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A262F1A2303034303237",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A362F1A3303333",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1A562F1A50009D0E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1AA62F1AA4A35313820",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "73222F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206006206000F00000703",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7322207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7731A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77331B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1877F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1873347303033353034334120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1897F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F18930313231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F18C7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F18C413539394C304542303037333232",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1917F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1913347303033353034332020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1977F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1974D552D482D4E2D455520202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "77322F19E7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F19E45565F4D55486967344347656E324842415300",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1A27F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1A2303031303031",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1A37F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1A3483431",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1A57F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1A50002C8E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1AA7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1AA4A37393420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "77322F1DF7F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7732206007F2278",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "62060002840201FF00000011110001000808031F0100E4012000009F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7732206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7732207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7471A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7471A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7471A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74731B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F17E62F17E3841303031303031",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F18762F1873551303930373338334420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F18962F18930313337",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F18C62F18C30333535363030323932",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F19162F1913551303930373338334420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F19762F197416E6861656E67657220202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F19E62F19E45565F547261696C46756E637447656E65723248656C6C6100",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F1A262F1A2303031303035",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F1A362F1A3483134",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F1AA62F1AA4A33343520",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74722F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206006206000100000202000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7472207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E31B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18762F1873551303933373038364244",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18962F18930313436",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F18C62F18C3836353830333132313432343739",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19162F1913551303933373038364244",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19762F19742434D2050513337424F534348",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F19E62F19E45565F426F6479436F6E74724D6F64756C31554453426F736300",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A262F1A2303134303034",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A362F1A3303238",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1AA62F1AA4A35313920",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E22060062060000D31E66C24102FF13844084B11C57281880000000000000000000000000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E2207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B31B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F18762F1873551303930373237332020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F18962F18930303038",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F18C62F18C3330303030303030303032333336",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F19162F1913551303930373237332020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F19762F19752444B42455255333020202020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F19E62F19E45565F52444B42455255333000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F1A262F1A2303035303035",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F1A362F1A3483034",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F1A57F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F1AA62F1AA4A35303220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B22F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206007F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B2207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E62F17E4646303333303333",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18762F187335130393533353231414E",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930313835",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C62F18C3230313431323031353030333435",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19162F1913551303935333536394220",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19762F1974C656E6B732E4D6F64756C2020",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E62F19E45565F534D4C5356414C454F4D51424C524800",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A262F1A2303031303035",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A362F1A3313030",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A562F1A5000008E6000F",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA62F1AA4A35323420",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206006206000C10",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A917F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9A7F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A867F1A11",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A31B800007F3112",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F17E7F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18762F1873551303931393239384320",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18962F18930303133",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18C62F18C4154572D30303130352E31322E31344543303830323638",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19162F1913551303931393239384320",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19762F197504C4120332E302031324B0000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1987F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1997F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19E62F19E45565F4550485641324341553337303030303000",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A262F1A2303038303137",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A362F1A3483038",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A562F1A50002C8E614BF",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1AA62F1AA4A37393120",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1DF62F1DF40",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206006206000071163151",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206017F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206067F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206077F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206107F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206707F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206A07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206D07F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206407F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2207307F2231",
+        "Model": "vw passat 2015 eu",
+        "Semantics": "UNKNOWN"
+    }
+]

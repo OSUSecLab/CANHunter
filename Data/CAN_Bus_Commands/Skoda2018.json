@@ -1,0 +1,402 @@
+[
+    {
+        "Command": "10035003003201F4",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "91003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00251FC00010000301",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00261FC00010000301",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00271FC00010000301",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377A065003003201F4",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "391003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A2A77A037F2231",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0040222A2A",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A2E77A1103622A2E10010277A210304050607080977A220A0B0C0D0E0F0077A231112131415161777A2418191A1B1C1D1E77A251F20212223242577A26262728292A2B2C77A272D2E2F3031323377A283435363738393A77A293B3C3D3E3F404177A2A4243444546474877A2B494A4B4C4D4E4F77A2C5051525354555677A2D5758595A5B5C5D77A2E5E5F606162636477A2F65666768696A6B77A206C6D6E6F70717277A217374757677787977A227A7B7C7D7E7F8077A238182838485868777A2488898A8B8C8D8E77A258F90919293949577A26969798999A9B9C77A279D9E9FA0A1A2A377A28A4A5A6A7A8A9AA77A29ABACADAEAFB0B177A2AB2B3B4B5B6B7B877A2BB9BABBBCBDBEBF77A2CC0C1C2C3C4C5C677A2DC7C8C9CACBCCCD77A2ECECFD0D1D2D3D477A2FD5D6D7D8D9DADB77A20DCDDDEDFE0E1E277A21E3E4E5E6E7E8E977A22EAEBECEDEEEFF077A23F1F2F3F4F5F6F777A24F8F9FAFBFCFDFE77A25FFAAAAAAAAAAAA",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0041222A2E",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2204A377A10236204A301543C77A210000000000400C77A221000000048000077A230000000000000077A240000000000000077A2500AAAAAAAAAAAA",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00422204A3",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "222A2877A1023622A2800000077A210000000000000077A220000000008000077A230000000000000077A240000000000000077A2500AAAAAAAAAAAA",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0043222A28",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "491003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "09027E81014490201544D427E8214A4B374E4538457E82230323030393439",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "500902",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "561003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "661003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "671003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006922F187",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "70222232",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22224377E06622243000F66",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "71222243",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22224477E056222440063",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "72222244",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00732222A0",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "74222246",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00752222A1",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "76222247",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "77222248",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "841003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2211BC7E8056211BC1D06",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00852211BC",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2211BE7E8056211BE0CDC",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00862211BE",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "961003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F1A577E100962F1A500045077E213F1ED6AAAAAAAA",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "009722F1A5",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2EF19918061377E036EF199",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00982EF199180613",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "010310092EF1980001FE",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "77E036EF198AAAAAAAA",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0105212D1ED6FFFFFFFF",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2E22320077E037F2E7877E036E2232",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01092E223200",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2E22320177E037F2E7877E036E2232",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01102E223201",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "111222243",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1211003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100377E065003003200C8",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1221003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22F18777E100E62F18735453077E213932303837314677E2220AAAAAAAAAAAA",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "012422F187",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22223277E0462223201",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "125222232",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22224377E06622243000000",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "126222243",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22224477E056222440000",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "127222244",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2222A077E056222A00096",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01282222A0",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22224677E05622246012C",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "129222246",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2222A177E056222A1016D",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01302222A1",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22224777E0562224702DA",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "131222247",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "132222248",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "22224877E0462224801",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1391003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8065003003201F4ATZ",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "015501C00010000301",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8065003003201F4",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1671003",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2211BC7E8056211BC1BD7",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01682211BC",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2211BE7E8056211BE0CEF",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01692211BE",
+        "Model": "Skoda2018",
+        "Semantics": "unknown"
+    }
+]

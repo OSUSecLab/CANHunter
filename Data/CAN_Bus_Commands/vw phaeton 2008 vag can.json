@@ -1,0 +1,267 @@
+[
+    {
+        "Command": "1F1A9F5A9FA5010080050200800103038001340440011505400155064001710E4001130B4000230D400017072A013C1C4000110080000400E001460082054200E2015200E2016200E2017200E2013606420165094200160A4201080C4201760D42010511420569144200061542010919420138074201281E420168124201661642005652240147532401375B240157572400775A2400182F2401191F2A012E5424006C492400071F420104001002FF",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9B5A9B364E30393039393031202020B036313610000000063B63AD86474A353333202047572D4B2D43414E205450323020",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A915A910E3344303932303838355420202AFF",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80104010501060107",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B7F1A78",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "7F1A11",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "INFOTAINMENT_2"
+    },
+    {
+        "Command": "521A917F1A11",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "5231B8000071B801020103010601070114",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "531A9B5A9B334430303335343635432020B03132300000000000000000000030384B20417564696F76657273742E2020202020",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "531A915A910E33443030333534363543202020043030300530303030FF",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "5331B8000071B80106",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "221A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5A9B33443039323038383554202030363136030098BD063B63AD86474A323835204B4F4D42492D494E53542E20202020",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A915A910E3344303932303838355420202AFF",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0731B8000071B8010201030104010601070108",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B7F1A78",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A917F1A11",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B31B8000071B801020103010601070114",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "vw phaeton 2008 vag can",
+        "Semantics": "UNKNOWN"
+    }
+]

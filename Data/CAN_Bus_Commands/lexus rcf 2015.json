@@ -1,0 +1,1477 @@
+[
+    {
+        "Command": "7502AA801E8010004FFFFFFFF0302C0000402C0000602E000090240000A01FF0F0600000FFFFFFF100600000FFFFFFF110600000FFFFFFF120600000FFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA803E8030004FFFFFFFF0302C0000602E0000E20000700000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF1B0240001C02FF00",
+        "Model": "lexus rcf 2015",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7E0A801E8010004FFFFFFFF0134FFFFFFFFFF00FF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A802E8020004FFFFFFFF0101FF050212120904030301010B02F0F00C01FF0F02FFFF1302FFFF1701FF1C03FFFF011D040000FFFF1F02FFFF2004FFFFFFFF2C01FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C161C155534331302320325552475345088041730100",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C261C2323438393000210304DF1F0001",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021E261E2F7F7D9F370",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0AA00EA00C3C318ED",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E1A801E8010004FFFFFFFF0134FF0000000000FF0000FFFFFFFFFFFF00FF00000000FFFFFFFFFFFFFF000000000000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7E1A802E8020004FFFFFFFF0904020200002004FFFFFFFF2D0A1F1F1F1F000003034141",
+        "Model": "lexus rcf 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7E1A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7E121C261C232343035300021030400000001",
+        "Model": "lexus rcf 2015",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7C0A801E8010004FFFFFFFF0202FFFF1209902031F813800101801301FF1502B8012004FFFFFFFF2101FF2201FF2301FF2901FF2D01FF4004FFFFFFFF4101FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A802E8020004FFFFFFFF01013F0A0280000B16CAA0174A80211014000200064400000C0040000000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA10108A701C0AB0120AE01C0B001C0C004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF0202FFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0C06FF40FF0000000D06FFFFFFFFFFFF1104C00F0000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF0601700701281103E08000120382C00014038000001503F0C4821904001000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0C06FF40FF0000000D06FFFFFFFFFFFF1104C00F00001204F8480000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "750B5A801E8010004FFFFFFFF0202FFFF11063C8007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF3203FFFFFF3306FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A802E8020004FFFFFFFF0101400301040401610501802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A803E8030004FFFFFFFF11063C8007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF4004FFFFFFFF6004FFFFFFFF6106800000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF2101FF2201FF2401FF2501FF2601FF2B02FFFF2C02FFFF3C01FF3D01FF3F01FF4004FFFFFFFF4104FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF0201FF1401FF1701FF1902D0D01C0200002004FFFFFFFF2101FF2201FF2301FF2401FF2801FF2A01FF3D01FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A803E8030004FFFFFFFF0101FF0201FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF810441000D0A8204FEF8FEE08404008004008504F8000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C42189618910",
+        "Model": "lexus rcf 2015",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C421297F2112",
+        "Model": "lexus rcf 2015",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "780A801E8010004FFFFFFFF0101FF0202FFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8027FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "7802105610501",
+        "Model": "lexus rcf 2015",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "750ADA801E8010004FFFFFFFF0103FFF7400301800401880501880601FF070108080140E004FFFFFFFFE101FFE204FFFFFFF7",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA802E8020004FFFFFFFF0101C0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA803E8030004FFFFFFFF020140",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "75067A801E8010004FFFFFFFF0203FFFFFF2004FFFFFFFF210190220267182301302401082501C026013C27050F00F0FFFF2802FE002906F90000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "75067A802E8020004FFFFFFFF040180",
+        "Model": "lexus rcf 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "75067A803E8030004FFFFFFFF2004FFFFFFFF220267182301302401082501C026013C2A08FFFFFFFFFFFFFFFF2F01804004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "750E9A801E8010004FFFFFFFF0202FFFF1102E380120213C014020C001502F0FF16023E002004FFFFFFFF2101FF2203FFFFFF2306FFFFFFFFFFFF2506FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A802E8020004FFFFFFFF0101940401802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "REMOTE_ENGINE_STARTER"
+    },
+    {
+        "Command": "7B4A801E8010004FFFFFFFF0101FF0202FFFF0301FF0401FF0701FF0801FF0902FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A802E8020004FFFFFFFF01020101",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7D0A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF210901F62C7E720E0EA4572201FF2404FFFFFFFF2601FF4004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A802E8020004FFFFFFFF2004FFFFFFFF2201022304FE0000002403DFFFF04004FFFFFFFF4102FFFF4306BF87FFFF00004408FFFFFFFFFFFFFFFF540101",
+        "Model": "lexus rcf 2015",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "75041A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF61038003FF6209CCFFFF0FFF3FFF03FF640AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75041A802E8020004FFFFFFFF020180030180040480FF03FF050480FF03FF1001801101C02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75041A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF680A0000000000000080FFFF6B01B06C01F8700200C07101FF7201FF7301FF7401FF7701FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75042A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF61030003FF6209CCFFFF0FFF3FFF03FF640AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "75042A802E8020004FFFFFFFF020180030180040480FF03FF050480FF03FF1101C01201C02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "75042A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF680A0000000000000080FFFF6B01306C01F8700200C07101FF7201FF7301FF7401FF7501FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "7B1A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "750E0A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "THEFT_DETERRENT"
+    },
+    {
+        "Command": "75090A801E8010004FFFFFFFF010388888802048088FFFF0401F011010F2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A803E8030004FFFFFFFF11010F",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75091A801E8010004FFFFFFFF010388888802048088FFFF0401F011010F2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A803E8030004FFFFFFFF11010F",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75092A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75093A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "750B9A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "WINDOW_REAR_HATCH"
+    },
+    {
+        "Command": "750A1A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A2A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "750A4A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "750A7A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "750B8A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750ABA801E8010004FFFFFFFF010238000202FFFF0304410F3CC00401FF0503FF00000601FF0802FFFF0902FFFF0A02FFFF0B02FFFF0E02FFFF0F02FFFF1002FFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA802E8020004FFFFFFFF0103FF00000201012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA803E8030004FFFFFFFF0301012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "75080A801E8010004FFFFFFFF0202FFFF030441003CC00401FF0503FF00000601FF0802FFFF0902FFFF0A02FFFF0B02FFFF2004FFFFFFFF210265002204FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75080A802E8020004FFFFFFFF0103FF00000201012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75080A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75083A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_REAR_RIGHT"
+    },
+    {
+        "Command": "75085A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_REAR_LEFT"
+    },
+    {
+        "Command": "7508AA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508BA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508CA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_AC_REAR_RIGHT"
+    },
+    {
+        "Command": "7508DA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_AC_REAR_LEFT"
+    },
+    {
+        "Command": "750DCA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SEAT_DRIVER_SWITCH"
+    },
+    {
+        "Command": "750DDA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "CENTRAL_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "750DEA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "REAR_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "75070A801E8010004FFFFFFFF01030670E00202FFFF030A0000FFFF0000FFFFFFFF0406FFFFFFFF00000506FFFFFFFFFFFF0C09FFFFFFFFFF000000000D04FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A802E8020004FFFFFFFF0101C0040280FF0501400B01801502F006",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFF10103F20101",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7507021E261E2003ED90100",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "HYBRID"
+    },
+    {
+        "Command": "790A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STABILIZER_FRONT"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STABILIZER_REAR"
+    },
+    {
+        "Command": "7502AA801E8010004FFFFFFFF0302C0000402C0000602E000090240000A01FF0F0600000FFFFFFF100600000FFFFFFF110600000FFFFFFF120600000FFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA803E8030004FFFFFFFF0302C0000602E0000E20000700000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF00000FFFFFFF1B0240001C02FF00",
+        "Model": "lexus rcf 2015",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF000409FF0000000000000000050FFFFFFFFF0000000000FF000000FFFF0604FFFFFFFF0801FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF0302939307042222E0E02004FFFFFFFF2102FFFF22023030280227273603701F00390217174004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A803E8030004FFFFFFFF03000B01800C01600D01400E05FFFFFFFFFF0F0BFFFFFFFFFFFFFFFFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7A1A801E8010004FFFFFFFF0202FFFF0302FFFF0602FFFF0702FFFF0802FFFF0902FFFF0A02FFFF0B02FFFF0C02FFFF0D02FFFF0E01FF0F02FFFF1102FFFF1202FFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A8027FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A803E8030004FFFFFFFF0101FF0201FF0301FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "791A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "PRE_COLLISION"
+    },
+    {
+        "Command": "7A2A801E8010004FFFFFFFF0202FFFF100400000B1011060200208008802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7A2A8027FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7A2A803E8030004FFFFFFFF0901FF1001FF1401311506FFFFFFFFFFFF2004FFFFFFFF2302FFFF2401FF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7A2A900E9007C000601",
+        "Model": "lexus rcf 2015",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "750ECA801E8010004FFFFFFFF0102F7F702027E7E0302FFFFE004FFFFFFFFE101FFE204FFFFFFF7",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA802E8020004FFFFFFFF0101C0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA8037FA811",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750A5A801E8010004FFFFFFFF0202FFFF1301F02004FFFFFFFF2102FC002204FFFFFFFF2304FFFFFFFF2404FFFFFFFF25040000FFFF2604FFFFFFFF3203FFFF803901FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A5A802E8020004FFFFFFFF1101802004FFFFFFFF2101FE4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A5A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A6A801E8010004FFFFFFFF0202FFFF1301F02004FFFFFFFF2102FC002204FFFFFFFF2304FFFFFFFF2404FFFFFFFF25040000FFFF2604FFFFFFFF3203FFFF803901FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A6A802E8020004FFFFFFFF1101802004FFFFFFFF2101FE4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A6A8037FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A8A801E8010004FFFFFFFF0202FFFF0302FFE004029E800501F80601FF0701FF0804FFFFFFFF0904FFFFFFFF0A04FFFFFFFF0B04FFFFFFFF0C04FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750A8A802E8020004FFFFFFFF0101F02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750A8A803E8030004FFFFFFFF0101FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750DBA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_COLUMN_SWITCHES"
+    },
+    {
+        "Command": "750DAA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "7503BA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ADAPTIVE_SUSPENSION"
+    },
+    {
+        "Command": "75060A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "NIGHT_VIEW"
+    },
+    {
+        "Command": "744A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "DYNAMIC_REAR_STEERING"
+    },
+    {
+        "Command": "75002A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "7A3A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "75051A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "7504FA8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "750B0A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "7C1A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ELEC_POWER_CONTROL"
+    },
+    {
+        "Command": "727A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "GEAR_SELECTOR"
+    },
+    {
+        "Command": "7D2A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ELEC_PROPULSION_CONTROL"
+    },
+    {
+        "Command": "7E7A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "PLUG_IN_CONTROL"
+    },
+    {
+        "Command": "723A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "ACTIVE_ENGINE_MOUNT"
+    },
+    {
+        "Command": "75052A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "75052A8027FA812",
+        "Model": "lexus rcf 2015",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "75052A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "750C8A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010202FFFF032CFFFFFFFFFFFFFF00FF000000FF00FFFF00000000000000000000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010428FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FFFF0000FFFF0000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010530FFFFFFFF0000FFFFFFFFFFFFFFFF00000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010612FFFFFFFFFFFFFFFFFFFFFFFFFFFF000000002004FFFFFFFF2120FFFF000000000000FFFFFC000000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80122110000000000000000FFFFFFFFFFFF8000FF2302FFFF240180250D06100080F0E03700140000CC00260D06100080F0E03700140000CC002803FFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012903FFFFFF300A0000000000000000FFFF3326FFFFFFFFFFFFFFFFFFFF00000000FFFFFFFF0000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801371FFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFF20C7900000000000000000390B00120002F0000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013A2900000000000000000000000000FFFF0000FFFFFFFF00000000FFFFFFFF0C0000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C26FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00FF80000000000000000000000000000000FFFF4004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014115FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FC420A00000000FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801442900000000FFFF00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000C0FFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801451AFFFFFF0000FFFFFFFFFFFFFFFF00000000FFFFFFFFFFFF00FFC0461AFFFFFFFFFF0000FFFFFFFFFFFFFFFFFFFF0000000000000000E0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015136FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00FFFF0000000000BCC00000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015223FFFFFFFFFFFFFFFF00000000FFFFFFFF0000FFFF0000000000FFFFFFFFFFFFFFFFFFC0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801541AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000FFFF5516FFFFFFFF00FF00FFFFFFFFFFFFFFFF00FF00FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801560AFFFFFFFFFFFFFFFFFFFF5718FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6004FFFFFFFF6102FFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A138000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A2140000000000000000FFFFFFFF0000FFFFFFFF0000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A436FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000FFFFFFFF0000000000000000FFFFFFFF000000000000000000000000FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A527000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A71AFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A822FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000FFFFFFFFFFFFFFFFFF00FFA914FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AA2AFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AB1AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAC17FFFF0000FFFF000000000000000000000000FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AD26FF000000000000FFFFFFFF0000FFFFFFFF0000FF000000000000FFFFFFFFFFFFFFFFFFFFFFFFB005FFFFFFFFFFB108FFFFFFFFFFFFFF1F",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B22BFF0000000000000000000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B51EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB60300FF80C004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C113FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F80C20DFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C31BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000C40FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C517FFFFFFFF00000000000000000000000000000000FF0000C610FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C71CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC908FFFF0F077EE00000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D11EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE004FFFFFFFFE108FFFFFFFFFFFFFFFFE205FFFFFFFFF0E303A70300",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8022E01FF3410FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3B01034004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802E110FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE402FFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010202FFFF032C0000000000000000000000000000FFFF00000000000000000000000000000000000000000000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010612FFFFFFFF00FFFFFFFFFFFFFFFFFF000000002004FFFFFFFF221100000000FFFF0000000000000000000000250D04100000F00000800000000400",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801260D04100000F000008000000004002803FFFFFF390B00000002000000000000004004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018118FFFFFF000000000000000000FFFFFF000000000000FFFFFF820AFFFF00000000000000008504FFA01800A004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C113FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F80C20DFFFFFFFFFFFFFFFFFFFFFFFFFFC908000000000000FFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FFFFFFFFFFFFFFFFE205FFFFFFFFF0E303A00000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014324000000000000000000000000000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801443600000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF6401FF8004FFFFFFFFA004FFFFFFFFA10108A701C0AB0120AE01C0B001C0B101ACC004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFDFF7F0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803E004FFFFFFFEF101FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011204F84800001304D0C0000014049B6737F0150470FC80C817040D00C0C01904004000001B04000000181D04CE0000002004FFFFFFFF2204F8000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013101FF3203FFFFFF3304FFFFFFFF3404FFFFFFFF3604FFFFFFFF3E04FFFFFFFF3F04FFFFFFFF4004FFFFFFFF4404FFFFFFFF4504FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014604FFFFFFFF4704FFFFFFFF4F04FFFFFFFF5004FFFFFFFF5504FFFFFFFF5604FFFFFFFF5704FFFFFFFF5E04002000005F04000000806004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801640200006501806904FFFC00006A04FCFCFCE06B04FCFCFCE06C04E000C0008004FFFFFFFFA004FFFFFFFFA10480000000A20430E80000A30430000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A4048A800000A504C0000000A604C0060000A704F7000008AA04CDFF01FFAB041FFF0000BB04000335B0C004FFFFFFFFC904FFFFFFFFCA04FFFF0000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801CB0480000000D304FFFFFFFFD404FFFFFFFFD504FFFFFFFFD604FFFFFFFFDB04FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8028004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8031304D0C0000014049B6737F0150470FC80C817040D00C0C01904004000001B04000000181D04CE0000002004FFFFFFFF2204F80000004004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8034404FFFFFFFF4504FFFFFFFF4604FFFFFFFF4704FFFFFFFF4F04FFFFFFFF5004FFFFFFFF5504FFFFFFFF5604FFFFFFFF5704FFFFFFFF5E0400200000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8035F04000000806004FFFFFFFF6101806201006301006804E0FE00006A04FCFCFCE06D01808004FFFFFFFF810180A004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803E004FFFFFFFEF101FFF201FFFD0180",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013406FFFFFFFFFFFF3606FFFFFFFFFFFF3706FFFFFFFFFFFF3806FFFFFFFFFFFF3906FFFFFFFFFFFF3A06FFFFFFFFFFFF3B06FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C06FFFFFFFFFFFF3D06FFFFFFFFFFFF3E06FFFFFFFFFFFF4004FFFFFFFF4106FFFFFFFFFFFF4206FFFFFFFFFFFF4406FFFFFFFFFFFF6004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA103CC4001B106FCFFFFFFFD00B206FFFF00000000B302CF90B404C0000000B502140CB606000000010000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B706E00000000000C004FFFFFFFFC10430000000C204FF000000C304C0000000C406E0FFD6FFD6F2C506E827FF3FF000C606CC0000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D106F7FF8FFFFFFFD204F3000000D301E0D406800000000000D506F8FCFFFC0000D606FF0000000000E004FFFFFFFEE108FF00FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036206FEF8000000006306FFFF800000007104800000008004FFFFFFFF8106C800000000008206C8000000000083068000000000008406C00000000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8038506E00000000000A004FFFFFFFFB502140CC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014204FFFFFFFF4304FFFFFFFF4404FFFFFFFF4B01FF4C02FFFF4D04FFFFFFFF5201FF5301FF5501FF6004FFFFFFFF6101FF6304FFFFFFFF6504FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017C01FF7E01FF7F01FF8004FFFFFFFF810441000D0A8204FEF8FEE08404008004008504F80000008601FF8901FF9101FF9201FF980488000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8019A04C60000009B0440000000A004FFFFFFFFB304FFFFFFFFB402FFFFB801FFBA01FFC004FFFFFFFFD101FFD203FFFFFFD304FFFFFFFFD404FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE108FFFFFFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8039B0440000000A004FFFFFFFFC004FFFFFFFFD101FFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010337FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010406FFFF00FFFF000501FF0601FF0A01FF0B01FF0E01FF2004FFFFFFFF2102FFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF620AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801633AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801643AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016511FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6611FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016717FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6817FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801693BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016B3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016C3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016D3AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016E3AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016F35FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017035FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017128FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017228FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801733AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801743AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A537FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A637FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B127FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB212FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B41AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB51AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B61CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB71CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B816FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB916FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FFFFFFFFFFFFFFFFE205FFFFFFFFFFE301FFEC01FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012A08FFFFFFFFFFFFFFFF2B08FFFFFFFF000000004004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FF00FFFFFFFFFFFFE205FFFFFFFFC0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012806FFFFFFFFFFFF2906FFFFFFFFFFFF2B06FFFFFFFFFFFF2C06FFFFFFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFC0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014113FFFFFFFFFFFFFFFFFFFFFF8FFDFFFFFFFFFFFF4201FF520AFFFFFFFFFFFFFFFFFFFF5303FFFFFF5404030FFF076004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016138FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80162021FFF6337FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801641EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801652CF0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016631FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0FFF1FFF8004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016905C4FFFF00FF6A04CFFFFFFF6B01B06C01F8700200C07101FF7201FF7301FF7401FF7701FF7801FF7901FF7A08FFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8037801FF7901FF7D01C08004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEF101FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801651AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6606FFFFFFFFFFFF6706FFFFFFFFFFFF680A0000000000000080FFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801690538FFFFFF006A04CFFFFFFF6B01306C01F8700200C07101FF7201FF7301FF7401FF7501FF7601FF7A08FFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017B09FF0000FFFFFFFFFFFF7D01C08004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802C004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8037601FF7D01C08004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEF101FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE101FFE205FFFFFFF7E0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011102FFFF1402FFFF1502FFFF1602FFFF1702FFFF1A02FFFF1B02FFFF1C02FFFF1D02FFFF2004FFFFFFFF210265002204FFFFFFFF2404FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801280200C02904FFFFFFFF2A04FFFFFFFF4004FFFFFFFF4104870F0F0042040100000C5701FF5A01FF6004FFFFFFFF8004FFFFFFFF9104FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012404FFFFFFFF280200C02904FFFFFFFF2A04FFFFFFFF4004FFFFFFFF42040000000F5701FF5A01FF6004FFFFFFFF8004FFFFFFFF9104FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80114120007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1A01FF2004FFFFFFFF210270E02402FFFF2506FFFFFFFFFFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801130600000FFFFFFF1605FFFFFFFFFF1B0240001C02FF001F06FFFFFFFFFFFF2004FFFFFFFF2102C0003005FFFFFFFFFF3102FFFF3205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013302FF003402FFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE108FF00000000000000E205FFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8031F06FFFFFFFFFFFF2004FFFFFFFF2102C0003102FFFF3205FFFFFFFFFF3302FF003402FFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803C004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010A0D0000000002C000FF0000FF00000C0F000000FF00000000000000FF0000000F0BFFFFFFFFFFFFFFFFFFFFFF1C02FF001D01201F03E02000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012004FFFFFFFF2101FF3A01303C01C03D04C00008003F02E0FF4004FFFFFFFF410CFFFFFF0000000000000000004204FFFFFFFF4308FFFFFF00FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801460CFFFFFFFFFFFFFF0000000000470AFFFFFFFFFFFFFFFFFF005901FC5A02FEFD5F02F0FE6004FFFFFFFF610BFFFF00FFFF00FF00000000",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016205FFFFFFFF006310FFFF00000000FF0000FFFFFFFFFFFF006505FFFFFFFF00670DFF0000000000000000000000007E03FF1B007F04FFDFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA101FFA60280FFBB05FFFFFFFFFFBC0124BD04FF803FF8BE04FF803FF8C004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FF00FFFFFFFFFFFFE205FFFFFFFFFFF105E0FE80FE80F202FFFFF302FFFFF40180F50180",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFE004FFFFFFFFF101FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011302FFFF1402FFFF1502FFFF1602FFFF1702FFFF1802FFFF1902FFFF1A02FFFF1B02FFFF1C02FFFF2004FFFFFFFF2902FFFF4004FFFFFFFF4102FFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014201FF4401FF4501FF4601FF4701FF4802FFFF4A02FFFF5701FF5A02FFFF6004FFFFFFFF6101FF6201FF6801FF6901FF7101FF7201FF7801FF7901FF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFF8101FF8201FF9001FF9101FF9201FF9301FF9401FF9501FF9607FFFFFFFFFFFFFF9708FFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8019823FFFFFFFFFF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8019918FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9A14FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9B04FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFF7C0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFF7F0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803C004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFC101FFC203FFFFFFD004FFFFFFFFE004FFFFFFFEE108FF00FFFF00FFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFF7C0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010D04FFFFFFFF0E04FFFFFFFF1601F01701FF1804FFFFFFFF1904FFFFFFFF1A04FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFF7E0",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "756A8015",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC204FFFFFFFFC302FFFFC402FFFFC502FFFFC606FFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFFFE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803C120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC204FFFFFFFFC302FFFFC402FFFFC502FFFFE004FFFFFFFFFC0180",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803FD0180",
+        "Model": "lexus rcf 2015",
+        "Semantics": "UNKNOWN"
+    }
+]

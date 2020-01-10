@@ -1,0 +1,1867 @@
+[
+    {
+        "Command": "40221010621010574241564339333536384B5A3732373837",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F00623F000241941795943FDA36534145D5B23CF7",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F01623F0141041041041041041041041041041042",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F02623F02118E14904D25194955528FA4B6893459",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F03623F034D24938705104D44555115D44D051345",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F04623F0445115156545955184546185195146575",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F05623F0521914BA1550495490552455492552515",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F06623F064D45545155935678564D959455655559",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F07623F0764D65D75995169AC6116184936145585",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F08623F08506154D85D66525448906500FFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F09623F09FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "72221010621010574241564339333536384B5A3732373837",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F00623F000241941795943FDA36534145D5B23CF7",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F01623F0141041041041041041041041041041042",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F02623F02118E14904D25194955528FA4B6893459",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F03623F034D24938705104D44555115D44D051345",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F04623F0445115156545955184546185195146575",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F05623F0521914BA1550495490552455492552515",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F06623F064D45545155935678564D959455655559",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F07623F0764D65D75995169AC6116184936145585",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F08623F08506154D85D66525448906500FFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F09623F09FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "121A805A80000007581123000C00004D572007103004000000000000000000FFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "121A9B5A9B0C",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222300062300000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222300162300100",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230027F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230037F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230047F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230057F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222301062301000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "181A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "191A805A80000007567804130509504D4E200603146000108B04020003031E000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "191A9B7F1A12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230006230000309010D000000000000000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230017F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230027F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230037F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230047F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230057F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "192231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "781A805A80000009162983030105D0475520071112560017670B00B303031E000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "781A9B7F1A12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "7822300062300012D9210E8001010101010A0F0F160200",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230017F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230027F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230037F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230047F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230057F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "291A805A80000006783295030D0BC14D5520070413080013F80706010000003C2944",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "291A9B7F1A12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230006230000C",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230017F2221",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "2922300262300140161107508C05A02DA02121A0FFFFFF0064",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230037F2221",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230046230033D50E560C2B1FAE13AC49BA60D0C0D0C05DC05E9F831D541196E6E01",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "29223005623005C000FD",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "2922300662300686",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "2922300862300812A09B140F0711F4EBE7145C0E280B0B12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "292231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "601A805A800000091668650E0808D05251200710311000176B7950C1030300000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "601A9B5A9B08",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223000623000DFEC0A041F18001E0A1E0A1EEB2A0114FF0F",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223001623001E5FFFFFFFFFFFFFFF7FFFFFFFFFFFFFFFFFFBFFFFFFFFFBFFFFFFFFFEFFFFFFFFFFFFFFFFFFFEFFFFF7FFFFBFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFF7A0300",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300262300200B25E4DA1AA5F55A0",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230036230030E0E",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223004623004172F556A2007200000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223005623005BD20400A0582030377002C3A40460018293137",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230066230061EFFFFFFFF7D0A32025F00BA0172020403D4033C001301F901E102D403FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223007623007F60303FFFFF6",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223008623008092840DC052C013C00100E5046FFFFE01E101857",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223009623009E8500A41A191309118C2189201923030C3C28291C1C1D1C39332FFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230107F2210",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022305062305098FA3F0A0A70F37B4200E7",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223106623106DCFE0000000000130F00000000000000000000F00000000000406000000000000000000000011078C8B0FFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223B02623B02F8222B00222B00622B00E21A00E21A00",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C03623C032016110720",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C04623C04B4010DB8",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C0F623C0F05080D00",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "1C1A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "301A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DYNAMIC_MANAGEMENT"
+    },
+    {
+        "Command": "201A805A8000000678280003001000454720071102750012380A0100030A03000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "201A9B5A9B00",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230006230000101000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230017F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230027F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230037F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230047F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230057F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "202231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "211A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TPMS"
+    },
+    {
+        "Command": "161A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "711A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "401A805A80000009147185C40806A053412007110604000000020004030300000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "401A9B5A9B08",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221011621011156601081E02D002085064",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221012621012303437354C435357",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221014621014000806FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300062300017760241181E1E320F0E083C44000300000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230016230016869A1000200100218000000A00000000000000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230026230022C02107F00000523052333190F051E14000A000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300362300340051408083C280009020000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223004623004810505140209AA280E3203000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223005623005970A05270000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300662300600000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "411A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "501A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ALARM"
+    },
+    {
+        "Command": "641A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "671A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "721A805A8000000916670905090E60524C200711070900130905503D0400050000000000091319390004021930303931355730303039313557304631383041",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "721A9B7F1A12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300062300080073000002805AAFF00000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230016230015A8A3E3E508E192705640A07070D0A0D",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230026230021E32080A32191E104030143D19150000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230036230033701060C64AF961E400F0A320A507819",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223004623004641432641E0AFF0A0628023C96080A20",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230056230053701060C64AF961E400F0A320A507819",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223006623006641432641E0AFF0A0628023C96080A20",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223007623007080510080803731660823C4E01052328",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300862300804EA2E21000023283064D42A00000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223009623009C7E26400C7005A00C7005A00E8142300",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223010623010C7002300282D506E8C1E4664060F0C03",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222301162301164383032280550303664642D4182AA43",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230126230127117FD17FE170DFD0DFE0D6C9D4037BE",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223013623013B08B1864640813817232619012F80032",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223050623050FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "271A805A80000009134708000402614B5A2007110304000C1E045000030300000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "271A9B5A9B04",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230006230002D00085F",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230017F2278",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "2722300262300210E0085F",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230037F2278",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230046230040B04DC",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223005623005000B0D08030D0C030D04020D040A0D2C0B012C04011C0D351C09350C0B0D",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "2722300662300608070B04070C2C070D1C070E000000000000000000063C0C",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223007623007030000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230087F2278",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223009623009030000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "241A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "561A805A80000009138277340605A048432002121302000C03040901030300000008",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "561A9B7F1A12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562230007F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300094BF100101013E420007",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230017F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623001A614052800000000FFFFDFFFFFFFFF7F5F64CCC60000000007",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230027F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623002024E05BE00C80222030C03840200000007",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230037F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300307141E1C140DFF0203030211146405050F0F030D0A194605007D3E060032AA000011110706050303030303282814140C0D0A0A0A2307",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230047F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623004070F64211014F00203030214146405051914071E10101005007D3E0307F0A0070582820808080807090B070B08080808080808080808087D7D0F10100E1015151515120F0F0F0F0F0F0F0F0F0F07",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230057F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300500BE00CC00E7011D0152018801BE01F4027B0301040F051C062907800D0D0D3607",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230067F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300600FA00F00FC85402080639993C1E4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230077F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623007",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230087F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623008",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230097F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623009",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230107F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623010",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230507F2E78",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623050",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "56A680021A80E6801F5A8000000912411240060B70FFFF200602020200240C25060929FFFFFF0102",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "441A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CENTER_ROOF"
+    },
+    {
+        "Command": "451A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "6D1A805A8000000914826505150C50534E2007110324000A14070B000303030000000000069263620101306130323431455A3030323431455A304631303041",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D1A9B7F1A12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300062300000020101",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223001623001FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223002623002FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223003623003FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223004623004FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223005623005FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223006623006FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223007623007FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223008623008FF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223009623009AA",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223010623010341A018E06",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22305062305000FFFFFF10FFFF3214011E19FFFFFF000001DC03834730A00532782805A01604640C3C0FFF5A166D050F5A010C3C0FFF5A166D050F5A01",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6E1A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "5C1A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "ACTIVE_BACKREST_PASSENGER"
+    },
+    {
+        "Command": "371A805A80000009170387D7030670464E2007102949000972070903030103000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "371A9B5A9B03",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "372210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "372210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "372210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3722300062300007070000000000000000000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223001623001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223002623002FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223003623003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223004623004FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223005623005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223006623006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223007623007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223008623008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "37223009623009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3722301011",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3722305011",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3722310611",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3F1A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3C1A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "631A805A8000000917885150200FA054482007110756001404795200040004000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "631A9B5A9B20",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632210117F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632210127F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632210147F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "6322300062300040020202030000000000000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230017F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230027F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230037F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230047F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230057F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230067F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230077F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230087F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230097F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "63223010623010A0F01C00000000000000000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632230507F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "632231067F2211",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "731A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "3B1A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "CENTRAL_INFO_DISPLAY_REAR"
+    },
+    {
+        "Command": "531A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "361A805A8000000917134818120632535720070604840016960A0100FFFFFF000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "361A9B5A9B12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "3622300011",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230017F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230027F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230037F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230047F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230057F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "362231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "471A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "541A805A800000091428520300086048542007020657000E98031700030102000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "541A9B7F1A12",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230007F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230017F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230027F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230037F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230047F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230057F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "542231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "4B1A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "621A805A8000000917885750000F9054492007072556001404795201040004000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "621A9B5A9B00",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "622210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "622210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "622210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "6222300062300040020202030000000000000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223001623001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223002623002FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223003623003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223004623004FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223005623005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223006623006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223007623007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223008623008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223009623009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223010623010A0F01C00000000000000000000000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223050623050FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "62223106623106FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "001A805A8000000917688802090DD04E52200512210900176A082F0A030A00000000",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A9B5A9B09",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002210117F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002210127F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002210147F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "00223000623000A72221C1010001EE21F60600019000780333320D057D7D0505713C32DD10D2001E000000567F0000AA",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "00223001623001",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0022300262300235506BF0F0F0F0212B35578AF0F0141B21304671F0546594281EFFFFFFFFFFFFFFFFFFFFFFFFFFFFAA",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230036230030A14050712320A200305BE7D69646E1E28205D39093FFE3FFE0715010C0C0C0C01050A141E461E01504E1702AA",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230047F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230057F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230077F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230087F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230097F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230107F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002230507F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "002231067F2212",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7F6210",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "7F2278",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A01A805",
+        "Model": "bmw 328xi 2008",
+        "Semantics": "UNKNOWN"
+    }
+]

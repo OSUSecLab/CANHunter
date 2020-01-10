@@ -1,0 +1,1597 @@
+[
+    {
+        "Command": "121A805A80000007842121000000014A5920071001560011EB085F00030328043401",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "121A9B5A9B00",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230007F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230107F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230207F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122230307F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232007F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232107F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232407F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232607F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "181A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "191A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "171A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "781A805A80000009248707150D0792474E2007101221001506053DFF03033C000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "781A9B5A9B0D",
+        "Model": "bmw m5 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "782230006230000D340200E0000000870000310000000002000000000000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "791A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "291A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "011A805A8000000917201822220B204D5120071003580014B62C3200040000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "011A9B5A9B22",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223000623000FF7F30078302C508",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300162300114080F3425FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300262300220220614FFFF01234500435809881000",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223003623003FF0A0CEC",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230106230100401",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223011623011FFFAFA0A05FAFA050505FFFFFFFFFFFFFFFFFFFF0000000000FF0A0A0A0AFAFA0A0A0AFFFFFFFFFFFFFFFFFFFF0A000023",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122302062302007000101020013850005000169000703",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "01223021623021001400002C01F4014C04A00070178813C05D000890013C1EFADC05D007E803B0046400D80E1900FF7F2800B0FF281405F4016009D0027E0464AF9808FFFF5401",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230226230228A0250468A028601C8000000D007C80064002C01D007C20190019001900190010080D007A0199E39FFFFFFFFFFFFB6039808040BC409C012200332919E07C409",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122302362302378056608FF7F0080FF0008072003A703B80B8813DC050807B0044E25F4019A10A406B80BA406F401AC0DDC058C058C0A0807C4090807D0078C0A08070C037800",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230246230248403D0071202D2003E0340068200E803FF7F2C01B80B4402280AB80BAC0DC201DC0558028A025802C2013A026C02FF7F0080FF7FDC055802C2013A021C02FF7F",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230256230250080FF7FDC05BC028D135401B80B2003B80B5401B80BF401B80BEE02B80B7800E803F212B004B80B84030807B004580240069808FF7FA406FF7F08076C075203",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122302662302608079808FF7FA406FF7F08079808A00F8A02B80B0C03DC0552034C044006840308071A0452033408011400FFFF02010000A000FF7F581B0101010101020150",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122302762302700FA00FA00B80B9411C01200800080FF7FA00FA00F401FB80B3A20D8595E0134213421FF7F0080FF7FFF7FFF7F0080FF7F0080FF7FFF7F0080FF7F0080FF7FA0",
+        "Model": "bmw m5 2008",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0E1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "091A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "CENTER_SAFETY"
+    },
+    {
+        "Command": "0A1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "B_PILLAR_LEFT_SAFETY_2"
+    },
+    {
+        "Command": "601A805A80000007842584040706E0535920071009100015B1994101031001000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "601A9B5A9B07",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223000623000C8ED0A04A185001E1E1E1E1E7D7D05140F0F",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300162300141FFFFFBFFFFFFFFF7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFBFFFEFFFFFFFFFDFFFFFFFFFFFFFFFFFFFF792300",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300262300200995866A70A59F5A6",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230036230036E00CAA400FFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300462300410000058550050800558000000009000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223005623005173C500A0582040488001022364A00142C424A",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300662300695740B1A04E812320619006900C80022017C0119006300E1003B017C0100",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230076230070C0202FFFF0C",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230086230082E2840DC052C013C00100E5046FFFFE01E081060",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223009623009A4500A41C1C191C191913C913CC1309118C218920192C2D232FFFFFFFFFFFFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300A7F2210",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230507F2210",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223106623106B1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF202847E6F0F7FB48546C757980DA260009161F000407090B0C0E10121415181A1B1D1F00FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223B02623B02FF01770177FFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C03623C031022061420",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C04623C0448011158",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C0F623C0F0C070B00",
+        "Model": "bmw m5 2008",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "1C1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "301A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "DYNAMIC_MANAGEMENT"
+    },
+    {
+        "Command": "201A805A8000000678280003001000454720071002750012380A0100030A03000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "201A9B5A9B00",
+        "Model": "bmw m5 2008",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "211A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "TPMS"
+    },
+    {
+        "Command": "161A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "021A805A80000009204504092401C84E42200710090200170A360A01040001000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "021A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "231A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "391A805A80000007840414431902C149562007101056000C4B0A3C0003031E0A3C00",
+        "Model": "bmw m5 2008",
+        "Semantics": "ACTIVE_ROLL_STABILIZATION"
+    },
+    {
+        "Command": "391A9B5A9B19",
+        "Model": "bmw m5 2008",
+        "Semantics": "ACTIVE_ROLL_STABILIZATION"
+    },
+    {
+        "Command": "381A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "EDC_REAR_RIGHT"
+    },
+    {
+        "Command": "2A1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "AIR_SUSPENSION"
+    },
+    {
+        "Command": "711A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "401A805A80000009237046C40906A0534120071016040000000206050303000000000000069438063031393030303432385444303034323854444632313353",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "401A9B5A9B09",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210106210105742534E42393335393843583039383831",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221011621011156A01043202C008085064",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210126210123034373558335357",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210136210133030303030000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221014621014000706FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300062300017760241383C1E000F0E081E4800DB00000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230016230016A69A106010010021800BB06BB0000000000000000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230026230022C02127F00000523052333190F051E14000A000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300362300342051408083C280009020000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223004623004C105051402092A280E3203001000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223005623005970A05270000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300662300600000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F00623F000241941795643FBA26534145D5E13CF7",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F01623F0141041041041041041041041041041042",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F02623F02118E14946125914AD852DA24D0493459",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F03623F034D24934935104D44555115944D051345",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F04623F0445115144945595165545D35195146565",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F05623F052D854B66550495418552495494553515",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F06623F065105564D58635906564505924164D959",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F07623F0745565535955566545995D69AC5B5A174",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F08623F08D75D5497554611618515615418553617",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F09623F09598CD46525596526618448506500FFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0A623F0AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "411A805A80000009149673030506B04B462007100841000D48050B00030204000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "411A9B5A9B05",
+        "Model": "bmw m5 2008",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "501A805A80000009124581150403E000012007092646000000040503000000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "ALARM"
+    },
+    {
+        "Command": "501A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "ALARM"
+    },
+    {
+        "Command": "641A805A80000009185139010204214C572007101611000C5F090F0003031E000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "641A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "671A805A8000000694488406000720455A2003091022000980050001030300000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "671A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "651A805A80000009183228030407184455200608150500151A02050103033C000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "ERGO_COMMANDER"
+    },
+    {
+        "Command": "651A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "ERGO_COMMANDER"
+    },
+    {
+        "Command": "701A805A8000000920308209350D6053522007101109001070043C000400050000000000091469950000176530303931423530303039314235304634353041",
+        "Model": "bmw m5 2008",
+        "Semantics": "CENTER_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "701A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "CENTER_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "221A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "LIGHT_SWITCH"
+    },
+    {
+        "Command": "5F1A805A8000000915887601050C104D582007091A6700106204321503031E000025",
+        "Model": "bmw m5 2008",
+        "Semantics": "ADAPTIVE_LIGHT"
+    },
+    {
+        "Command": "5F1A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "ADAPTIVE_LIGHT"
+    },
+    {
+        "Command": "721A805A80000009176069C5080730455420070605040016FA070800030204000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "721A9B5A9B08",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722210107F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223000623000FFFFFF04010200",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230016230019F080FFFFF080FFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300262300265036914FFFFFFFFFFFFFFFF00100103031E06020A05",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223003623003D908FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223004623004BF3228FF05FFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230057F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230067F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230077F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230087F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230097F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230107F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230117F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230127F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230137F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234007F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234017F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234027F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234037F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234047F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234057F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234067F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234077F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234087F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234097F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340A7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340B7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340C7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340D7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340E7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340F7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234107F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234117F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234127F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234137F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234147F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234157F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234167F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234177F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234187F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235007F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235017F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235027F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235037F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235047F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235057F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235067F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235077F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235087F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235097F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350A7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350B7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350C7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350D7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350E7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350F7F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F007F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F017F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F027F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F037F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F047F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F057F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F067F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F077F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F087F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F097F2212",
+        "Model": "bmw m5 2008",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "271A805A80000009134707000402614B5A2007101104000C1E091000030300000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "271A9B5A9B04",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230006230002D00085F",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "2722300262300210E0085F",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230046230040404FC",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223005623005200B0D22020D22020D24030D200B0D4C03014D04017C06357D06350C0600",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "272230066230061A040B1B070C4C040D7E040E7E040E000000000000077F4F",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223007623007000100",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "27223009623009030100",
+        "Model": "bmw m5 2008",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "431A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "PASSIVE_GO_SYSTEM"
+    },
+    {
+        "Command": "241A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "561A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "441A805A80000009137056C107035148582006082804000BAC050405030203050402",
+        "Model": "bmw m5 2008",
+        "Semantics": "CENTER_ROOF"
+    },
+    {
+        "Command": "441A9B5A9B07",
+        "Model": "bmw m5 2008",
+        "Semantics": "CENTER_ROOF"
+    },
+    {
+        "Command": "6B1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "451A805A80000009120310900603604A4B2006040602000A9E06092D030204630600",
+        "Model": "bmw m5 2008",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "451A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "452230007F2E78",
+        "Model": "bmw m5 2008",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "623000100575D20F14284628461E19281E0F233C233C1946",
+        "Model": "bmw m5 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "452230017F2E78",
+        "Model": "bmw m5 2008",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "623001141A46644664281E28230A325032501E191E78947894284B3E340A5A755A7532",
+        "Model": "bmw m5 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "6D1A805A8000000919693302150C50534E2007100824000A14070E000303030000000000069273480054338930323431455A3030323431455A304631353041",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D1A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300062300000020101",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223001623001FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223002623002FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223003623003FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223004623004FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223005623005FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223007623007FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223008623008FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223009623009AA",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300A62300AFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300B62300BFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300D62300DFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300F62300FFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223010623010341A108E07",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230116230114329060C0048FFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301262301252FFFFFFFFFF1EFFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223013623013932906081F77",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223014623014633006071841",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223015623015BB38070C0043",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223016623016431604050F26",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230176230174B100409121D",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223018623018E038060C1F4D",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223019623019931C060C1C46",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302062302005",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223021623021E0001E",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223022623022060111110100",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230246230246E01",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302562302500008303E80AF00BB80262000E",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223030623030550600",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303162303122282E08C864083C1923292F08C864083C196464C30124110F1E324006",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303462303408",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303562303504",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223036623036040BB8214A0286002101180000017C000001CA0064021D00CC02780143030701F600",
+        "Model": "bmw m5 2008",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6E1A805A8000000919693302150C50534E2007100724000A12070E000303030000000000069273480054315030323431455A3030323431455A304631353041",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E1A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300062300000020101",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223001623001FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223002623002FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223003623003FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223004623004FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223005623005FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223007623007FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223008623008FF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223009623009AA",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300A62300AFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300B62300BFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300D62300DFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300F62300FFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223010623010341A109E07",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230116230114329060C0048FFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301262301252FFFFFFFFFF1EFFFF",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223013623013932906081F77",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223014623014633006071841",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223015623015BB38070C0043",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223016623016431604050F26",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230176230174B100409121D",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223018623018E038060C1F4D",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223019623019931C060C1C46",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302062302005",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223021623021E0001E",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223022623022060111110100",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223024623024DA00",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302562302500008303E80AF00BB80262000E",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223030623030550600",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303162303122282E08C864083C1923292F08C864083C196464C30124110F1E324006",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303462303408",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303562303504",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223036623036040BB8214A0286002101180000017C000001CA0064021D00CC02780143030701F600",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "591A805A8000000693891101050B804C5520040609080010463C4929031E1E000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "591A9B5A9B05",
+        "Model": "bmw m5 2008",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "5922300062300006027F012D5541552428192D18",
+        "Model": "bmw m5 2008",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "592230106230100F0A02020202A0A064",
+        "Model": "bmw m5 2008",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "5A1A805A8000000693891101050B804C5520040609080010453C4929031E1E000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5A1A9B5A9B05",
+        "Model": "bmw m5 2008",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5A22300062300006027B012D5541552428192D18",
+        "Model": "bmw m5 2008",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5A2230106230100F0A02020202A0A064",
+        "Model": "bmw m5 2008",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "ACTIVE_BACKREST_PASSENGER"
+    },
+    {
+        "Command": "371A805A80000007842965D5020E40545120071010090017840903070303030000000000078405760000706130303931384430303039313844304636413041",
+        "Model": "bmw m5 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "371A9B5A9B02",
+        "Model": "bmw m5 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3722300062300001010000000000000000000000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3F1A805A80000009185546C30A0A0049452007101010000A94061100000000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3F1A9B5A9B0A",
+        "Model": "bmw m5 2008",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3C1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "631A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "261A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "731A805A80000009193747380D0A3049412008041417001D008950310402000000000000091798070075488630313732375930303137323759304630393041",
+        "Model": "bmw m5 2008",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "731A9B5A9B0D",
+        "Model": "bmw m5 2008",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "741A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "CENTRAL_INFO_DISPLAY"
+    },
+    {
+        "Command": "3B1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "CENTRAL_INFO_DISPLAY_REAR"
+    },
+    {
+        "Command": "531A805A800000091193630400046052432007041957000E84030D00030102000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "531A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "5B1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "RADIO"
+    },
+    {
+        "Command": "361A805A8000000917134818120632535720070604840016960A0100FFFFFF000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "361A9B5A9B12",
+        "Model": "bmw m5 2008",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "471A805A80000009185625050C06D049462007100910000A94070700000000000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "471A9B5A9B0C",
+        "Model": "bmw m5 2008",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "541A805A800000091428520300086048542007020657000E98031700030102000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "541A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "4B1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "311A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "VIDEO"
+    },
+    {
+        "Command": "3A1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "MULTIMEDIA_CHANGER"
+    },
+    {
+        "Command": "3D1A805A8000000919087906050680454A20071015100015AA05890023F205055901",
+        "Model": "bmw m5 2008",
+        "Semantics": "HEADPHONE_INTERFACE"
+    },
+    {
+        "Command": "3D1A9B5A9B05",
+        "Model": "bmw m5 2008",
+        "Semantics": "HEADPHONE_INTERFACE"
+    },
+    {
+        "Command": "611A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "HEAD_UP_DISPLAY"
+    },
+    {
+        "Command": "621A805A80000009185626420809D0464D2007101010000A9405682B030300000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "621A9B5A9B08",
+        "Model": "bmw m5 2008",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "7A1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A11A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A21A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A71A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A81A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A51A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A61A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A805A8000000922110901050BD04D56200710120900106C095F0103050A000000",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A9B7F1A12",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AD1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AE1A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A01A805",
+        "Model": "bmw m5 2008",
+        "Semantics": "UNKNOWN"
+    }
+]

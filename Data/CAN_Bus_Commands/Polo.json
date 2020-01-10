@@ -1,0 +1,102 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Polo",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Polo",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Polo",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Polo",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Polo",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Polo",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Polo",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Polo",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70E",
+        "Model": "Polo",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Polo",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "714",
+        "Model": "Polo",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Polo",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Polo",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Polo",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "711",
+        "Model": "Polo",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Polo",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "712",
+        "Model": "Polo",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "77C",
+        "Model": "Polo",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "754",
+        "Model": "Polo",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Polo",
+        "Semantics": "Xenon Range"
+    }
+]

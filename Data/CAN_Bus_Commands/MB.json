@@ -1,0 +1,2907 @@
+[
+    {
+        "Command": "83A5B6F4",
+        "Model": "MB",
+        "Semantics": "Ansauglufttemperatur T1 HFM6 Sensor links"
+    },
+    {
+        "Command": "9EDE4FCE",
+        "Model": "MB",
+        "Semantics": "Ansauglufttemperatur T1 HFM6 Sensor links"
+    },
+    {
+        "Command": "0B509EB1",
+        "Model": "MB",
+        "Semantics": "Exhaust gas flow resistance"
+    },
+    {
+        "Command": "8E75DE5D",
+        "Model": "MB",
+        "Semantics": "Exhaust gas flow resistance"
+    },
+    {
+        "Command": "333F0AA0",
+        "Model": "MB",
+        "Semantics": "Temperature sensor upstream of KAT"
+    },
+    {
+        "Command": "AE7EB0C0",
+        "Model": "MB",
+        "Semantics": "Temperature sensor upstream of KAT"
+    },
+    {
+        "Command": "301201",
+        "Model": "MB",
+        "Semantics": "Charge pressure positioner"
+    },
+    {
+        "Command": "94F05D4B",
+        "Model": "MB",
+        "Semantics": "Charge pressure positioner"
+    },
+    {
+        "Command": "4D1E1399",
+        "Model": "MB",
+        "Semantics": "Charge pressure positioner"
+    },
+    {
+        "Command": "5B35C146",
+        "Model": "MB",
+        "Semantics": "Boost air temperature"
+    },
+    {
+        "Command": "FA34AE32",
+        "Model": "MB",
+        "Semantics": "Boost air temperature"
+    },
+    {
+        "Command": "F919E997",
+        "Model": "MB",
+        "Semantics": "Abgastemperatur T4 nach Kat Rohwert"
+    },
+    {
+        "Command": "85A4A5C2",
+        "Model": "MB",
+        "Semantics": "Abgastemperatur T4 nach Kat Rohwert"
+    },
+    {
+        "Command": "B63E2F30",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.1"
+    },
+    {
+        "Command": "218EF18F",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.1"
+    },
+    {
+        "Command": "4B05271A",
+        "Model": "MB",
+        "Semantics": "Temperature sensor upstream of DPF"
+    },
+    {
+        "Command": "09079D51",
+        "Model": "MB",
+        "Semantics": "Temperature sensor upstream of DPF"
+    },
+    {
+        "Command": "5CA9F5FD",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.5"
+    },
+    {
+        "Command": "113EE272",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.5"
+    },
+    {
+        "Command": "FC7F28B8",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "69F01D63",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "C0C977BC",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "68B1CAF6",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "A2D05E17",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.3"
+    },
+    {
+        "Command": "ECC5E321",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.3"
+    },
+    {
+        "Command": "575979F1",
+        "Model": "MB",
+        "Semantics": "Lambda nach Kat Rohwert"
+    },
+    {
+        "Command": "0580C137",
+        "Model": "MB",
+        "Semantics": "Lambda nach Kat Rohwert"
+    },
+    {
+        "Command": "50CA1663",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.4"
+    },
+    {
+        "Command": "EBDAA8BC",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.4"
+    },
+    {
+        "Command": "224066",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "537CC3A8",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "43412028",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "02581632",
+        "Model": "MB",
+        "Semantics": "Air mass sollwert"
+    },
+    {
+        "Command": "91119475",
+        "Model": "MB",
+        "Semantics": "Air mass sollwert"
+    },
+    {
+        "Command": "226090",
+        "Model": "MB",
+        "Semantics": "Abgastemperatur nach Abgaskr\\u00fcmmer"
+    },
+    {
+        "Command": "29ACDCA7",
+        "Model": "MB",
+        "Semantics": "Abgastemperatur nach Abgaskr\\u00fcmmer"
+    },
+    {
+        "Command": "58066242",
+        "Model": "MB",
+        "Semantics": "Abgastemperatur nach Abgaskr\\u00fcmmer"
+    },
+    {
+        "Command": "B0FE45D2",
+        "Model": "MB",
+        "Semantics": "Lambda nach Kat"
+    },
+    {
+        "Command": "5107BFAE",
+        "Model": "MB",
+        "Semantics": "Lambda nach Kat"
+    },
+    {
+        "Command": "0A0CE2A9",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "7CF2E727",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "224065",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "A7D40739",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "00DEEE87",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "8BFFDE5D",
+        "Model": "MB",
+        "Semantics": "Luftmassenwert nach Pulsationskorrektur (sensor 1)"
+    },
+    {
+        "Command": "0FABF183",
+        "Model": "MB",
+        "Semantics": "Luftmassenwert nach Pulsationskorrektur (sensor 1)"
+    },
+    {
+        "Command": "939C23E1",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "CB3854E8",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "224064",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "F5B05D1B",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "C7C8D10D",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "301B01",
+        "Model": "MB",
+        "Semantics": "Radiator fan"
+    },
+    {
+        "Command": "23CFEFE8",
+        "Model": "MB",
+        "Semantics": "Radiator fan"
+    },
+    {
+        "Command": "2BE2DF0D",
+        "Model": "MB",
+        "Semantics": "Radiator fan"
+    },
+    {
+        "Command": "301101",
+        "Model": "MB",
+        "Semantics": "Exhaust gas recirculation positioner"
+    },
+    {
+        "Command": "5FC5FDDA",
+        "Model": "MB",
+        "Semantics": "Exhaust gas recirculation positioner"
+    },
+    {
+        "Command": "E7B29BF3",
+        "Model": "MB",
+        "Semantics": "Exhaust gas recirculation positioner"
+    },
+    {
+        "Command": "EB4CE2C4",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.6"
+    },
+    {
+        "Command": "0611B73C",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.6"
+    },
+    {
+        "Command": "B4092EC1",
+        "Model": "MB",
+        "Semantics": "Luftmasse HFM6 Sensor links Rohwert"
+    },
+    {
+        "Command": "889BC748",
+        "Model": "MB",
+        "Semantics": "Luftmasse HFM6 Sensor links Rohwert"
+    },
+    {
+        "Command": "EE81147A",
+        "Model": "MB",
+        "Semantics": "Abgastemperatur nach Kat"
+    },
+    {
+        "Command": "E8DC526A",
+        "Model": "MB",
+        "Semantics": "Abgastemperatur nach Kat"
+    },
+    {
+        "Command": "301301",
+        "Model": "MB",
+        "Semantics": "Throttle positioner"
+    },
+    {
+        "Command": "583D7539",
+        "Model": "MB",
+        "Semantics": "Throttle positioner"
+    },
+    {
+        "Command": "ED2F0279",
+        "Model": "MB",
+        "Semantics": "Throttle positioner"
+    },
+    {
+        "Command": "A6A64DA4",
+        "Model": "MB",
+        "Semantics": "Load state DPF"
+    },
+    {
+        "Command": "92FA4158",
+        "Model": "MB",
+        "Semantics": "Load state DPF"
+    },
+    {
+        "Command": "224067",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "021973F",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "6EEF8305",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "06F43FFB",
+        "Model": "MB",
+        "Semantics": "deg CrS"
+    },
+    {
+        "Command": "FC44CC7B",
+        "Model": "MB",
+        "Semantics": "Exhaust gas volume flow rate"
+    },
+    {
+        "Command": "AE343919",
+        "Model": "MB",
+        "Semantics": "Exhaust gas volume flow rate"
+    },
+    {
+        "Command": "DCB0810F",
+        "Model": "MB",
+        "Semantics": "Diesel particulate filter Differential pressure"
+    },
+    {
+        "Command": "01793A2E",
+        "Model": "MB",
+        "Semantics": "Diesel particulate filter Differential pressure"
+    },
+    {
+        "Command": "B2ECA3FB",
+        "Model": "MB",
+        "Semantics": "Current kilometer reading"
+    },
+    {
+        "Command": "72D6A055",
+        "Model": "MB",
+        "Semantics": "Current kilometer reading"
+    },
+    {
+        "Command": "6C7B2ACC",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.2"
+    },
+    {
+        "Command": "3F3853D9",
+        "Model": "MB",
+        "Semantics": "Quantity correction cyl.2"
+    },
+    {
+        "Command": "C0D64037",
+        "Model": "MB",
+        "Semantics": "Luftmassenwert nach Pulsationskorrektur (sensor 2)"
+    },
+    {
+        "Command": "CCA79433",
+        "Model": "MB",
+        "Semantics": "Luftmassenwert nach Pulsationskorrektur (sensor 2)"
+    },
+    {
+        "Command": "75B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "748",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "728",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "64E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5CE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6C0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7AD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "542",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "79E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6B6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "616",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "596",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "694",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "442",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "62B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "607",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "587",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "714",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "704",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "621",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5A1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "76E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "76F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4A8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "660",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "744",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "724",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6DA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "796",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "69E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "625",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5A5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "651",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6D5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5C2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "72F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "727",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "617",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "597",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "63D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5BD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7AC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6AA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "495",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "561",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "615",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "595",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "613",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "593",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "543",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "65C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5DC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4B6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "64D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5CD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7BA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4B7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "663",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "618",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "598",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "61D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "59D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6B8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "74F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "757",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "614",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "594",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "54F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "78E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "650",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "741",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "54A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "762",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4AC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6A4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6DB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4DB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "793",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "713",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5CA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4CA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "759",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4B3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4EB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "791",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "778",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "779",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "60D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "58D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "65F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5DF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5C5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "682",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6AF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4EF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "689",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "451",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7AB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "76B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7BB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "66B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4CD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "66A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "48D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "721",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4CC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "544",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "79F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "604",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "584",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5FE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "58A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "710",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "700",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "696",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "697",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "770",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "771",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "611",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "591",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "673",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4CE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "491",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "657",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "78F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "797",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "699",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "453",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "620",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5A0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "67B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4CF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "79A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "79B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "768",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "769",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "72E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6D9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "45B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "61F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "59F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6DE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7AE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6BE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4FE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "654",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6A5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "610",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "590",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "656",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6AD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4ED",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7BC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7BD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6AC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7CB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7C1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "798",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "799",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "749",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "582",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "72B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "592",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7C7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "788",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "789",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "57B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4FB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "653",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "647",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5C7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "626",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5A6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "71B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "641",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5C1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "655",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "73D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "751",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "752",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "445",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "44C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "792",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4B2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "742",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "722",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "662",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5B4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "661",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6A8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6BD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4FD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6D1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "45A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "64B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "609",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "589",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "600",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "580",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "61E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "59E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "65B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4CB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "745",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "725",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "606",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "586",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "794",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "795",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7ED",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "563",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "602",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "480",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "622",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "484",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6C2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "498",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "731",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "466",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "62A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "485",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "608",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "588",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "71F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "717",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6BA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "497",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "646",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "686",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "642",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "488",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "784",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "785",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "48A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6CB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "449",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6C3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6AB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "632",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "486",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "60C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "58C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "766",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "767",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5FF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "740",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "720",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "63B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5BB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "746",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "726",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6BF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4FF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "77A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4AF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "739",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "638",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5B8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "667",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "74B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "447",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "44E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "443",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "67A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "48F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "69A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "493",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6A2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "494",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7AA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4B5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "44A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "619",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "599",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "730",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "639",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5B9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6B1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "456",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "577",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4F7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "773",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4EE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "73B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "78A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4B1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7AF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7BF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "73A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4A7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7CF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7D7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "65A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "48B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "733",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6FA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "49F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "601",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "581",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6BB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "761",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "760",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5C3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "672",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "48E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "753",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "79C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "79D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5E7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6F9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "45F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5BA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "60E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "58E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6D3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4DA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "460",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "645",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "685",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "711",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "701",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "54E",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "55A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "68A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "643",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "683",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "612",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "482",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "69B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4BD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "61B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "59B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "633",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7C2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4B8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6C9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "459",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "623",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4C4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "729",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "465",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "78C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "78D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "691",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "452",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "763",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4EC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6B2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "496",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "560",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7A8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "60B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "58B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "743",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "723",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "709",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "461",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6EB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4DD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "732",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4A6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7B5",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6FB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4DF",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "640",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5C0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "652",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5D2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "76C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "76D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6B3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D6",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "77F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "787",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6A3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "76A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4AD",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6A1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "454",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "44F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7D1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "61C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "59C",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4A0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "644",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5C4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6CA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4EA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "712",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "702",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "61A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "59A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6E3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4DC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E4",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7E3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "7EB",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6BC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4FC",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6C8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E8",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "637",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "5B7",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "681",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "450",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6F3",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4DE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "64A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "489",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "68B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6D2",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "49A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "772",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4AE",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "70A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4A1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6A9",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "455",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "703",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E0",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "70B",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4E1",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "6EA",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "49D",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "692",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "492",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "60A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "481",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "63A",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "487",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "73F",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "747",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "693",
+        "Model": "MB",
+        "Semantics": ""
+    },
+    {
+        "Command": "4D2",
+        "Model": "MB",
+        "Semantics": ""
+    }
+]

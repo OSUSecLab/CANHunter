@@ -1,0 +1,1342 @@
+[
+    {
+        "Command": "7502AA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7E021C161C147474C31232320324752464520060841710100",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C261C230453439310021030400000401",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021E261E2F7F7D9F370",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0AA00EA00C3C318ED",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E121C261C230453036310021030400000401",
+        "Model": "lexus rx350 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7A2A9005",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7C42189618910",
+        "Model": "lexus rx350 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C42129612925",
+        "Model": "lexus rx350 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7802105610501",
+        "Model": "lexus rx350 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "7507021E261E2007ED90100",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E0A801E8010004FFFFFFFF011DFFFFFFFFFF00FF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000202FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A802E8020004FFFFFFFF0101FF0402303005025252060202020904070701010B04F0F000000D01FF0F02FFFF1701FF1C033FFF011D04FFFF00001F02FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E1A801E8010004FFFFFFFF011DFF0000000000000000FFFFFFFFFFFF00FF00000000FFFFFFFFFFFFFF000202FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7E1A802E8020004FFFFFFFF0904020200002004FFFFFFFF2D0A1F1F0F0F000003030101",
+        "Model": "lexus rx350 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7E1A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7C0A8017FA878",
+        "Model": "lexus rx350 2014",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A8027FA878",
+        "Model": "lexus rx350 2014",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A8037FA878",
+        "Model": "lexus rx350 2014",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF0202FFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0D06FFFFFFFFFFFF110480F000001204F81000001304D0000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF0601B00701001103F080001203C200001403C000001503F084A02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0D06FFFFFFFFFFFF110480F000001204F81000001304D0000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "750B5A801E8010004FFFFFFFF0202FFFF11063C3000000000120620F0000000001306F8F8F80000002004FFFFFFFF3101FF3203FFFFFF3306FFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A802E8020004FFFFFFFF0101400401610501802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A803E8030004FFFFFFFF11063C3000000000120620F0000000001306F8F8F80000002004FFFFFFFF3101FF4004FFFFFFFF6004FFFFFFFF6106800000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF2004FFFFFFFF2101FF2201FF2301FF2401FF2501FF2601FF2901FF2A01FF2B02FFFF2C02FFFF3C01FF3D01FF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF0201FF1401FF1902C0C02004FFFFFFFF2101FF2201FF2301FF2401FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A803E8030004FFFFFFFF0101FF0201FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF810441000508820400F80000A004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "780A801E8010004FFFFFFFF0101FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8027FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "750ADA801E8010004FFFFFFFF0103FFB7400201CE0301800401880501880601FFE004FFFFFFFFE101FFE204FFFFFFF7",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA802E8020004FFFFFFFF0101C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA803E8030004FFFFFFFF0101CE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "75067A801E8010004FFFFFFFF2004FFFFFFFF2101902202E7182301302401302501C027050FFFF0FFFF2801FE2902FF002A08FFFFFFFFFFFFFFFF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "75067A802E8020004FFFFFFFF0401802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "75067A803E8030004FFFFFFFF2004FFFFFFFF2202E7182301302401302501C02A08FFFFFFFFFFFFFFFF2F01804004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "750E9A8017FA878",
+        "Model": "lexus rx350 2014",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A8027FA878",
+        "Model": "lexus rx350 2014",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "REMOTE_ENGINE_STARTER"
+    },
+    {
+        "Command": "7B4A801E8010004FFFFFFFF0101FF0301FF0401FF0701FF0801FF0902FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A802E8020004FFFFFFFF01020101",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7D0A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF210901762C1E720E0EAC1C2201FF2404FFFFFFFF2601FF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A802E8020004FFFFFFFF2004FFFFFFFF2201022304FE0000004004FFFFFFFF4102FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "75041A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF6103E003FF62070CFFFF0FFF0000640AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75041A802E8020004FFFFFFFF0201800301802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75041A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF6808000000000000FF806B01B06C01F87101FF7201FF7301FF7401FF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75042A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF61036003FF62070CFFFF0FFF0000640AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "75042A802E8020004FFFFFFFF0201800301802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "75042A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF6808000000000000FF806B01306C01F87101FF7201FF7301FF7401FF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "7B1A801E8010004FFFFFFFF0305FFFFFFFF00050D000000000000000000000000FF0C0CFF00000000000000000000001F038000802004FFFFFFFF3901803D03004004",
+        "Model": "lexus rx350 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "7B1A802E8020004FFFFFFFF070280802004FFFFFFFF3104000008084004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "7B1A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "750E0A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "THEFT_DETERRENT"
+    },
+    {
+        "Command": "75090A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF1101C02004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A803E8030004FFFFFFFF1101C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75091A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF1101C02004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75091A803E8030004FFFFFFFF1101C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75092A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF1101C02004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75092A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75092A803E8030004FFFFFFFF1101C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75093A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF1101C02004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "75093A802E8020004FFFFFFFF0101E0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "75093A803E8030004FFFFFFFF1101C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "750B9A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "WINDOW_REAR_HATCH"
+    },
+    {
+        "Command": "750A1A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A2A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "750A4A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "750A7A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "750B8A801E8010004FFFFFFFF110268C02004FFFFFFFF2101FE3101F04004FFFFFFFF4102611F5101C06004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA104FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750B8A802E8020004FFFFFFFF0101801101F82004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750B8A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF4102611F5101C06004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750ABA801E8010004FFFFFFFF010238E0030351003C0401FF0502FF030601FF0701FF0802FFFF0902FFFF0A02FFFF0B02FFFF0E02FFFF0F02FFFF1002FFFF1102FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA802E8020004FFFFFFFF0102FF030201012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA803E8030004FFFFFFFF0301012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "75080A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75083A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_REAR_RIGHT"
+    },
+    {
+        "Command": "75085A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_REAR_LEFT"
+    },
+    {
+        "Command": "7508AA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508BA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508CA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_AC_REAR_RIGHT"
+    },
+    {
+        "Command": "7508DA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_AC_REAR_LEFT"
+    },
+    {
+        "Command": "750DCA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SEAT_DRIVER_SWITCH"
+    },
+    {
+        "Command": "750DDA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "CENTRAL_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "750DEA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "REAR_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "75070A801E8010004FFFFFFFF010201780202FFFF0308FFFFFFFFFFFFFFFF0506FFFFFFFFFFFF0C05FFFFFFFFFF0D04FFFFFFFF120E0000000000000000FFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A802E8020004FFFFFFFF0101C0030180040180",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "75070A803E8030004FFFFFFFF0101C02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "HYBRID"
+    },
+    {
+        "Command": "790A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STABILIZER_FRONT"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STABILIZER_REAR"
+    },
+    {
+        "Command": "7502AA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF000406FF0000000000050FFFFFFFFF0000000000FFFFFF0000000604FF00FFFF0801FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF0302939307042323F0F02004FFFFFFFF2102FFFF220230302802272731060000101000004004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A803E8030004FFFFFFFF03000B01800D0140",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7A1A801E8010004FFFFFFFF0202FFFF03020FFF06023FFF0702FFFF0802FFFF0902FFFF0A0207FF0B0203FF0C0203FF0D02FFFF0E01031502FFFF16023FFF1702FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A8027FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A803E8030004FFFFFFFF01010102010103010F2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "791A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "PRE_COLLISION"
+    },
+    {
+        "Command": "7A2A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "750ECA801E8010004FFFFFFFF0102F7F702027E7E0302FFFFE004FFFFFFFFE101FFE204FFFFFFF7",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA802E8020004FFFFFFFF0101C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750ECA8037FA811",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750A5A801E8010004FFFFFFFF0202FFFF1301F02004FFFFFFFF2102FC002204FFFFFFFF2304FFFFFFFF2404FFFFFFFF25040000FFFF2604FFFFFFFF3203FFFF803901FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A5A802E8020004FFFFFFFF1101802004FFFFFFFF2101FE4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A5A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A6A801E8010004FFFFFFFF0202FFFF1301F02004FFFFFFFF2102FC002204FFFFFFFF2304FFFFFFFF2404FFFFFFFF25040000FFFF2604FFFFFFFF3203FFFF803901FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A6A802E8020004FFFFFFFF1101802004FFFFFFFF2101FE4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A6A8037FA812",
+        "Model": "lexus rx350 2014",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A8A801E8010004FFFFFFFF0202FFFF0302FFE004029E800501F80601FF0701FF0804FFFFFFFF0904FFFFFFFF0A04FFFFFFFF0B04FFFFFFFF0C04FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750A8A802E8020004FFFFFFFF0101F02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750A8A803E8030004FFFFFFFF0101FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750DBA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_COLUMN_SWITCHES"
+    },
+    {
+        "Command": "750DAA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "7503BA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ADAPTIVE_SUSPENSION"
+    },
+    {
+        "Command": "75060A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "NIGHT_VIEW"
+    },
+    {
+        "Command": "744A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "DYNAMIC_REAR_STEERING"
+    },
+    {
+        "Command": "75002A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "7A3A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "75051A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "7504FA8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "750B0A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "7C1A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ELEC_POWER_CONTROL"
+    },
+    {
+        "Command": "727A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "GEAR_SELECTOR"
+    },
+    {
+        "Command": "7D2A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ELEC_PROPULSION_CONTROL"
+    },
+    {
+        "Command": "7E7A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "PLUG_IN_CONTROL"
+    },
+    {
+        "Command": "723A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "ACTIVE_ENGINE_MOUNT"
+    },
+    {
+        "Command": "75052A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "750C8A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801032CFFFFFFFFFFFFFF00FF000000FF00FFFF00000000000000000000000000000000000000000000000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801041AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FFFF0000FFFF050E0000FFFF0000FFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010612FFFFFFFFFFFFFFFFFFFFFFFFFFFF000000002004FFFFFFFF2120FFFFFF000000000000FFFC00FFFFFFFFFFFFFFFFFFFFFFFFFFF8000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801220F0000000000000000FFFFFFFFFFFF802302FFFF2401C4250D0E1000C0F0E09000040020C400260D0E1000C0F0E09000040020C400",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013008FFFFFFFFFFFFFFFF3322FFFFFFFFFFFF0000000000000000FFFFFFFF00000000000000000000000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801371FFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFF20C7900000000000000000390A30520202F00000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013A2200000000FF0000000000000000FFFF0000FFFFFFFF00000000FFFFFFFF0C000000003C15FFFF0000FFFFFFFF00000000000000000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014004FFFFFFFF4115FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FC441DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801451AFFFFFF0000FFFFFFFFFFFF000000000000FFFFFF0000FF003FC0461AFFFFFFFFFF0000FFFFFFFFFFFFFFFFFFFF0000000000000000E0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015125FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00FFFF0000000000BCC05212FFFFFFFFFFFF000000000000FFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801541AFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000FFFF5516FFFFFFFF00FF0000000000FFFFFFFF00FF0000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801570CFFFFFFFFFFFFFFFFFFFF00006004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A138000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A2140000000000000000FFFFFFFF0000FFFFFFFF0000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A436FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000FFFFFFFF0000000000000000FFFFFFFF00000000000000000000FFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A71AFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A822FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFF00A914FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AA2AFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AB1AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAC0600000000FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AD26FF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFB005FFFFFFFFFFB108FFFFFFFFFFFFFF1F",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B20BFF00000000000000000000C004FFFFFFFFC113FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F80C20DFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C31BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000C40FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C517FFFFFFFF00000000000000000000000000000000FF0000C610FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C71CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC908FFFF0F07FEE00000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D11EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE004FFFFFFFFE108FFFFFFFFFFFFFFFFE205FFFFFFFFF0E303A70300",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8022004FFFFFFFF3408FFFFFFFFFFFF00004004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802E108FFFFFFFFFFFF0000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801032C0000000000000000000000000000FFFF00000000000000000000000000000000000000000000000000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010612FFFFFFFF00FFFFFFFFFFFFFFFFFF000000002004FFFFFFFF220FFFFFFFFFFFFF000000000000000000250D04100000F0E000200400000400",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801260D04100000F0E000200400000400390A000000020000000000004004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018118FFFFFFFFFFFF000000000000000000000000000000000000820AFFFF000000000000000083038000008504FFA01800A004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C113FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F80C20DFFFFFFFFFFFFFFFFFFFFFFFFFFC908000000000000FFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FFFFFFFFFFFFFFFFE205FFFFFFFFE0E303A00000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010004FFFFFFFF0202FFFF1205918031E0101301FF1401C02004FFFFFFFF2101FF2201FF2301FF2901FF4004FFFFFFFF4101FF6004FFFFFFFF6401FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA10108A701C0AB0120C004FFFFFFFFE004FFFFFFFEE108FF00FFFF00FFFFFFE205FFFFDFF7C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8020004FFFFFFFF01010F0201FF0301FF0903FF3F800A02FFE00B13D3E00F428121101400000004480000000000040D01FF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8026004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA10108A701C0AB0120C004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80114049B6700F0150470FC80C817040C00C0C01B04000000002004FFFFFFFF2104800000003101FF3203FFFFFF3304FFFFFFFF3406FFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013606FFFFFFFFFFFF3E04FFFFFFFF3F04FFFFFFFF4004FFFFFFFF4404FFFFFFFF4504FFFFFFFF4F04FFFFFFFF5004FFFFFFFF530480FFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015604FFFFFFFF5704FFFFFFFF5D04000000005E04C02000006004FFFFFFFF6501806904FFFC00006A04FCFCFCE06B04FCFCFCE06C04E000C000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA10480000000A20430E80000A3043000C0C0A40468000000A504C0000000A60400960000A704D7FFFF00AA0400000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801BB0400002000C004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C132FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC204FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C304FFFF0000C404FFFF0000C504FFFF0000C904FFFFFFFFCF04FFFFFFFFD004FFFFFFFFD104FFFFFFFFD204FFFFFFFFD304FFFFFFFFD404FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D504FFFFFFFFD604FFFFFFFFDB04FFFFFFFFE004FFFFFFFEE108FF00FFFF00FFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80314049B6700F0150470FC80C817040C00C0C01B04000000002004FFFFFFFF2104800000003101FF4004FFFFFFFF4404FFFFFFFF4504FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8034F04FFFFFFFF5004FFFFFFFF530480FFFFFF5604FFFFFFFF5704FFFFFFFF5D04000000005E04C02000006004FFFFFFFF6101806804E0FE0000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036A04FCFCFCE06D01808004FFFFFFFF810180A004FFFFFFFFC004FFFFFFFFE004FFFFFFFEFC0180FD0180",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013406FFFFFFFFFFFF3606FFFFFFFFFFFF3706FFFFFFFFFFFF3806FFFFFFFFFFFF3906FFFFFFFFFFFF3A06FFFFFFFFFFFF3B06FFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C06FFFFFFFFFFFF3D06FFFFFFFFFFFF3E06FFFFFFFFFFFF4004FFFFFFFF4106FFFFFFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA103CCC021",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B106FCFFFFFF0000B206FFFF00000000B302CC70B404C0000000B5023C00B706E00000000000C004FFFFFFFFC10430000000C204FF000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C304C0000000C406E0FFFBFFFFFCC506E03FFF3F0000C606CC0000000000D106F7738FFFFFFFD204C0000000D301E0D406800000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D506F8FCFFFC0000E004FFFFFFFEE108FF00FFFF00FFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036206F880000000006306FFFF800000007104800000008004FFFFFFFF8106C800000000008206C8000000000083068000000000008406C00000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8038506C000000000008606FFFF00000000A004FFFFFFFFB5023C00C004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014104FFFFFFFF4204FFFFFFFF4304FFFFFFFF4404FFFFFFFF4B01FF4C02FFFF5301FF5501FF6004FFFFFFFF6101FF7602FFFF7C01FF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801810441000508820400F800008901FF9804080000009A04C0000000A004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803E004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010337FFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010406FFFF00FFFF000501FF0601FF0A01FF0B01FF2004FFFFFFFF2102FFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF620AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801633AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801643AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016511FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6611FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016717FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6817FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801693BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016B3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016C3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016D3AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016E3AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016F35FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017035FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017128FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017228FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801733AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801743AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A537FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A637FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B41AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB51AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B61CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB71CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B816FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB916FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E102FFFFE205FFFFFFFFFFEC01FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE101FFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010004FFFFFFFF1102E38012027F0014020C001502FFFF1602FC002004FFFFFFFF2101FF2203FFFFFF2306FFFFFFFFFFFF2506FFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012606FFFFFFFFFFFF2706FFFFFFFFFFFF2806FFFFFFFFFFFF2906FFFFFFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFEE101FFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8020004FFFFFFFF0101F00301070401802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFFE101FFE205FFFFFFFFC0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014113FFFFFFFFFFFFFFFFFFFFFF8FFDFFFFFFFFFFFF4201FF520AFFFFFFFFFFFFFFFFFFFF5303FFFFFF6004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016138FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80162021FFF6337FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFF7E0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801651AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6606FFFFFFFFFFFF6706FFFFFFFFFFFF6808000000000000FF806905C0FFFF0000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A04CFFFFFFF6B01B06C01F87101FF7201FF7301FF7401FF7A08FFFFFFFFFFFFFFFF7B05FFFFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801651AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6606FFFFFFFFFFFF6706FFFFFFFFFFFF6808000000000000FF80690530FFFF0000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A04CFFFFFFF6B01306C01F87101FF7201FF7301FF7401FF7A08FFFFFFFFFFFFFFFF7B05FFFFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFE004FFFFFFFEF101FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013E0200804004FFFFFFFF4707FFFFFFFFFF00005901C06004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA501FFC004FFFFFFFFE004FFFFFFFFE101FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFF7C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFC102FFFFC201FFE004FFFFFFFFE101FFE205FFFFFFF7C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011402FFFF1502FFFF1602FFFF1702FFFF1A02FFFF1B02FFFF1C02FFFF1D02FFFF2004FFFFFFFF2101652204FFFFFFFF2404FFFFFFFF280101",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012904FFFFFFFF2A04FFFFFFFF4004FFFFFFFF4104EF0F0F0F4201074302FFFF4402FFFF4502FFFF4602FFFF4902FFFF4A02FFFF4B02FFFF4C02FFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014F02FFFF5002FFFF5102FFFF5202FFFF5502FFFF5601FF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80114070004000000FF002004FFFFFFFF2101792506FFFFFFFFFFFF3E010C3F02FFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE108FF00FFFF00FFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010A0D0000000002C000000000FF00000C0E000000FF00000000000000FF00001C02FF801D01201F03E020002004FFFFFFFF2101FF3A01303C01C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013D04D00048803F02E0FF4004FFFFFFFF410CFFFFFF0000000000000000004204FFFFFFFF4308FFFFFF00FFFFFFFF460CFFFFFFFFFFFFFF0000000000",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801470AFFFFFFFFFF00000000005A02FEFC5F02F3FE6004FFFFFFFF6109FFFF00FFFF00FF00006205FFFFFFFF00",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016310FFFF00000000FFFFFFFFFF0000000000670DFF0000000000000000000000007E03FF5B007F04FFDFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A408FFFFFFFFFFFFFFFFA60280FFBC0120BD04FF803FF0BE04FF803FF0C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80118023FFF19023FFF1A023FFF1B023FFF1C023FFF2004FFFFFFFF2101FF2201FF2401FF2501FF290207FF4004FFFFFFFF4102FFFF420101440101450101",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014601014701014802FFFF5701016004FFFFFFFF6101016201FF6801016901FF7101017201FF8004FFFFFFFF810101820101A004FFFFFFFFC004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFEE101FFE205FFFFFFF7C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFC101FFC203FFFFFFD004FFFFFFFFE004FFFFFFFEE108FF00FFFF00FFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFF7C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010D04FFFFFFFF0E04FFFFFFFF1601F01701FF1804FFFFFFFF1904FFFFFFFF1A04FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFF7C0",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "756A8015",
+        "Model": "lexus rx350 2014",
+        "Semantics": "UNKNOWN"
+    }
+]

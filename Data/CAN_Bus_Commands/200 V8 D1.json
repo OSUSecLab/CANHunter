@@ -1,0 +1,52 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "200 V8 D1",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "200 V8 D1",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "200 V8 D1",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "200 V8 D1",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "200 V8 D1",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "200 V8 D1",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "200 V8 D1",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "200 V8 D1",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "711",
+        "Model": "200 V8 D1",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "200 V8 D1",
+        "Semantics": "Immobilizer"
+    }
+]

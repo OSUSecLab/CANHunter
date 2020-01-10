@@ -1,0 +1,32 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Felicia",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Felicia",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "713",
+        "Model": "Felicia",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Felicia",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "711",
+        "Model": "Felicia",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Felicia",
+        "Semantics": "Immobilizer"
+    }
+]

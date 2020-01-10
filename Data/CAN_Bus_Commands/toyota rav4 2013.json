@@ -1,0 +1,1122 @@
+[
+    {
+        "Command": "7502AA80111",
+        "Model": "toyota rav4 2013",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502AA80311",
+        "Model": "toyota rav4 2013",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7E021C161C141534134232020324152464520040841710100",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C261C230523037300021030400000401",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0AA00EA00828210ED",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E121C25",
+        "Model": "toyota rav4 2013",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7A2A9005",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7C42189618910",
+        "Model": "toyota rav4 2013",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C42129612926",
+        "Model": "toyota rav4 2013",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7802105610501",
+        "Model": "toyota rav4 2013",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "7507021E25",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E0A801E8010004FFFFFFFF0134FFFFFFFFFF00FF00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A802E8020004FFFFFFFF0101FF0402101005021010060202020904030301010B04E0E000000F02FFFF1701FF1C030FFF011D04FF0000001F02FF002004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A8037FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E1A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7C0A8017FA878",
+        "Model": "toyota rav4 2013",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A8027FA878",
+        "Model": "toyota rav4 2013",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A8037FA878",
+        "Model": "toyota rav4 2013",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF0202FFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0D06FFFFFFFFFFFF110480F000001204F8000000130400400000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF0601201103E080001203820000130380000014038000001503F080002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF0D06FFFFFFFFFFFF110480F000001204F8000000130400400000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "750B5A801E8010004FFFFFFFF0202FFFF11063C3007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF3203FFFFFF3306FFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A802E8020004FFFFFFFF0101400301040401610501802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "750B5A803E8030004FFFFFFFF11063C3007000000120620F8000000001306F8F8F80000002004FFFFFFFF3101FF4004FFFFFFFF6004FFFFFFFF6106800000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF2101FF2201FF2401FF2501FF2601FF2901FF2A01FF2B02FFFF2C02FFFF3C01FF3D01FF4004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF0201FF1301FF1401FF1701FF1902C0C02004FFFFFFFF2101FF2201FF2301FF2401FF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A803E8030004FFFFFFFF0101FF0201FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF81044100050A820400F800E08404001000008504F8000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "780A801E8010004FFFFFFFF0101FF0202FFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8027FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "780A8037FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "750ADA801E8010004FFFFFFFF0103FF07400301800401880501880601FF070108080140E004FFFFFFFFE101FFE204FFFFFFF7",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA802E8020004FFFFFFFF0101C0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "750ADA803E8030004FFFFFFFF020140",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "75067A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "750E9A801E8010004FFFFFFFF0202FFFF1102E38012027F0014020C001502F0FF1602FC002004FFFFFFFF2101FF2203FFFFFF2306FFFFFFFFFFFF2506FFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A802E8020004FFFFFFFF0101F00401802004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750E9A8037FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "REMOTE_ENGINE_STARTER"
+    },
+    {
+        "Command": "7B4A801E8010004FFFFFFFF0101FF0202FFFF0301FF0401FF0701FF0801FF0902FFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A802E8020004FFFFFFFF01020101",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7B4A8037FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7D0A801E8010004FFFFFFFF0202FFFF2004FFFFFFFF210901362C1E720E0EAC084004FFFFFFFF4201FF520AFFFFFFFFFFFFFFFFFFFF6004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A802E8020004FFFFFFFF2004FFFFFFFF2201022304FE0000004004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "7D0A8037FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "75041A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75042A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "7B1A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "750E0A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "THEFT_DETERRENT"
+    },
+    {
+        "Command": "75090A801E8010004FFFFFFFF010388888802048088FFFF0402F0E00504FFFFFFFF06040000FFFF09047F7DFF000A04FFFFFFFF1101C02004FFFFFFFF4004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A802E8020004FFFFFFFF0101E0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A803E8030004FFFFFFFF1101C0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75091A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75092A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75093A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "750B9A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "WINDOW_REAR_HATCH"
+    },
+    {
+        "Command": "750A1A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A2A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "750A4A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "750A7A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "750B8A801E8010004FFFFFFFF110268402004FFFFFFFF2101FE3101F84004FFFFFFFF4102631F5101C06004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA104FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750B8A802E8020004FFFFFFFF0101801101D02004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750B8A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF4102631F5101C06004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750ABA801E8010004FFFFFFFF010238E0030351003C0401FF0501FF0601FF0701FF0802FFFF0902FFFF0A02FFFF0B02FFFF0E02FFFF0F02FFFF1002FFFF1102FFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA802E8020004FFFFFFFF0101FF0201012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "750ABA803E8030004FFFFFFFF0301012004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "75080A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75083A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_REAR_RIGHT"
+    },
+    {
+        "Command": "75085A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_REAR_LEFT"
+    },
+    {
+        "Command": "7508AA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508BA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508CA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_AC_REAR_RIGHT"
+    },
+    {
+        "Command": "7508DA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_AC_REAR_LEFT"
+    },
+    {
+        "Command": "750DCA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SEAT_DRIVER_SWITCH"
+    },
+    {
+        "Command": "750DDA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "CENTRAL_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "750DEA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "REAR_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "75070A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "HYBRID"
+    },
+    {
+        "Command": "790A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STABILIZER_FRONT"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STABILIZER_REAR"
+    },
+    {
+        "Command": "7502AA80111",
+        "Model": "toyota rav4 2013",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA8027FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7502AA80311",
+        "Model": "toyota rav4 2013",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF000406FF0000000000050FFFFFFFFF0000000000FFFFFF0000000604FF00FFFF0801FF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF0302939307042323E0E02004FFFFFFFF2102FFFF2202303028022727310608080202000036037F1F004004FFFFFFFF6004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A803E8030004FFFFFFFF03000B01800C01600E05FFFFFFFFFF0F0BFFFFFFFFFFFFFFFFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7A1A801E8010004FFFFFFFF0202FFFF0302FFFF0602FFFF0702FFFF0802FFFF0902FFFF0A02FFFF0B02FFFF0C02FFFF0D02FFFF1502FFFF1602FFFF1902FFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A8027FA812",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A803E8030004FFFFFFFF0201FF0301FF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "791A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "PRE_COLLISION"
+    },
+    {
+        "Command": "7A2A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "750ECA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750A5A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A6A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A8A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750DBA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STEERING_COLUMN_SWITCHES"
+    },
+    {
+        "Command": "750DAA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "7503BA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ADAPTIVE_SUSPENSION"
+    },
+    {
+        "Command": "75060A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "NIGHT_VIEW"
+    },
+    {
+        "Command": "744A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "DYNAMIC_REAR_STEERING"
+    },
+    {
+        "Command": "75002A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "7A3A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "75051A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "7504FA8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "750B0A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "7C1A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ELEC_POWER_CONTROL"
+    },
+    {
+        "Command": "727A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "GEAR_SELECTOR"
+    },
+    {
+        "Command": "7D2A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ELEC_PROPULSION_CONTROL"
+    },
+    {
+        "Command": "7E7A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "PLUG_IN_CONTROL"
+    },
+    {
+        "Command": "723A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "ACTIVE_ENGINE_MOUNT"
+    },
+    {
+        "Command": "75052A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "750C8A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010202FFFF032CFFFFFFFF0000FF00FF000000FF00FFFF00000000000000000000000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010428FFFFFFFFFFFF00000000FFFFFFFF000000000000FFFF000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80105300000FFFF0000FFFF0000FFFF000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010612FFFFFFFFFFFFFFFFFFFFFFFFFFFF000000002004FFFFFFFF2120FFFFFF000000000000FFFC000000000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012302FFFF250D0E1000A0F0E0A000040000C400260D0E1000A0F0E0A000040000C4002803FFFFFF3008FFFF0000FFFF0000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801311200000000000000FFFFFFFF000000000000003326FF00FFFF00000000000000000000FFFF00000000000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801371FFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFF20C7900000000000000000390B10100202E0000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013A29000000FF000000000000000000FFFF0000FFFF000000000000FFFF0000480000FFFF00000030000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C15FFFF0000FFFFFF00000000000000000000000000004004FFFFFFFF4115FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000FC",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801441DFFFFFFFFFFFF000000000000FFFFFFFFFFFF0000000000000000000000451AFFFFFF0000FFFFFFFF0000000000000000FFFFFF0000FF000FC0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801461AFFFFFFFFFF0000FFFFFFFFFFFFFFFFFFFF0000000000000000E0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015125FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00FFFF0000000000BCC0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015219FFFFFFFF0000000000000000FFFFFFFFFFFFFFFF0000000000541AFFFFFFFFFFFFFFFF00000000000000000000000000000000FFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015516FFFFFFFF00FF00000000000000000000000000000000570CFFFF0000FFFFFFFF000000006004FFFFFFFF8004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018118FFFFFFFFFFFF000000000000000000000000000000000000820AFFFF000000000000000083038000008504FFA01800A004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A138000000000000000000000000000000000000000000000000FFFFFFFF00000000FF00FF000000000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A2140000000000000000FFFF00000000FFFF00000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A436FFFFFFFF00000000FFFF0000FF00FF0000000000FFFF00000000000000000000FFFF0000000000000000000000000000FF00FF00FF00",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A527000000000000000000000000000000000000000000FF00FF00FFFF0000FFFF0000FF00FF00FF00",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A71AFFFFFFFFFFFF0000000000000000000000000000000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A822FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000FFFFFFFFFFFFFFFFFFFF00A914FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AA2AFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AB1AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAC0600000000FFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801AD26FF000000000000FFFFFFFFFFFF000000000000FF000000000000FFFFFFFFFFFF000000000000B005FFFFFFFFFFB108FFFFFFFFFFFFFF1F",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B20BFFFFFFFFFFFFFFFFFFFFFFB51EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C113FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F80C20DFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C31BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000C40FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C517FFFFFFFF00000000000000000000000000000000FF0000C610FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C71CFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000C908FFFF0F077EE0FFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D11EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE004FFFFFFFFE108FFFFFFFFFFFFFFFFE205FFFFFFFFF0E303A50100",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802230200FF2D0A1F1F0F0F0000030301013408FFFFFFFF000000003601FF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802E004FFFFFFFFE108FFFFFFFF00000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010004FFFFFFFF0202FFFF1207A18000001380021301FF2004FFFFFFFF2101FF2201FF2301FF2901FF4004FFFFFFFF4101FF6004FFFFFFFF6401FF6801FF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA10138A201E0A701C0AB0120AE01C0AF01C0C004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFDFF7C0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8020004FFFFFFFF01010F0201FF0301FF0903FFFE800A02FFE00B1402A0074EC911108000400002E800100D800040000D01FF2004FFFFFFFF4004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8026004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA10138A201E0A701C0AB0120AE01C0AF01C0C004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803E004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80114049A6700F0150470FC80C01704000000801B04800000002004FFFFFFFF2104800000003101FF3203FFFFFF3304FFFFFFFF3404FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013604FFFFFFFF3F04FFFFFFFF4004FFFFFFFF5604FFFFFFFF5704FFFFFFFF5E04002000006004FFFFFFFF640200006501806B04FCFCFCE06C04C000C000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA10480000000A20430E8D000A3043000C0C0A40460000000A504E0000000A60400800000A704D7FFFF00A80400000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801BB0400000000C004FFFFFFFFC904FFFFFFFFD404FFFFFFFFD504FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802A004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80314049A6700F0150470FC80C01704000000801B04800000002004FFFFFFFF2104800000003101FF4004FFFFFFFF5604FFFFFFFF5704FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8035E04002000006004FFFFFFFF6101806201006301006D01808004FFFFFFFF810180A004FFFFFFFFC004FFFFFFFFE004FFFFFFFEFD0180",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013406FFFFFFFFFFFF3606FFFFFFFFFFFF3706FFFFFFFFFFFF3806FFFFFFFFFFFF3906FFFFFFFFFFFF3A06FFFFFFFFFFFF3B06FFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8013C06FFFFFFFFFFFF3D06FFFFFFFFFFFF3E06FFFFFFFFFFFF4004FFFFFFFF4106FFFFFFFFFFFF4206FFFFFFFFFFFF6004FFFFFFFF8004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A004FFFFFFFFA103CCC021B106FCFFFFFFFC00B206FFFF00000000B302CC70B404C0000000B5021400B606000000010000B706E00000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFC10430000000C204FF000000C304C0000000C406E0FFD3FFD7F0C506E03FFF3F0000C606CC0000000000D106F7778FFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D204F0000000D301E0D406800000000000D506F8FCFFFC0000E004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8036206FEE0000000006306FFFF800000007104800000008004FFFFFFFF8106C800000000008206C8000000000083068000000000008406C00000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8038506E000000000008606FFFF00000000A004FFFFFFFFB5021400C004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014104FFFFFFFF4204FFFFFFFF4304FFFFFFFF4404FFFFFFFF4B01FF4C02FFFF5301FF5501FF6004FFFFFFFF6101FF7C01FF7E01FF8004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80181044100050A820400F800E08404001000008504F80000008601FF8901FF8A01FF8B01FF9804880000009A04C0000000A004FFFFFFFFC004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D101FFD203FFFFFFD304FFFFFFFFD404FFFFFFFFE004FFFFFFFFE108FFFFFFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFD101FFE004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010337FFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000FFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010406FFFF00FFFF000501FF0601FF0A01FF0B01FF0E01FF2004FFFFFFFF2102FFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF620AFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801633AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801643AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016511FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6611FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016717FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6817FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801693BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016A3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016B3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016C3BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016D3AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016E3AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016F35FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017035FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017128FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8017228FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801733AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801743AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A537FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A637FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B120FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B220FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B41AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB51AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B61CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB71CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B816FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB916FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E108FFFFFFFFFFFFFFFFE205FFFFFFFFFFE301FFEC01FF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012606FFFFFFFFFFFF2706FFFFFFFFFFFF2806FFFFFFFFFFFF2906FFFFFFFFFFFF2B06FFFFFFFFFFFF2C06FFFFFFFFFFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFC0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016138FFFF000000000000FFFF000000000000FFFF000000000000FFFF000000000000FFFF000000000000FFFF000000000000FFFF000000000000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80162021FFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016337FF000000000000FFFFFFFFFF000000000000FFFFFFFFFF000000000000FFFFFFFFFF000000000000FFFFFFFFFF000000000000FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFF7C0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFC102FFFFC201FFE004FFFFFFFEE101FFE205FFFFFFF7E0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011402FFFF1502FFFF1602FFFF1702FFFF1A02FFFF1B02FFFF1C02FFFF1D02FFFF2004FFFFFFFF21010122040000FFFF2801014004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014104EF0F0F0F4201074302FFFF4402FFFF4502FFFF4602FFFF4902FFFF4A02FFFF4B02FFFF4C02FFFF4F02FFFF5002FFFF5102FFFF5202FFFF5502FFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8015701FF5801FF5901FF5A01FF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFF7C0",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010A0D0000000000000000FFFFFFFFFF0C0E000000FF00000000000000FF00000F0BFFFFFFFFFFFFFFFFFFFFFF1C02FF801D01301F03C02000",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012004FFFFFFFF2101FF3A01303C01803D04D0800A003F02E0FF4004FFFFFFFF410CFFFFFF0000000000000000004204FFFFFFFF4308FFFFFF00FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801460CFFFFFFFFFFFFFF0000000000470AFFFFFFFFFF00000000005A02FEFC5F02F3166004FFFFFFFF6109FFFF00FFFF00FF00006205FFFFFFFF00",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016310FFFF00000000FFFFFFFFFF00000000007E03FF4B007F04FFDFFFFF8004FFFFFFFFA004FFFFFFFFA408FFFFFFFFFFFFFFFFA60280FF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801BB05FFFFFFFFFFBD04FF803FB0BE04FF803FB0C004FFFFFFFFE004FFFFFFFFE108FF00FFFFFFFFFFFFE205FFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8028004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E803A004FFFFFFFFC004FFFFFFFFE004FFFFFFFFF101FF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011A02FFFF1B02FFFF1C02FFFF2004FFFFFFFF2101FF2201FF4004FFFFFFFF4102FFFF4201FF4401FF4501FF4701FF4802FFFF5101FF5701FF5B01FF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF7101FF7201FF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFF",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "756A8015",
+        "Model": "toyota rav4 2013",
+        "Semantics": "UNKNOWN"
+    }
+]

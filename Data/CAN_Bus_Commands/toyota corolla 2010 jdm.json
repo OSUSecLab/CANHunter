@@ -1,0 +1,692 @@
+[
+    {
+        "Command": "7502AA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7E021C161C15A5A4531342320335A5A4645200402576B01",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C261C23132453731000003040000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021E261E2F6F3D9F300",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0AA007FAA11",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E121C25",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7A2A9005",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7C42189618930",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4212911",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "78021055",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "7507021E25",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E0A801E8010004FFFFFFFF0104FFFFFFFF0202FFFF0302FFFF0401FF0501FF0601FF0701FF0C02FFFF0D01FF0E01FF0F01FF1002FFFF1101FF1301FF1502FFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A802E8020004FFFFFFFF0101FF05021212060202020904030300000B0220200F01FF1701FF1C030FFF011D04FF0000002004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0A8037FA812",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E1A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7C0A8017FA878",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A8027FA878",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "7C0A8037FA878",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF1104000000001204F00000001404880300001504000000002004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF1103C0000012038000001303800000140340000015030000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF0906FFFFFFFFFFFF0A06FFFFFFFFFFFF0B06FFFFFFFFFFFF1104000000001204F00000001404880300001504000000002004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "750B5A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF2004FFFFFFFF2201FF2601FF3D01FF4004FFFFFFFF4B01FF5301FF5501FF6004FFFFFFFF8004FFFFFFFF8901FFA004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF19028080",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A8037FA811",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "780A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "750ADA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "75067A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "750E9A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "REMOTE_ENGINE_STARTER"
+    },
+    {
+        "Command": "7B4A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7D0A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "75041A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75042A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "7B1A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "750E0A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "THEFT_DETERRENT"
+    },
+    {
+        "Command": "75090A801E8010004FFFFFFFF010388000002048000FFFFE004FFFFFFFFE101FFE204FFFFFFFE",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A802E8020004FFFFFFFF0101C0",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A8037FA811",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75091A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75092A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75093A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "750B9A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "WINDOW_REAR_HATCH"
+    },
+    {
+        "Command": "750A1A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A2A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "750A4A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "750A7A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "750B8A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750ABA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "75080A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75083A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_REAR_RIGHT"
+    },
+    {
+        "Command": "75085A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_REAR_LEFT"
+    },
+    {
+        "Command": "7508AA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508BA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508CA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_AC_REAR_RIGHT"
+    },
+    {
+        "Command": "7508DA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_AC_REAR_LEFT"
+    },
+    {
+        "Command": "750DCA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SEAT_DRIVER_SWITCH"
+    },
+    {
+        "Command": "750DDA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "CENTRAL_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "750DEA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "REAR_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "75070A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "HYBRID"
+    },
+    {
+        "Command": "790A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STABILIZER_FRONT"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STABILIZER_REAR"
+    },
+    {
+        "Command": "7502AA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF000801FF1F02C0002004FFFFFFFF2101FF3D02C0003E028F803F02A0FF4004FFFFFFFF4204FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF03020303070222222004FFFFFFFF2102FFFF280207074004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A803E8030002FFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7A1A801E8010004FFFFFFFF0202FFFF03020FFF06023FFF0702FFFF0802FFFF0A0207FF0B0203FF0C0203FF0D02FFFF1502FFFF2004FFFFFFFF2101FF2201FF2301FF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A8027FA812",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A803E8030004FFFFFFFF02010103010F2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "791A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "PRE_COLLISION"
+    },
+    {
+        "Command": "7A2A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "750ECA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750A5A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A6A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A8A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750DBA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STEERING_COLUMN_SWITCHES"
+    },
+    {
+        "Command": "750DAA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "7503BA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ADAPTIVE_SUSPENSION"
+    },
+    {
+        "Command": "75060A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "NIGHT_VIEW"
+    },
+    {
+        "Command": "744A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "DYNAMIC_REAR_STEERING"
+    },
+    {
+        "Command": "75002A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "7A3A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "75051A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "7504FA8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "750B0A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "7C1A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ELEC_POWER_CONTROL"
+    },
+    {
+        "Command": "727A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "GEAR_SELECTOR"
+    },
+    {
+        "Command": "7D2A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ELEC_PROPULSION_CONTROL"
+    },
+    {
+        "Command": "7E7A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "PLUG_IN_CONTROL"
+    },
+    {
+        "Command": "723A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "ACTIVE_ENGINE_MOUNT"
+    },
+    {
+        "Command": "75052A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "750C8A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8011C01FF1F02FFFF2004FFFFFFFF2102FFFF2404FFFFFFFF2E01FF3001FF3102FFFF3301FF3404FFFFFFFF3C02FFFF3E02FFFF4004FFFFFFFF4202FFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014302FFFF4402FFFF4501FF4701FF4901FF4A01FF4C01FF4D02FFFF4E02FFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFB204FFFFFFFFB304FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B626FFFFFFFFFFFFFFFFFFFFFFFF00000000FFFFFFFFFFFFFFFF00FF0000FFFF0000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B72300000000FF0000FFFFFFFF00000000FFFFFFFF00000000000000000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B8260000000000000000000000000000FF00FFFFFF0000FFFFFFFFFF000000000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801B92400000000000000000000000000000000FFFF0000FFFF000000000000FFFFFFFFFFFFFF00BA0AFF00FFFF00FFFFFFFFFFC004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C112FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3FC20BFFFFFFFFFFFFFFFFFFFFFFD60AFFFFFFFFFFFFFFFF7F03",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D716FFFFFFFFFFFFFF0FFFFFFFFFFFFFFF7D0000FFFF00FF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801D924FF000000004785FFFF000000000000000000000000000000000000000000000000000000DA067F0400000000E004FFFFFFFFE102FFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205FFFFFFFFC0E302A101E608FEC7030000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E739FFFF00000000000000000000FFFFFFFFFFFF000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801EB1F0000FFFFFFFFFFFF0000000000000000000000000000000000000000000000EE0E0012022002000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801F00CFFFFFFFFFFFF000000000000F110FFFFFFFF000000000000000000000000F317FFFFFF0000FFFFFFFFFFFFFFFF0000000000000000FFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801F428FFFF0000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801F51400000000000000000000000000000000000000FFF623FFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801F90BFFFF00FFFF000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FA38000000000000000000000000FFFFFFFFFFFF000000000000FFFFFFFF00000000FF00FF000000000000000000000000000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FD2A00000000FFFF00000000000000000000FFFF000000000000000000000000000000000000000000000000",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8022D0A1F1F0000030301012121",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8010004FFFFFFFF1204818000001301FF2004FFFFFFFF2101FF2201FF2301FF2901FF4004FFFFFFFF6004FFFFFFFF6401FF8004FFFFFFFF8104FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801820CF0FFFFFFF0FFFFFFF0FFFFFF920FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA004FFFFFFFFA10108A501FFA701C0C004FFFFFFFFE004FFFFFFFFE101FF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E205001AD91100",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8020004FFFFFFFF01017F0201FF0301FF0401FF0902F7000A02FFE00B0B02E00700800110200000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8028004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFA10108A501FFA701C0C004FFFFFFFFE004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012104800000003101FF3203FFFFFF3304FFFFFFFF3404FFFFFFFF3604FFFFFFFF4004FFFFFFFF4604FFFFFFFF4704FFFFFFFF4804FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014904FFFFFFFF4A04FFFFFFFF4B04FFFFFFFF4C04FFFFFFFF4D04FFFFFFFF4E04FFFFFFFF5504FFFFFFFF6004FFFFFFFF6402FF006501806601FF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8018004FFFFFFFFA004FFFFFFFFA104A0000000A204C0F00000A30480008080A40480000000A504E0000000A70400000000C004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E101FFE205FFFFFFFFFFFE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802C004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8032104800000003101FF4004FFFFFFFF4604FFFFFFFF4704FFFFFFFF4804FFFFFFFF4904FFFFFFFF4A04FFFFFFFF4B04FFFFFFFF4C04FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8034D04FFFFFFFF4E04FFFFFFFF5504FFFFFFFF6004FFFFFFFF6101806201706301DC8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEFD0180",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014308FFFFFF00FFFFFFFF5E01F05F02F3066004FFFFFFFF6107FF000000FF00006205FFFFFFFF007F04FFDFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801BE03F00000C004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802E004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012401FF2501FF2601FF2701FF2801FF29020FFF4004FFFFFFFF4102FFFF4201014401016004FFFFFFFF8004FFFFFFFF820101A004FFFFFFFF",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFEE101FFE205FFFFFFF7C0",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "756A8015",
+        "Model": "toyota corolla 2010 jdm",
+        "Semantics": "UNKNOWN"
+    }
+]

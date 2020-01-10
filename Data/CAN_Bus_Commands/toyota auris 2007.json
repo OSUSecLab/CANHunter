@@ -1,0 +1,527 @@
+[
+    {
+        "Command": "7502AA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7E021C15",
+        "Model": "toyota auris 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021C25",
+        "Model": "toyota auris 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E021E25",
+        "Model": "toyota auris 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E0AA005",
+        "Model": "toyota auris 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E121C25",
+        "Model": "toyota auris 2007",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7A2A9005",
+        "Model": "toyota auris 2007",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "7C42189618920",
+        "Model": "toyota auris 2007",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4212911",
+        "Model": "toyota auris 2007",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "78021055",
+        "Model": "toyota auris 2007",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "7507021E25",
+        "Model": "toyota auris 2007",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E0A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "7E1A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "7C0A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "75040A801E8010004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF6402FF006501806601FF8004FFFFFFFFA004FFFFFFFFA104A0000000A204C0F00000",
+        "Model": "toyota auris 2007",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A802E8020004FFFFFFFF1103C080001203800000130380000014034000002004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "75040A803E8030004FFFFFFFF2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF6201706301DF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFEFD0180",
+        "Model": "toyota auris 2007",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "750B5A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ENTRY_SMART_KEY"
+    },
+    {
+        "Command": "7C4A801E8010004FFFFFFFF2004FFFFFFFF2201FF2601FF3D01FF4004FFFFFFFF4B01FF5301FF5501FF6004FFFFFFFF8004FFFFFFFF8901FF8A01FFA004FFFFFFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A802E8020004FFFFFFFF1301FF19028080",
+        "Model": "toyota auris 2007",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "7C4A8037FA811",
+        "Model": "toyota auris 2007",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "780A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "750ADA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "75067A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "750E9A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "POWER_SOURCE_CONTROL"
+    },
+    {
+        "Command": "750B6A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "REMOTE_ENGINE_STARTER"
+    },
+    {
+        "Command": "7B4A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ENGINE_START"
+    },
+    {
+        "Command": "7D0A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "75041A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "BLIND_SPOT_MONITOR"
+    },
+    {
+        "Command": "75042A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "BLIND_SPOT_MONITOR_SLAVE"
+    },
+    {
+        "Command": "7B1A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "750E0A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "THEFT_DETERRENT"
+    },
+    {
+        "Command": "75090A801E8010004FFFFFFFF010388000002048000FFFFE004FFFFFFFFE101FFE204FFFFFFFE",
+        "Model": "toyota auris 2007",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A802E8020004FFFFFFFF0101C0",
+        "Model": "toyota auris 2007",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75090A8037FA811",
+        "Model": "toyota auris 2007",
+        "Semantics": "WINDOW_DRIVER"
+    },
+    {
+        "Command": "75091A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "WINDOW_PASSENGER"
+    },
+    {
+        "Command": "75092A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "WINDOW_REAR_RIGHT"
+    },
+    {
+        "Command": "75093A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "WINDOW_REAR_LEFT"
+    },
+    {
+        "Command": "750B9A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "WINDOW_REAR_HATCH"
+    },
+    {
+        "Command": "750A1A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "DOOR_DRIVER"
+    },
+    {
+        "Command": "750A2A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "750A4A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "750A7A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "750B8A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "DOOR_HATCH"
+    },
+    {
+        "Command": "750ABA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_DRIVER"
+    },
+    {
+        "Command": "75080A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "75083A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_REAR_RIGHT"
+    },
+    {
+        "Command": "75085A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_REAR_LEFT"
+    },
+    {
+        "Command": "7508AA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_AC_FRONT_RIGHT"
+    },
+    {
+        "Command": "7508BA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_AC_FRONT_LEFT"
+    },
+    {
+        "Command": "7508CA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_AC_REAR_RIGHT"
+    },
+    {
+        "Command": "7508DA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_AC_REAR_LEFT"
+    },
+    {
+        "Command": "750DCA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SEAT_DRIVER_SWITCH"
+    },
+    {
+        "Command": "750DDA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "CENTRAL_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "750DEA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "REAR_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "75070A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ADAPTIVE_LIGHTS"
+    },
+    {
+        "Command": "7E2A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "HYBRID"
+    },
+    {
+        "Command": "790A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ADAPTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "75039A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "STABILIZER_FRONT"
+    },
+    {
+        "Command": "7503AA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "STABILIZER_REAR"
+    },
+    {
+        "Command": "7502AA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "TIRE_PRESSURE"
+    },
+    {
+        "Command": "7B0A801E8010004FFFFFFFF0202FFFF0305FFFFFFFF00050D0000FFFF0000000000000000000801FF0901FF0B01FF1F01C0",
+        "Model": "toyota auris 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A802E8020004FFFFFFFF03020202070222222004FFFFFFFF2102FFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7B0A803E803",
+        "Model": "toyota auris 2007",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "7A1A801E8010004FFFFFFFF0202FFFF03020FFF06023FFF0702FFFF0802FFFF0902FFFF0A0207FF0B0203FF0C0203FF0D02FFFF0E01031502FFFF16023FFF1702FFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A8027FA812",
+        "Model": "toyota auris 2007",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "7A1A803E8030004FFFFFFFF01010102010103010F2004FFFFFFFF4004FFFFFFFF6004FFFFFFFF8004FFFFFFFFA004FFFFFFFFC004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota auris 2007",
+        "Semantics": "STEERING_ASSIST"
+    },
+    {
+        "Command": "791A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "PRE_COLLISION_2"
+    },
+    {
+        "Command": "781A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "PRE_COLLISION"
+    },
+    {
+        "Command": "7A2A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "SELF_PARK"
+    },
+    {
+        "Command": "750ECA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "MASTER_WINDOW_SWITCH"
+    },
+    {
+        "Command": "750A5A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "MIRROR_RIGHT"
+    },
+    {
+        "Command": "750A6A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "MIRROR_LEFT"
+    },
+    {
+        "Command": "750A8A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "750DBA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "STEERING_COLUMN_SWITCHES"
+    },
+    {
+        "Command": "750DAA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "7503BA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ADAPTIVE_SUSPENSION"
+    },
+    {
+        "Command": "75060A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "NIGHT_VIEW"
+    },
+    {
+        "Command": "744A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "DYNAMIC_REAR_STEERING"
+    },
+    {
+        "Command": "75002A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "LANE_ASSIST"
+    },
+    {
+        "Command": "7502CA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "7A3A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "75051A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "FRONT_LIGHTS"
+    },
+    {
+        "Command": "7504FA8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "REAR_ELEC"
+    },
+    {
+        "Command": "750B0A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "RAIN_SENSOR"
+    },
+    {
+        "Command": "7C1A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ELEC_POWER_CONTROL"
+    },
+    {
+        "Command": "727A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "GEAR_SELECTOR"
+    },
+    {
+        "Command": "7D2A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ELEC_PROPULSION_CONTROL"
+    },
+    {
+        "Command": "7E7A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "PLUG_IN_CONTROL"
+    },
+    {
+        "Command": "723A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "ACTIVE_ENGINE_MOUNT"
+    },
+    {
+        "Command": "75052A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "750C8A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801A30480008080A40460400000A504E0000000C004FFFFFFFFE004FFFFFFFEE101FFE205FFFFFFFFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FE20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801FF20FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E802C004FFFFFFFFE004FFFFFFFE",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "75038A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8012004FFFFFFFF2101FF3D02C0003E028F803F02A0FF4004FFFFFFFF4206FFFFFFFF00004308FFFFFF00000000005E01F05F02FF00",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8016004FFFFFFFF6107FF000000FF00006205FFFFFFFF007F04FFDFFFFF8004FFFFFFFFA004FFFFFFFFBE02F000",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801C004FFFFFFFFE004FFFFFFFFE101FFE205FFFFFFFFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E80118023FFF19023FFF1A023FFF1B023FFF1C023FFF2004FFFFFFFF2101FF2201FF2401FF2501FF290207FF4004FFFFFFFF4102FFFF420101440101450101",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E8014601014701015701016004FFFFFFFF6101016201FF6801016901FF7101017201FF8004FFFFFFFF810101820101A004FFFFFFFFC004FFFFFFFF",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "E801E004FFFFFFFEE101FFE205FFFFFFF7C0",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "756A8015",
+        "Model": "toyota auris 2007",
+        "Semantics": "UNKNOWN"
+    }
+]

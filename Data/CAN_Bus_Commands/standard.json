@@ -1,0 +1,32 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "standard",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "standard",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "713",
+        "Model": "standard",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "standard",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "714",
+        "Model": "standard",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "standard",
+        "Semantics": "Instruments"
+    }
+]

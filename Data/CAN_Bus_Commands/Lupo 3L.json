@@ -1,0 +1,92 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Lupo 3L",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Lupo 3L",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Lupo 3L",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Lupo 3L",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Lupo 3L",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Lupo 3L",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "Lupo 3L",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "Lupo 3L",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "714",
+        "Model": "Lupo 3L",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Lupo 3L",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Lupo 3L",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Lupo 3L",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "711",
+        "Model": "Lupo 3L",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Lupo 3L",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "712",
+        "Model": "Lupo 3L",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "77C",
+        "Model": "Lupo 3L",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "754",
+        "Model": "Lupo 3L",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "Lupo 3L",
+        "Semantics": "Xenon Range"
+    }
+]

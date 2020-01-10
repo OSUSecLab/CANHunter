@@ -1,0 +1,1627 @@
+[
+    {
+        "Command": "121A805A800000076164310019000041312008062004FFFFFF000000000000FFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "121A9B5A9B19",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222300062300000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222301062301000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222302062302000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222303062303001",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232006232006464",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "1222321062321000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232407F2222",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "122232607F2222",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "181A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "191A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AUTO_TRANSMISSION"
+    },
+    {
+        "Command": "171A805A8000000727638304131010564420070515070013030520900401000000010000070540411900234130303732364B3030303732364B304630353041",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "171A9B5A9B13",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "1722300062300001125C32125C4B14A86416F4961B8DC82025FE251C01583258FEAA018C328CFE8C5510687D1964",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223001623001324104080014640A690A0000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "17223002623002A01DB41401FFFFFFFFFFFF0000B43C0382961700FF5A3CDC060000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSG_TRANSMISSION"
+    },
+    {
+        "Command": "781A805A80000009199261030105D0475520080622560017670B00C403031E000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "781A9B7F1A12",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "7822300062300012F5210E8001010101010F19191E0200",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FUEL_PUMP"
+    },
+    {
+        "Command": "791A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "291A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "011A805A8000000916562407090CA04E4B20080617080016D705000003280A000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "011A9B5A9B09",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230006230003F7A000783F2BD04",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300162300114080F3425FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300262300218100708061000000000505844612000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "0122300362300300FE",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230106230100424",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "012230117F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230113D3DF0F0060B060B06060B0B06060B0B06060B0B06060B0B06060B0B06060B0B06060B0B196464646464640000000000000000000000000064646464FAA8BC7D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230207F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623020016600220022402140210020002000800080FFFFFFFF03CF1100000000000000163A9B71",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230217F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302105050300322814147D6C718A83519C000014FF9BFF1E0C2800811E7D5EFFFFD9643E1EB82BB44B5727B44B6BA8FF3E7D2E532E6257A8FF3EB5385A456271002F",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230227F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302296006E01000096FFFF00FF6E9600010304BC5C005A735A91665B540032556AFF00FFFF4A3A46A13638661F35FF00FF003F5931FFFFFF2D624CFF4B361B1FFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230237F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302339181D1919176019322F362217193FFF631E2851452258623F5FFFFF326AFF6A95FF63FF000094FF00FFFF633F6BA16D38FF1F723226C826DF6D3CFFFFFF48E3",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230247F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "62302478FF4BFF5167FFFF512A4A23122C252A524B2D3F2C232AFF8A211B564E26667F3F4BFFFF2F016D45A570A7A570A7FFE0706D8DFFFF9A71483254339C3E484A70",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230257F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230254B58356D20647D700F0219504B191E7812325E3500000104040404011919195C0A02080D3201AE01569C601E004E75170076FF0001FF9EFF79BC1E0008182005",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230267F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "6230261818082012200005AF849CAF9C0064000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000E0C463DB",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "012230277F2278",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DSC"
+    },
+    {
+        "Command": "623027020A02020A070102140A010D01A501509C8C2D64327B6B961B4802210A49836C05037796C82A260271080032191964000000000000000000B879EDA3",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "0E1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "091A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CENTER_SAFETY"
+    },
+    {
+        "Command": "0A1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "B_PILLAR_LEFT_SAFETY_2"
+    },
+    {
+        "Command": "601A805A800000092216310E0808D05251200806261000176BA345C0030300000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "601A9B5A9B08",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223000623000F3ED0A041F35001E0A1E0A1EEB2A0114FF0F",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300162300125FFFFFFFFFFFFFFF7FFFFFFFFFFFFFFFFFFFFFFFFFFFFBFFFFFFFFFEFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFBFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFFFFF7A0300",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300262300200B25E4DA1AA5F55A0",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230036230030E0E",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223004623004902BD56B2303200500000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223005623005BD20400A0582030377002C3A40460018293137",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "602230066230061EFFFFFFFF7D0A32025F00BA0172020403D4033C001301F901E102D403FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223007623007F60303FFFFF6",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223008623008092840DC052C013C00100E5046FFFFE01E101857",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300962300911500A414891309118C2189201923030C3C29291C1C1D1C39332FFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022300A7F2210",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "6022305062305044CA3F0F0F70F33BCF00C6",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223106623106DCFE0000000000130F00000000000000000000F00000000000406000000000000000000000011078C8B0FFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223B02623B02F8E21A00E21A02E23A00E21A00E21A00",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C03623C030525101020",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C04623C045F012678",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "60223C0F623C0F18081000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CD_CHANGER"
+    },
+    {
+        "Command": "1C1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "INSTRUMENT_CLUSTER"
+    },
+    {
+        "Command": "301A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DYNAMIC_MANAGEMENT"
+    },
+    {
+        "Command": "201A805A8000000678280103001000454720080611750012380A0100030A03000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "201A9B5A9B00",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "POWER_STEERING"
+    },
+    {
+        "Command": "211A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TPMS"
+    },
+    {
+        "Command": "161A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ACTIVE_CRUISE_CONTROL"
+    },
+    {
+        "Command": "021A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ADAPTIVE_STEERING"
+    },
+    {
+        "Command": "231A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "STEERING_COLUMN"
+    },
+    {
+        "Command": "391A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ACTIVE_ROLL_STABILIZATION"
+    },
+    {
+        "Command": "381A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "EDC_REAR_RIGHT"
+    },
+    {
+        "Command": "2A1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AIR_SUSPENSION"
+    },
+    {
+        "Command": "711A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "401A805A80000009227053C40906A0534120080624040000000205080303000000000000069438063031393030303432385444303034323854444632303653",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "401A9B5A9B09",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221010621010574241574C373335583850583434363132",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210116210111466040F2302C008085064",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221012621012304133354C434433",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402210136210133030303030080808",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221014621014000806FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40221A907F2212",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300062300017760241381E1E000F0E081E4700DB00000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230016230016A69A1060200100218004404BB0000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "402230026230022602F37F00000523052333190F051E14000A000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300362300342051408083C280009030000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223004623004820505140209AA280B3203000100",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223005623005970A05270000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "4022300662300600000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F00623F00024134189594FFDEC5D34214D5B23913",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F01623F0141041041041041041041041041041042",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F02623F02118E14946525554A3552DA24D16544D0",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F03623F0351345451151565461851951486252E85",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F04623F044D745504954175524154915524954945",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F05623F05535155145564D55D0590656490593656",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F06623F065155975D66535995168615A1896D6861",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F07623F0724D85156154185536175994956618448",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F08623F085065032B4D04AF9A9CC000FFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F09623F09FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0A623F0AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0B623F0BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0C623F0CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0D623F0DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0E623F0EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "40223F0F623F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TRAILER"
+    },
+    {
+        "Command": "411A805A8000000914799708070750484A2007083146001057060200030300000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "411A9B7F1A12",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CAR_ACCESS_SYSTEM"
+    },
+    {
+        "Command": "501A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ALARM"
+    },
+    {
+        "Command": "641A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ALARM_SENSORS"
+    },
+    {
+        "Command": "671A805A8000000912534801000AF844552006082422001221040002030A00000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "671A9B7F1A12",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "PDC"
+    },
+    {
+        "Command": "651A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ERGO_COMMANDER"
+    },
+    {
+        "Command": "701A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CENTER_CONSOLE_SWITCH"
+    },
+    {
+        "Command": "221A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "LIGHT_SWITCH"
+    },
+    {
+        "Command": "5F1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ADAPTIVE_LIGHT"
+    },
+    {
+        "Command": "721A805A8000000916670910090E60524C200806260900130905503D0400050000000000091319390005144330303931355730303039313557304631383041",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "721A9B7F1A12",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72221010621010574241574C373335583850583434363132",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72221A907F2212",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300062300080073000002805AAFF00000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223001623001508A3E4046961C2305640A07070D0A0D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230026230021E32080A32191E104030143D19150000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230036230033701060C64AF961E400F0A320A50781A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223004623004641432641E0AFE0A0628023C96060A20",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230056230053701060C64AF961E400F0A320A50781B",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223006623006641432641E0AFF0A0628023C96060A20",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223007623007080510080803731660823C4E01052328",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222300862300804EA2E21000041463064D42A00000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223009623009C7E26400C7005A00C7005A00E8142300",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223010623010C7002300282D506E8C1E4664060F0C03",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222301162301164383032280550303664642D4182AA43",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722230126230123012FD12FE120EFD0EFE0E7E9D663598",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223013623013B08B1864640813817232619012F80032",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223400623400C3CF807FCFCF807F0A10401401200000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223401623401CFCF807FD70000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340262340256473038990711EE011414014001C000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223403623403F1050900000000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234046234042EB30AC905003C0A9E00000000007100",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223405623405957100802A0020001453011115000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234066234060010FF1FFF1F8D0B2C0CBB0B050B7C04",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223407623407380E2106FF1FFF1F8D0BBB0BBB0BD80A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234086234080010001000106D4A0002000E0E001000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234096234092D0C050BFF1FFF1FFF1FDCE92BA10010",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340A62340A2A277FD77AA90A0A5614043780888888",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340B62340B88715E51473F362F2F2F2F2F2F2F9B4F",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340C62340C00009D00000000300000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340D62340D0007B2033C141405C8220A0000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340E62340E2112071000C80C051455000500000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222340F62340F00000032461921000A1B00320F000514",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234106234100010230338052D08001021068D0B0106",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234116234113E0501010501003A000024480C0C0010",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234126234120000000005040ABB1C073F1A35910555",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341362341300000000000000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722234146234140EFF7E60283202401D2B098828001439",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223415623415282428242827142F2827282700000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341662341600030003000300030003000300000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341762341700000000000000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222341862341800000000000000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350062350045003137313130365A5D010400144200",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235016235017CB0207DA1596B7CB0207DA1596BB08C",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350262350200000000000000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235036235031E070832E6D296050C0F2300D503A120",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350462350406070B1182C2000006070B000000B4BA",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "722235056235051250500A26052D066368000000A5A54B",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223506623506432A1111393C3C1B1812060610FFA48E",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350762350782822F2D2D11064F4FFF285AA014B32D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350862350835160000000000000B00000000008187",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350962350901039B6403E6E1327800000000006062",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350A62350A000C1919040800000001AA163C3C22E4",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350B62350BD93E2103968CFF0192000055502CE4BE",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350C62350C00A02C0012AF000016281818120059A6",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350D62350D1E2420C83C500600030000033C50DB44",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350E62350E24FFFFFFFFFFFFFFFFFFFFFFFFFFB5B6",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "7222350F62350F3C2A0A0A952DFFFFFFFFFFFFFFFF8113",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F00623F00024134189594FFDEC5D34214D5B23913",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F01623F0141041041041041041041041041041042",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F02623F02118E14946525554A3552DA24D16544D0",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F03623F0351345451151565461851951486252E85",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F04623F044D745504954175524154915524954945",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F05623F05535155145564D55D0590656490593656",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F06623F06515520000433CC010000359B896D6861",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F07623F0724D85156154185536175994956618448",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F08623F085065032B4D04AF9A9CC000FFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "72223F09623F09FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FULL_BEAM_ASSIST"
+    },
+    {
+        "Command": "271A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "JUNCTION_BOX_PASSENGER"
+    },
+    {
+        "Command": "431A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "PASSIVE_GO_SYSTEM"
+    },
+    {
+        "Command": "241A805A80000007199885C5040CD4504620080624070013F405330003033C000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "241A9B5A9B04",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "MICRO_POWER"
+    },
+    {
+        "Command": "561A805A80000009210353040605A048432006032302000C03050206030300000008",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "561A9B7F1A12",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "562230007F2E78",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300094BF100101017F420007",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230017F2E78",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623001A6140528000000002B1ADFF300073E7E5F64CCC60000000007",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230027F2E78",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623002024E05BE00C80222030C03840200000007",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230037F2E78",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300307141E1C140DFF0203030211146405050F0F030D0A194605007D3E060032AA000011110706050303030303282814140C0D0A0A0A2307",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230047F2E78",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "623004070F64211014F00203030214146405051914071E10101005007D3E0307F0A0070582820808080807090B070B08080808080808080808087D7D0F10100E1015151515120F0F0F0F0F0F0F0F0F0F07",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230057F2E78",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300500BE00CC00E7011D0152018801BE01F4027B0301040F051C062907800D0D0D3607",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "562230067F2E78",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "62300600FA00F00FC85402080639993C1E4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "441A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CENTER_ROOF"
+    },
+    {
+        "Command": "6B1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "SLIDING_ROOF"
+    },
+    {
+        "Command": "451A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "POWER_TAILGATE"
+    },
+    {
+        "Command": "6D1A805A8000000919693805150C50534E2008062524000A14070E000303030000000000069264190107663630323431455A3030323431455A304631353041",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D1A9B7F1A12",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300062300000020101",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223001623001FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223002623002FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223003623003FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223004623004FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223005623005FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223007623007FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223008623008FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223009623009AA",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300A62300AFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300B62300BFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300D62300DFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22300F62300FFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223010623010341A014F06",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230116230115322061A3240FFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301262301253FFFFFFFFFF1EFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223013623013532906164B7A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301462301453320619345B",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301562301553320722346D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230166230165319040E1224",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22301762301750100409121D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230186230185038060C1F4D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223019623019501C060C1C46",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302062302001",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223021623021E0311E",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223022623022060141110100",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D2230246230246E01",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22302562302500008303E80AF00BB80320000E",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303062303055060A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303162303124272C38C86408641923292F08C864083C196464C101240B0F1E32340C",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303462303482",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D22303562303504",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6D223036623036000BB8214A0286002101180000017C000001CA0064021D00CC02780143030701F639",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DOOR_FRONT_RIGHT"
+    },
+    {
+        "Command": "6E1A805A8000000919693805150C50534E2008062524000A12070E000303030000000000069264190107665430323431455A3030323431455A304631353041",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E1A9B7F1A12",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300062300000020101",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223001623001FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223002623002FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223003623003FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223004623004FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223005623005FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223007623007FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223008623008FF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223009623009AA",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300A62300AFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300B62300BFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300D62300DFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22300F62300FFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223010623010341A015F06",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230116230115322061A3240FFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301262301253FFFFFFFFFF1EFFFF",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223013623013532906164B7A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301462301451320619345B",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301562301551320722346D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230166230165319040E1224",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22301762301750100409121D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E2230186230185038060C1F4D",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223019623019501C060C1C46",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302062302001",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223021623021E0311E",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223022623022060111110100",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223024623024DA00",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22302562302500008303E80AF00BB80320000E",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303062303055060A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303162303124272C38C86408641923292F08C864083C196464C101240B0F1E323418",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303462303482",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E22303562303504",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "6E223036623036000BB8214A0286002101180000017C000001CA0064021D00CC02780143030701F639",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN_0D"
+    },
+    {
+        "Command": "591A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "SEAT_PASSENGER"
+    },
+    {
+        "Command": "5A1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "EDC_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "ACTIVE_BACKREST_PASSENGER"
+    },
+    {
+        "Command": "371A805A80000009181745D7030670464E2008070149000972080900030103000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "371A9B5A9B03",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "372230006230000A0A0000000000000000000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AGENCY"
+    },
+    {
+        "Command": "3F1A805A80000009185546C30A0A0049452008061210000A94061100000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3F1A9B5A9B0A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "AMPLIFIER"
+    },
+    {
+        "Command": "3C1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "631A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CCC"
+    },
+    {
+        "Command": "261A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "731A805A8000000915197917020A3049412008062517000BF5060900030300000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "731A9B5A9B02",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "BLUETOOTH"
+    },
+    {
+        "Command": "741A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CENTRAL_INFO_DISPLAY"
+    },
+    {
+        "Command": "3B1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "CENTRAL_INFO_DISPLAY_REAR"
+    },
+    {
+        "Command": "531A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "5B1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "RADIO"
+    },
+    {
+        "Command": "361A805A800000092310881816063255422009101584001F3D0D0103FFFFFF000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "361A9B5A9B16",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "DIGITAL_RADIO"
+    },
+    {
+        "Command": "471A805A80000009185625050C06D049462008061110000A94070700000000000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "471A9B5A9B0C",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "541A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "TUNER"
+    },
+    {
+        "Command": "4B1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "311A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "VIDEO"
+    },
+    {
+        "Command": "3A1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "MULTIMEDIA_CHANGER"
+    },
+    {
+        "Command": "3D1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "HEADPHONE_INTERFACE"
+    },
+    {
+        "Command": "611A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "HEAD_UP_DISPLAY"
+    },
+    {
+        "Command": "621A805A80000009185626420809D0464D2008061210000A9405682B030300000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "621A9B5A9B08",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "FLEXIBLE_BUS_INTERFACE"
+    },
+    {
+        "Command": "7A1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A11A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A21A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A71A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A81A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A51A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A61A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A805A80000009187546020A0DD04E522005122109001D88083F00030A00000000",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "001A9B5A9B0A",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AD1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "AE1A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "A01A805",
+        "Model": "bmw 335i 2008 us",
+        "Semantics": "UNKNOWN"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "746",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "7B0",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Auto HVAC"
+    },
+    {
+        "Command": "70C",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "776",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Steering wheel"
+    },
+    {
+        "Command": "714",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "711",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "754",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "7BE",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Xenon Range"
+    },
+    {
+        "Command": "76D",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "7D7",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "TV Tuner"
+    },
+    {
+        "Command": "76B",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Telephone"
+    },
+    {
+        "Command": "7D5",
+        "Model": "A4 S4 RS4 B5",
+        "Semantics": "Telephone"
+    }
+]

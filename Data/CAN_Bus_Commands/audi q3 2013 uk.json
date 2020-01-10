@@ -1,0 +1,3207 @@
+[
+    {
+        "Command": "1F1A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F31B8000071B80101010601070108010A010C01140FFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F17E62F17E3150313230303337",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18762F1873855303930373436385120",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18962F18930303633",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F18C62F18C3337343150313335333030303438",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19162F1913855303930373436384720",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19762F197474154203443414E20314C204D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19862F1980004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F19E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A27F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A362F1A3483133",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1AA62F1AA4A35333320",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F22F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220600620600FBCF1A5A000100610353",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206016206010A",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F220607620607000000000800040000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F1A9F7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "1F2204A16204A1191F010D0101010002020000440901005506010015050100102D0100041301000303010020160000220A0000140C0000170705032514010309200101162A0101082C010142220101522301016224010172250101694300013D3A000105F600012BF700013C1C00056C4900015F4D01040E5800041E5000044753000457570004565200045319010046210101A5F90005A9F00000C0EF000013FF0005C6FA000B8CFB000BCEFC000B75FD000B51FE000B6D340001",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SATELLITE_RADIO"
+    },
+    {
+        "Command": "011A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ENGINE"
+    },
+    {
+        "Command": "151A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AIRBAG"
+    },
+    {
+        "Command": "161A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "STEERING_WHEEL"
+    },
+    {
+        "Command": "021A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TRANSMISSION"
+    },
+    {
+        "Command": "031A9B5A9B354E30363134313039415320303135300300CC840004BE0400314A3130342020204336203435304D205634334220",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A915A910E354E3036313431303941532020044B3033052D2D2D2DFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A9A7F1A12",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "031A865A860F303030303030303731363034363320474E4F2D30303031342E30362E31332D2D4830372D2D2D3034303031323335FF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0331B8000071B80101010201030104010601070108FFF0",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F17E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1877F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1897F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F18C7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1917F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1977F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1987F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1997F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F19E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A27F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A37F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1A57F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1AA7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0322F1DF7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206007F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206017F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206067F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206077F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206107F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206707F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206A07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206D07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032206407F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "032207307F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ABS"
+    },
+    {
+        "Command": "0D1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SLIDE_DOOR_LEFT"
+    },
+    {
+        "Command": "191A9B5A9B334141393037383031482020303031300300624E0004BE0400314A3534302045504234202056572D383635393420",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A915A910E33414139303738303148202020FF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A9A7F1A12",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "191A865A860F303030303030303131313139393620474E4F2D4B524230382E30362E313320204831392020203030303130323330FF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1931B8000071B8010101020103010401060107",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F17E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1877F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1897F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F18C7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1917F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1977F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1987F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1997F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F19E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A27F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A37F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1A57F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1AA7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "1922F1DF7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206007F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206017F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206067F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206077F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206107F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206707F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206A07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206D07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192206407F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "192207307F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CAN_GATEWAY"
+    },
+    {
+        "Command": "091A9B5A9B354E3039303931343452202033353031000000000004BE0400314550535F5A464C53204B6C2E2032393620202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A917F1A12",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A9A7F1A12",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "091A865A8601205A46302D31303331322E30362E313330304832323030303430383030343933FF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0931B8000071B80101010301060108",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F17E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1877F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1897F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F18C7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1917F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1977F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1987F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1997F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F19E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A27F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A37F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1A57F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1AA7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "0922F1DF7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206007F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206017F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206067F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206077F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206107F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206707F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206A07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206D07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092206407F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "092207307F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC"
+    },
+    {
+        "Command": "131A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AUTO_DIST_REG"
+    },
+    {
+        "Command": "1E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "MEDIA_PLAYER_2"
+    },
+    {
+        "Command": "051A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ACC_START_AUTH"
+    },
+    {
+        "Command": "481A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SEAR_REAR_DRIVER"
+    },
+    {
+        "Command": "3E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "MEDIA_PLAYER_4"
+    },
+    {
+        "Command": "5E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_REAR_LEFT"
+    },
+    {
+        "Command": "5C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "LANE_MAINTAIN"
+    },
+    {
+        "Command": "521A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DOOR_PASSENGER"
+    },
+    {
+        "Command": "4F1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_ELEC_2"
+    },
+    {
+        "Command": "5F1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "INFOTAINMENT"
+    },
+    {
+        "Command": "531A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_BRAKE"
+    },
+    {
+        "Command": "501A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SEAR_3RD_ROW"
+    },
+    {
+        "Command": "621A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "571A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TV_TUNER"
+    },
+    {
+        "Command": "4C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TIRE_PRESSURE_2"
+    },
+    {
+        "Command": "4E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_REAR_RIGHT"
+    },
+    {
+        "Command": "141A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SUSPENSION"
+    },
+    {
+        "Command": "061A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SEAT_MEM_PASSENGER"
+    },
+    {
+        "Command": "381A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ROOF_ELEC"
+    },
+    {
+        "Command": "391A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HEAD_LIGHT_RIGHT"
+    },
+    {
+        "Command": "291A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HEAD_LIGHT_LEFT"
+    },
+    {
+        "Command": "081A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HVAC"
+    },
+    {
+        "Command": "451A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "INTERCOM"
+    },
+    {
+        "Command": "2F1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TV_TUNER_DIGITAL"
+    },
+    {
+        "Command": "2E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "MEDIA_PLAYER_3"
+    },
+    {
+        "Command": "1D1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DRIVER_ID"
+    },
+    {
+        "Command": "041A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "STEERING_ANGLE"
+    },
+    {
+        "Command": "181A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AUX_HEAT"
+    },
+    {
+        "Command": "1B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "STEERING_ACTIVE"
+    },
+    {
+        "Command": "0C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "REAR_AXLE_STEERING_2"
+    },
+    {
+        "Command": "201A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "201A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2031B8000071B80102010301060107010801140FFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F17E62F17E4147313132373731",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18762F1873858303930373036334E20",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18962F18930373731",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F18C7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19162F1913858303930373036334E20",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19762F19742434D205051333520204D2020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1987F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F19E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A27F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A362F1A3313132",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1A562F1A5000076040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1AA62F1AA4A35313920",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206006206000E000A2CA805F1C0201841C00100094C43FF84AA206F912BE400878400C1",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206016206011E",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "20220607620607C00140000000000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206106206100047F7",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022067062067030303835",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206A06206A03855323935353131392020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206D06206D0483336",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "202206406206403855323935353131392020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "2022073062073057575333313620313330363036",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HIGH_BEAM_ASSIST"
+    },
+    {
+        "Command": "281A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "HVAC_REAR"
+    },
+    {
+        "Command": "211A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ENGINE_3_BATTERY_2"
+    },
+    {
+        "Command": "3C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "LANE_CHANGE"
+    },
+    {
+        "Command": "221A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "221A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2231B8000071B8010201060107011401080FFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18762F1873858303935393739334820",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18962F18930343135",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19162F1913858303935393739334820",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19762F19754534720464120202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1987F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F19E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A27F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A362F1A3483130",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1A562F1A50004BE040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1AA62F1AA4A33383620",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "22220600620600011806200001000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "2222060162060109",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "222207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AWD"
+    },
+    {
+        "Command": "231A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "231A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2331B8000071B8010201060107011401080FFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18762F1873858303935393739324820",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18962F18930343135",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19162F1913858303935393739324820",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19762F19754534720424620202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1987F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F19E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A27F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A362F1A3483130",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1A562F1A50004BE040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1AA62F1AA4A33383720",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "23220600620600011806200001000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "2322060162060109",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "232207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BRAKE_BOOSTER"
+    },
+    {
+        "Command": "251A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "251A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2531B8000071B8010201060107011401080FFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18762F1873858303935393739354320",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18962F18930343135",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19162F1913858303935393739354320",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19762F19754534720485220202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1987F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F19E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A27F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A362F1A3483037",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1A562F1A50004BE040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1AA62F1AA4A33383920",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "25220600620600010006200001000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "2522060162060109",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "252207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "IMMOBILIZER"
+    },
+    {
+        "Command": "341A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "LEVEL_CONTROL"
+    },
+    {
+        "Command": "261A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONVERTIBLE_ROOF"
+    },
+    {
+        "Command": "361A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SEAT_MEM_DRIVER"
+    },
+    {
+        "Command": "371A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "NAVIGATION"
+    },
+    {
+        "Command": "461A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CENTRAL_CONVENIENCE"
+    },
+    {
+        "Command": "471A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SOUND_SYSTEM"
+    },
+    {
+        "Command": "0E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "MEDIA_PLAYER"
+    },
+    {
+        "Command": "301A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SPECIAL_FUNC_2"
+    },
+    {
+        "Command": "271A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "321A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DIFFERENTIAL_LOCKS"
+    },
+    {
+        "Command": "1C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "POSITION_SENSING"
+    },
+    {
+        "Command": "401A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AC_COMPRESSOR"
+    },
+    {
+        "Command": "551A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "XENON"
+    },
+    {
+        "Command": "2B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "STEERING_COLUMN_LOCK"
+    },
+    {
+        "Command": "591A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TOW_PROTECTION"
+    },
+    {
+        "Command": "3A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "SPECIAL_VEHICLE_ASSIST"
+    },
+    {
+        "Command": "4B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "MULTIFUNC_MODULE"
+    },
+    {
+        "Command": "7101A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E01A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E01A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E031B800007F3112",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F17E7F2278",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F17E34314832382D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F18762F18730334C393036303138434E",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18962F18934393630",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F18C62F18C2020202020202020202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19162F19130334C3930363031384553",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19762F197523420322C304C204544432020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1987F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F19E62F19E45565F45434D323054444930313130334C393036303138434E00",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A262F1A2303033303036",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1A37F2278",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "62F1A3483238",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DOOR_REAR_LEFT"
+    },
+    {
+        "Command": "7E022F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1AA62F1AA4A20363233",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E022060062060000190012041501080000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206016206010A",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E02207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E21A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E11A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7E61A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "7131A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "73B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7521A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7121A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7511A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7461A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "71A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "76A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7151A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7151A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71531B800007F3112",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F17E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18762F1873855303935393635354220",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18962F18930353230",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F18C62F18C3030334C52523035483056322020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19162F1913855303935393635354220",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19762F19741697262616756572D41553130",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19862F198000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19962F199000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F19E62F19E45565F416972626141553130534D45415533313600",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A262F1A2303031303035",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A362F1A3483037",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1AA62F1AA4A32333420",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522F1DF62F1DF00",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060062060030393132313030303030554A305238553053",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060162060112",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71522060662060600000304050607000000000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7152207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7721A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7141A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7141A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71431B800007F3112",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F17E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18762F1873855303932303938304520",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18962F18930333330",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F18C62F18C3030303030303030303030303030",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19162F1913855303932303938304520",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19762F1974B4F4D42495F4D454449554D20",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19862F198000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19962F199000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F19E62F19E45565F4B6F6D62695F5544535F5644445F4155313000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A262F1A2413034333939",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A362F1A3483031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1AA62F1AA4A32383520",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060062060042CF00",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71422060162060103",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7142207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7111A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71131B800007F3111",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F17E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18762F1873855303932303938304520",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18962F18930333330",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F18C62F18C2020202020202020202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19162F1913855303932303938304520",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19762F197494D4D4F202020202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19862F198000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19962F199000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F19E62F19E45565F496D6D6F5F5544535F5644445F4155313000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A262F1A2413034313133",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A362F1A3483031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1AA62F1AA4A33333420",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "711220600620600000002",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "71122060162060103",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7112207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7541A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7541A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75431B800007F3112",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F17E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18762F1873858303930373335374320",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18962F18930303230",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F18C62F18C3133303631342D303030322D303337320000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19162F1913858303930373335374220",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19762F1972A2A2A2A4C575231322A2A2A2A",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19862F198000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19962F199000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F19E62F19E45565F486561646C526567756C426173696300",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A262F1A2303035303031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A362F1A3483032",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1A562F1A50004BE040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1AA62F1AA4A34333120",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "75422F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206006206001157941010002500",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206017F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7542207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "74A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "74B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7331A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "7341A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "74C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7231A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "71E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7E51A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CONTROL_HEAD_FRONT"
+    },
+    {
+        "Command": "71D1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "BATTERY_CHARGER"
+    },
+    {
+        "Command": "7551A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7571A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "72D1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "74E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "7691A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "6B81A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "AERODYNAMICS"
+    },
+    {
+        "Command": "7581A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEMATICS"
+    },
+    {
+        "Command": "7321A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "ENTRY_ASSIST_PASSENGER"
+    },
+    {
+        "Command": "76C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76F1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7451A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "72C1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "DOOR_REAR_RIGHT"
+    },
+    {
+        "Command": "7731A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "TELEPHONE"
+    },
+    {
+        "Command": "7671A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "76D1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "PARKING_ASSIST"
+    },
+    {
+        "Command": "7471A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "CHASSIS"
+    },
+    {
+        "Command": "2A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "071A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "3F1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5D1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "581A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "541A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D1A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D31B8000071B801020103010601070108010C011401160FFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F17E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18762F1873855303033353139334320",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18962F18930383031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F18C7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19162F1913855303033353139334120",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19762F197524D4320436E6374204E617620",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1987F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F19E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A27F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A362F1A3483534",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1AA62F1AA4A37393420",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22F1DF62F1DF00",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22060062060001010600020153070823020103010000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D22060162060113",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D220606620606000000000004",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "4D2207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "5A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "411A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9B5A9B385530383230303433442020303130300003000000000000000045383720204B6C696D61766F6C6C202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A915A910E3855303832303034334420202004483034033030FF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A9A5A9A0000000000003031303000000000FF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C1A865A860F3855303832303034334400202020204B4D4D2D4B4D4D31382E30362E313330304830343030303030303230363532FF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C31B8000071B801010102010301060107",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F17E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1877F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1897F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F18C7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1917F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1977F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1987F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1997F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F19E7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A27F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A37F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1A57F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1AA7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C22F1DF7F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206007F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206017F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206067F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206077F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206107F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206707F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206A07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206D07F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2206407F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2C2207307F2211",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2D1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "241A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2431B8000071B8010201060107011401080FFF",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F17E62F17E2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18762F1873858303935393739354320",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18962F18930343135",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F18C62F18C2D2D2D2D2D2D2D2D2D2D2D2D2D2D",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19162F1913858303935393739354320",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19762F19754534720484C20202020202020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1987F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1997F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F19E7F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A27F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A362F1A3483037",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1A562F1A50004BE040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1AA62F1AA4A33383820",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "24220600620600010006200001000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "2422060162060109",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "242207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "351A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "311A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "331A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "431A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "0B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "1A1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "491A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70E1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70B1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C1A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C31B800007F3112",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F17E62F17E4646303130303138",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18762F1873858303935333532314220",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18962F18930313430",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F18C62F18C3230313330363138333030343039",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19162F191354B303935333536394220",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19762F1974C454E4B532E4D4F44554C2020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19862F198000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19962F199000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F19E62F19E45565F534D4C534E47564F4C5753585300",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A262F1A2413031303034",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A362F1A3303136",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1AA62F1AA4A35323720",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206006206001084004000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C22060162060105",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206066206061F",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70C2207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70F1A9B5",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9B7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A917F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A9A7F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A1A867F1A11",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A31B800007F3112",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F17E62F17E3131303031303031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18762F1873858303931393437354D20",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18962F18930303531",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F18C62F18C3337303331333136333030343932",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19162F1913858303931393437352020",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19762F1975041524B48494C464520344B20",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19862F198000000000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19962F199000000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F19E62F19E45565F4550485641313441553231583030303000",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A262F1A2303032303035",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A362F1A3483033",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1A562F1A50004B6040031",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1AA62F1AA4A34343620",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22F1DF62F1DF40",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206006206000C0005",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A22060162060103",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206067F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206077F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206107F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206707F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206A07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206D07F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2206407F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    },
+    {
+        "Command": "70A2207307F2231",
+        "Model": "audi q3 2013 uk",
+        "Semantics": "UNKNOWN"
+    }
+]

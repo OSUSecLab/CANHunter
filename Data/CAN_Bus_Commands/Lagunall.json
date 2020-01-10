@@ -1,0 +1,712 @@
+[
+    {
+        "Command": "001810C0",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "001910C0",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "F1A07E8037FF111",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0020F1A0",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "212181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10C07E80250C0",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "003610C0",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21817E810156181564631447E8215A3042303634317E822353337303738FD7E823D8AAAAAAAAAAAA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "372181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21807E8101A6180303532307E821524434424530307E822333352008394A07E823054401010188AA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "382180",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B7E810635902FF0530177E821230226F3A102257E82216A1212016A1067E823571120040301217E824048877600488727E82550040929A101007E82616A1012A16A1017E8271517A1011017A17E828226321502263227E829500180295001807E82A17A1019017A1157E82B25F360056415237E82C210001A10638777E82DA103809661062B7E82EF750AAAAAAAAAA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "004019023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0100SEARCHING4100983B8011",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "530100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "540100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "550101",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "560100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "570100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "580101",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "5903",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6107",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6207",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00630A",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00640A",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "650100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "660100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "0101410100048000",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "670101",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6803",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "34300",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "6903",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7007",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "74700",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "7107",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00720A",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "00730A",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "740100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "01004100983B8011",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "750100",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "14FFFFFF7E8037F1422",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "009914FFFFFF",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "ATDPISO157654(CAN11500)",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "3E017E8017E",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1730",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "181003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "192181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "311003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "322181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "391003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "402181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "471003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "482181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003760037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "551003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181760101561815646314B760215430413036343176022393932313730B3760234C000000000000",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "562181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023BNODATA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "005819023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003762037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "641003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181762101561815646314B762215430413036343176222393932313730B3762234C000000000000",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "652181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B762035902B9",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "006719023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003763037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "731003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181763101561815646314B763215430413036343176322393932313730B3763234CFFFFFFFFFFFF",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "742181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B76310275902B9940313763211094041210940A763221210940B121094763230C4210C101001076324C1590010C181007632510D4008710FFFF",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "007619023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003764037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "821003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181764101561815646314B764215430413036343176422393932313730B3764234CFFFFFFFFFFFF",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "832181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B76407590239F0031628",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "008519023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003765037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "911003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181765101561815646314B765215430413036343176522393932313730B3765234CFFFFFFFFFFFF",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "922181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B76510AF5902B99578117652110957815109579765221528957C141095765237C1210957D141076524957D121095C001765251095B002105A807652655105A8054105A765278231105A829610765285A8331105A839676529105A8431105A847652A96105A8531105A7652B85961095D018A87652C95A0642895F4717652D1095334A1095307652E382095316810957652F3211109532121076520953511109536117652110953711109538765221110953B141095765233C1410953D141076524953E1410953F14765251095401410954276526961095C3151095765277512109575141076528957612109576147652910FFFFFFFFFFFF",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "009419023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1001003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1012181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "100376D037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1081003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "218176D101561815646314B76D215430413036343176D22393932313730B376D234C000000000000",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1092181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B76D10C35902B9921A1376D211092141310921576D221310921813109276D231913109230131076D249229131092231176D251092221110922176D261110921E11109276D27241110921A111076D289215111092141176D291092171110923276D2A1110921811109276D2B1911109229111076D2C9230111092321376D2D1092231210921A76D2E1210921812109276D2F2212109215121076D209219121092211276D211092141210922976D221210923012109276D231E12109217121076D249224121092321276D2510922D1210921C76D261110922511109276D27271110923A921076D289231181092341176D291092341210921276D2A1528921315289276D2B31111092311510",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "011119023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1171003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1182181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1251003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1262181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003772037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1331003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181772101561815646314B772215430413036343177222393932313730B3772234C3932313730B3",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1342181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B772075902A980DF1328",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "013619023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003775037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1421003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181775101561815646314B775215430413036343177522393932313730B3775234C3932313730B3",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1432181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B77510135902B950C64977521A8516C64A85168775226828F003682868",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "014519023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1511003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1522181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1591003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1602181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1671003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1682181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1751003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1762181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1831003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1842181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1911003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1922181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1991003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2002181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2071003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2082181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2151003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2162181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2231003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2242181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "10037E8037F1012",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2311003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "21817E8101561815646314B7E821543041303634317E822393932313730B37E8234CAAAAAAAAAAAA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2322181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "19023B7E8101F5902FF0087217E821200833642803807E822645003353150037E82335645005641C287E8241525F328AAAAAA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "023419023B",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2401003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2412181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2481003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2492181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "1003NODATA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2591003",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2181NODATA",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    },
+    {
+        "Command": "2602181",
+        "Model": "Lagunall",
+        "Semantics": "unknown"
+    }
+]

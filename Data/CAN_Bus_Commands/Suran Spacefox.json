@@ -1,0 +1,92 @@
+[
+    {
+        "Command": "7E0",
+        "Model": "Suran Spacefox",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E8",
+        "Model": "Suran Spacefox",
+        "Semantics": "Engine"
+    },
+    {
+        "Command": "7E1",
+        "Model": "Suran Spacefox",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "7E9",
+        "Model": "Suran Spacefox",
+        "Semantics": "Auto Transmission"
+    },
+    {
+        "Command": "713",
+        "Model": "Suran Spacefox",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "77D",
+        "Model": "Suran Spacefox",
+        "Semantics": "ABS Brakes"
+    },
+    {
+        "Command": "70E",
+        "Model": "Suran Spacefox",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "778",
+        "Model": "Suran Spacefox",
+        "Semantics": "Central Electronic"
+    },
+    {
+        "Command": "70A",
+        "Model": "Suran Spacefox",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "774",
+        "Model": "Suran Spacefox",
+        "Semantics": "Park/Steer Assist"
+    },
+    {
+        "Command": "714",
+        "Model": "Suran Spacefox",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "77E",
+        "Model": "Suran Spacefox",
+        "Semantics": "Instruments"
+    },
+    {
+        "Command": "710",
+        "Model": "Suran Spacefox",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "77A",
+        "Model": "Suran Spacefox",
+        "Semantics": "CAN Gateway"
+    },
+    {
+        "Command": "711",
+        "Model": "Suran Spacefox",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "77B",
+        "Model": "Suran Spacefox",
+        "Semantics": "Immobilizer"
+    },
+    {
+        "Command": "712",
+        "Model": "Suran Spacefox",
+        "Semantics": "Steering Assist"
+    },
+    {
+        "Command": "77C",
+        "Model": "Suran Spacefox",
+        "Semantics": "Steering Assist"
+    }
+]
