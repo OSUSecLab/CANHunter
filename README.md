@@ -5,15 +5,17 @@
 For more details about **CANHunter**, please refer to our paper [Automated Cross-Platform Reverse Engineering of CAN Bus Commands From Mobile Apps](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24231.pdf).
 
 
-## Dependency
+# Dependency
 To run **CANHunter**, the following dependencies need to be satisfied:
 
 - On your desktop / laptop
   - **IDA Pro**
   - **Frida**
-  - **Cycript**
   - **Soot**
   
 - On your smartphone (a jail-broken iPhone is required)
-  - **Frida** (must exactly match Frida version on your desktop / laptop)
+  - **Frida** (must exactly match the Frida version on your desktop / laptop)
   - **Cycript**
+
+# Run
+You must specified the **config.json** files according to your settings.
