@@ -19,3 +19,19 @@ To run **CANHunter**, the following dependencies need to be satisfied:
 
 # Run
 You must specified the **config.json** files according to your settings.
+
+
+
+# Citing
+
+If you create a research work based on our work, please citing the associated paper:
+```
+@inproceedings{CanHunter:NDSS20,
+  author    = {Haohuang Wen and Qingchuan Zhao and Qi Alfred Chen and Zhiqiang Lin},
+  title     = {Automated Cross-Platform Reverse Engineering of CAN Bus Commands from Mobile Apps},
+  booktitle = {Proceedings of the 27th Annual Network and Distributed System Security Symposium (NDSS'20)},
+  address   = {San Diego, CA},
+  month     = {February},
+  year      = 2020,
+}
+```
