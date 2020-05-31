@@ -24,7 +24,7 @@ You must specified the **config.json** files according to your settings.
 
 # Citing
 
-If you create a research work based on our work, please citing the associated paper:
+If you create a research work based on our work, please cite the associated paper:
 ```
 @inproceedings{CanHunter:NDSS20,
   author    = {Haohuang Wen and Qingchuan Zhao and Qi Alfred Chen and Zhiqiang Lin},
